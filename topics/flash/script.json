@@ -1,0 +1,9 @@
+{"accent":"#f472b6","file":"Phone_Storage_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Your phone holds thousands of photos on a chip smaller than a stamp. Where do they actually live?"},
+{"name":"cells","step":"01 · Memory cells","text":"Phone storage is flash memory. It's made of billions of tiny cells that can trap electric charge."},
+{"name":"bits","step":"02 · Ones and zeros","text":"Trapped charge, or no charge, stands for a one or a zero. And the charge stays even when the phone is switched off."},
+{"name":"levels","step":"03 · More per cell","text":"Modern chips store several bits in each cell, by trapping different amounts of charge. More levels means more storage in the same space."},
+{"name":"photo","step":"04 · A photo","text":"A photo is compressed into a few megabytes, millions of ones and zeros, spread across many cells."},
+{"name":"controller","step":"05 · The controller","text":"Cells slowly wear out with use, so a controller chip spreads your writes evenly across all of them. That's called wear levelling."},
+{"name":"space","step":"06 · How many photos","text":"That's how a one hundred and twenty eight gigabyte phone can fit tens of thousands of photos."},
+{"name":"outro","step":"Recap","text":"Cells, charge, bits, controller. Memories in a chip. Follow for more on how things really work."}]}

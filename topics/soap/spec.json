@@ -1,0 +1,9 @@
+{"accent":"#06b6d4","file":"How_Soap_Kills_Germs_9x16.mp4","buddy":["circle","#cffafe"],"outro":["Grab, break,","rinse."],"scenes":[
+{"name":"hook","step":"How it works","text":"Water alone can't wash off oily grime. Add a little soap, and it slides right away. What is soap doing?","emoji":"🧼","items":[["oily","water + oil = ✗"],["soap","add soap ✓"]]},
+{"name":"molecule","step":"01 · Two-faced molecule","text":"A soap molecule has two ends. A head that loves water, and a long tail that hates water but loves oil.","emoji":"🧪","items":[["head","💧 water-loving head"],["tail","🛢️ oil-loving tail"]]},
+{"name":"micelle","step":"02 · Micelles","text":"The tails dig into oil and grime, and the molecules surround it in tiny balls called micelles.","emoji":"⚪","items":[["dig","tails grab oil"],["micelles","micelles"]]},
+{"name":"germs","step":"03 · Breaking germs","text":"Many viruses and bacteria have a fatty outer layer. Soap tails wedge into it and can break it apart.","emoji":"🦠","items":[["fatty","fatty outer layer"],["break","soap breaks it"]]},
+{"name":"rinse","step":"04 · Rinse away","text":"The water loving heads face outward, so running water carries the micelles, and the dirt, down the drain.","emoji":"🚿","items":[["outward","heads face out"],["carries","water carries it away"]]},
+{"name":"twenty","step":"05 · Twenty seconds","text":"Scrubbing for about twenty seconds gives soap time to reach every gap, like between fingers and under nails.","emoji":"⏱️","items":[["twenty","~20 seconds"],["fingers","between fingers + nails"]]},
+{"name":"made","step":"06 · How soap is made","text":"Soap is made by reacting fats or oils with a strong alkali. This process is called saponification.","emoji":"🫕","items":[["fats","fats + alkali"],["saponification","saponification"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Grab the oil, break the germs, rinse it away. Follow for more on how things really work."}]}

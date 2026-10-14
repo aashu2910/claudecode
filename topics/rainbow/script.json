@@ -1,0 +1,46 @@
+{
+"accent": "#ec4899",
+"file": "How_Rainbows_Form_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "After rain, a perfect arc of colours appears in the sky. Where do all those colours come from?"
+},
+{
+"name": "white",
+"step": "01 · White light",
+"text": "Sunlight looks white, but it's actually a mix of all colours, from red to violet."
+},
+{
+"name": "bend",
+"step": "02 · Bending",
+"text": "When light enters a raindrop, it slows down and bends. This is called refraction."
+},
+{
+"name": "split",
+"step": "03 · Splitting",
+"text": "Each colour bends by a slightly different amount, so the white light fans out into a spectrum."
+},
+{
+"name": "reflect",
+"step": "04 · Bouncing back",
+"text": "Inside the drop, light reflects off the back, and comes out toward you, at about forty two degrees."
+},
+{
+"name": "position",
+"step": "05 · Sun behind you",
+"text": "That's why you only see a rainbow with the sun behind you. Millions of drops each send you one colour."
+},
+{
+"name": "double",
+"step": "06 · Double rainbow",
+"text": "A second bounce inside drops makes a fainter double rainbow, with its colours in reverse order."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Bend, split, bounce. Every drop a tiny prism. Follow for more on how things really work."
+}
+]
+}

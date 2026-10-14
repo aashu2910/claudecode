@@ -1,0 +1,46 @@
+{
+"accent": "#ef4444",
+"file": "GST_How_It_Works_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "Every bill you pay has a line that says GST. But who actually pays it, and why isn't it taxed again and again?"
+},
+{
+"name": "what",
+"step": "01 · What GST is",
+"text": "GST is the goods and services tax. One tax on things you buy, replacing many older taxes in India."
+},
+{
+"name": "chain",
+"step": "02 · Every step",
+"text": "It's charged at each step of the chain. From raw material maker, to manufacturer, to shop."
+},
+{
+"name": "credit",
+"step": "03 · Input tax credit",
+"text": "Each business subtracts the GST it already paid on its inputs. This is called input tax credit."
+},
+{
+"name": "value",
+"step": "04 · Only value added",
+"text": "So at every step, tax is effectively paid only on the value added, not on tax over tax."
+},
+{
+"name": "consumer",
+"step": "05 · Who pays",
+"text": "In the end, the full tax is carried by the final buyer. That's you, at the counter."
+},
+{
+"name": "split",
+"step": "06 · Where it goes",
+"text": "For sales within a state, it's split between the centre and the state, as CGST and SGST."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Charged at each step, credit for tax paid, final buyer pays. Follow for more on how things really work."
+}
+]
+}

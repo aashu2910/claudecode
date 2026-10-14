@@ -1,0 +1,46 @@
+{
+"accent": "#b91c1c",
+"file": "How_Blood_Types_Work_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "Blood looks the same in everyone, yet the wrong type in a transfusion can be dangerous. What makes blood types different?"
+},
+{
+"name": "antigens",
+"step": "01 · Antigens",
+"text": "Red blood cells carry markers on their surface, called antigens. The main ones are A and B."
+},
+{
+"name": "types",
+"step": "02 · Four groups",
+"text": "Have A, you're type A. B, type B. Both, type AB. And neither, type O."
+},
+{
+"name": "antibodies",
+"step": "03 · Antibodies",
+"text": "Your plasma has antibodies against the antigens you don't have. Type A blood attacks B cells."
+},
+{
+"name": "rh",
+"step": "04 · Positive or negative",
+"text": "Another marker, the Rh factor, decides positive or negative, like O positive."
+},
+{
+"name": "donors",
+"step": "05 · Donors",
+"text": "O negative red cells lack these main markers, so they're often used in emergencies, and called the universal donor."
+},
+{
+"name": "match",
+"step": "06 · Crossmatching",
+"text": "Before a transfusion, labs test and crossmatch blood carefully. This is general info, not medical advice."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Antigens, antibodies, and Rh. Match before you transfuse. Follow for more on how things really work."
+}
+]
+}

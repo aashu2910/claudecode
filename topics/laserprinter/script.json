@@ -1,0 +1,9 @@
+{"accent":"#60a5fa","file":"Laser_Printer_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"A laser printer prints a full page in seconds, and the paper comes out warm. Why warm? And where's the laser?"},
+{"name":"charge","step":"01 · Charged drum","text":"Inside is a rotating drum with a special coating. First, it's given an even electric charge all over."},
+{"name":"laser","step":"02 · Laser drawing","text":"A laser, bounced off a spinning mirror, sweeps across the drum. Wherever it hits, the charge changes, drawing your page invisibly."},
+{"name":"toner","step":"03 · Toner","text":"Toner is a super fine powder, also charged. It sticks only to the spots the laser drew, so the drum now carries your text."},
+{"name":"transfer","step":"04 · Onto paper","text":"The paper gets a charge too, strong enough to pull the toner off the drum and onto the page."},
+{"name":"fuse","step":"05 · The fuser","text":"Then hot rollers melt the toner and press it into the paper. That's why pages come out warm."},
+{"name":"vsink","step":"06 · Versus inkjet","text":"Inkjets spray tiny drops of liquid ink instead. Laser printers are usually faster and cheaper per page for lots of text."},
+{"name":"outro","step":"Recap","text":"Charge, laser, toner, heat. A page in seconds. Follow for more on how things really work."}]}

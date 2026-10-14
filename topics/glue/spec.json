@@ -1,0 +1,9 @@
+{"accent":"#a855f7","file":"How_Glue_Sticks_9x16.mp4","buddy":["circle","#f3e8ff"],"outro":["Flow in,","harden, hold."],"scenes":[
+{"name":"hook","step":"How it works","text":"A few drops of glue can hold two things together forever. Why does glue stick, but not to the inside of its bottle?","emoji":"🧴","items":[["glue","glue holds"],["bottle","not in the bottle?"]]},
+{"name":"flow","step":"01 · Flowing in","text":"Liquid glue flows into tiny cracks and bumps on a surface, that look smooth to us.","emoji":"🔬","items":[["cracks","fills tiny cracks"],["smooth","\"smooth\" isn't smooth"]]},
+{"name":"forces","step":"02 · Sticking forces","text":"Up close, glue molecules are attracted to the surface molecules. This is called adhesion.","emoji":"🧲","items":[["attracted","molecules attract"],["adhesion","adhesion"]]},
+{"name":"harden","step":"03 · Hardening","text":"Then it hardens. Some glues dry as water or solvent evaporates, others cure through a chemical reaction.","emoji":"🧱","items":[["evaporates","dry: liquid evaporates"],["chemical","cure: chemical reaction"]]},
+{"name":"cohesion","step":"04 · Holding itself","text":"Once hard, the glue holds strongly to itself too. That inner strength is called cohesion.","emoji":"💪","items":[["cohesion","cohesion"]]},
+{"name":"bottle","step":"05 · The bottle","text":"In the bottle, white glue can't dry, because the water can't evaporate, and the plastic is hard to stick to.","emoji":"🔒","items":[["dry","can't dry"],["plastic","slippery plastic"]]},
+{"name":"superglue","step":"06 · Super glue","text":"Super glue is different. It reacts with tiny traces of moisture in the air and on surfaces, and sets in seconds.","emoji":"⚡","items":[["moisture","reacts with moisture"],["seconds","sets in seconds"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Flow in, grab on, harden, hold. Follow for more on how things really work."}]}

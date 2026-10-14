@@ -1,0 +1,9 @@
+{"accent":"#a3e635","file":"VPN_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Turn on a VPN, and websites think you're somewhere else. Your Wi-Fi can't see where you're going either. How?"},
+{"name":"normal","step":"01 · Without a VPN","text":"Normally, your internet provider or the Wi-Fi network can see which websites you connect to, even if the pages themselves are encrypted."},
+{"name":"tunnel","step":"02 · The tunnel","text":"A VPN app creates an encrypted tunnel from your device to a VPN server. All your traffic goes inside it."},
+{"name":"server","step":"03 · The VPN server","text":"The VPN server then contacts websites for you. So websites see the server's address and location, not yours."},
+{"name":"see","step":"04 · Who sees what","text":"Your Wi-Fi or provider only sees scrambled data going to the VPN. But the VPN company itself can see where you go, so trust matters."},
+{"name":"limits","step":"05 · Not invisible","text":"A VPN isn't full anonymity. Logged in accounts, cookies and your browser can still identify you."},
+{"name":"india","step":"06 · In India","text":"In India, rules from 2022 require VPN providers to keep certain records about their users."},
+{"name":"outro","step":"Recap","text":"Encrypt, tunnel, relay, trust. Privacy with limits. Follow for more on how things really work."}]}

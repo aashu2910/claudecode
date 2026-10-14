@@ -1,0 +1,46 @@
+{
+"accent": "#059669",
+"file": "Cheque_Clearing_CTS_How_It_Works_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "You drop a cheque in the bank box, and in a day or so the money arrives. Does the paper travel to the other bank?"
+},
+{
+"name": "cts",
+"step": "01 · Cheque truncation",
+"text": "Not anymore. India uses CTS, the cheque truncation system. The paper journey is cut short."
+},
+{
+"name": "scan",
+"step": "02 · Scanning",
+"text": "Your bank scans the cheque, capturing images of the front and back, plus the data in the code line."
+},
+{
+"name": "clearing",
+"step": "03 · Clearing house",
+"text": "The images and data are sent electronically to a clearing house, which passes them to the payer's bank."
+},
+{
+"name": "check",
+"step": "04 · Checks",
+"text": "The payer's bank checks the signature, the balance and the details, then accepts or returns it."
+},
+{
+"name": "positive",
+"step": "05 · Positive pay",
+"text": "For large cheques, positive pay lets the payer confirm details in advance, to catch fraud."
+},
+{
+"name": "credit",
+"step": "06 · Money credited",
+"text": "Once accepted, money is settled between banks and credited to you, usually within a working day or so."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Scan, send, check, settle. The image travels, not the paper. Follow for more on how things really work."
+}
+]
+}

@@ -1,0 +1,9 @@
+{"accent":"#8b5cf6","file":"Netflix_Screen_Record_Black_Screen_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You try to screen record a movie on a streaming app, and all you get is a black screen. How does the app block it?"},
+{"name":"drm","step":"01 · What DRM is","text":"It's called DRM, digital rights management. It's a set of locks that studios use so their videos can only be watched, not copied."},
+{"name":"encrypt","step":"02 · Encrypted video","text":"The video arrives encrypted. Without the right key, the file is just useless scrambled data."},
+{"name":"key","step":"03 · The licence key","text":"The app asks a licence server for a key, and only a trusted, checked device gets one."},
+{"name":"secure","step":"04 · Secure path","text":"The video is decrypted inside a protected part of the chip, and sent straight to the screen on a secure path."},
+{"name":"flag","step":"05 · The secure flag","text":"The app also marks its window as secure. So the system's screen recorder and screenshot tools capture only black."},
+{"name":"limits","step":"06 · Not perfect","text":"It doesn't stop everything, like a camera pointed at the screen, but it makes easy copying much harder."},
+{"name":"outro","step":"Recap","text":"Encrypt, license, decrypt securely, block capture. Follow for more on how things really work."}]}

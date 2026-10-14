@@ -1,0 +1,9 @@
+{"accent":"#1d4ed8","file":"How_Tides_Work_9x16.mp4","buddy":["circle","#dbeafe"],"outro":["Pulled by","the Moon."],"scenes":[
+{"name":"hook","step":"How it works","text":"Twice a day, the sea rises up the beach and then pulls back. What moves an entire ocean?","emoji":"🌊","items":[["twice","twice a day"],["ocean","moving an ocean?"]]},
+{"name":"moon","step":"01 · The Moon's pull","text":"The Moon's gravity pulls on Earth, and pulls slightly harder on the side facing it.","emoji":"🌙","items":[["gravity","Moon's gravity"],["harder","stronger on near side"]]},
+{"name":"bulge","step":"02 · Two bulges","text":"That difference stretches the oceans into two bulges, one facing the Moon, and one on the opposite side.","emoji":"🥚","items":[["two","two bulges"],["opposite","near + opposite side"]]},
+{"name":"rotate","step":"03 · Earth spins","text":"As Earth spins through these bulges, most coasts get two high tides and two low tides each day.","emoji":"🌍","items":[["spins","Earth spins"],["two","2 high + 2 low"]]},
+{"name":"late","step":"04 · Running late","text":"The Moon moves along its orbit, so tides arrive about fifty minutes later each day.","emoji":"⏰","items":[["orbit","Moon orbits"],["fifty","~50 min later daily"]]},
+{"name":"sun","step":"05 · The Sun helps","text":"The Sun pulls too. When Sun and Moon line up, we get extra big spring tides, and smaller neap tides when they don't.","emoji":"☀️","items":[["line","lined up → spring tides"],["neap","neap tides"]]},
+{"name":"coast","step":"06 · Shape of the coast","text":"Coastline shape matters. Some bays funnel water into huge tides, others barely notice.","emoji":"🏝️","items":[["funnel","bays funnel water"],["barely","others barely change"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Moon pulls, Earth spins, oceans bulge. Follow for more on how things really work."}]}

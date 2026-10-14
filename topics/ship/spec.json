@@ -1,0 +1,9 @@
+{"accent":"#1e40af","file":"How_Huge_Ships_Float_9x16.mp4","buddy":["rect","#dbeafe"],"outro":["Push aside","enough water."],"scenes":[
+{"name":"hook","step":"How it works","text":"A steel nail sinks instantly, but a steel ship weighing thousands of tonnes floats. How?","emoji":"🚢","items":[["nail","🔩 nail sinks"],["floats","🚢 ship floats"]]},
+{"name":"displace","step":"01 · Pushing water aside","text":"When anything goes into water, it pushes some water out of the way. That's called displacement.","emoji":"💧","items":[["pushes","pushes water aside"],["displacement","displacement"]]},
+{"name":"archimedes","step":"02 · Archimedes","text":"Archimedes found that the water pushes back up, with a force equal to the weight of water displaced.","emoji":"🛁","items":[["archimedes","Archimedes"],["equal","upthrust = water displaced"]]},
+{"name":"shape","step":"03 · It's the shape","text":"A nail displaces only a tiny bit of water. A ship's hull is hollow and wide, so it pushes aside a huge amount.","emoji":"🛶","items":[["tiny","nail: tiny"],["hollow","hull: hollow + wide"]]},
+{"name":"density","step":"04 · Average density","text":"Counting all the air inside, the ship's average density is less than water, so it floats.","emoji":"⚖️","items":[["air","steel + air"],["less","avg density < water"]]},
+{"name":"load","step":"05 · Loading up","text":"Add cargo and the ship sinks lower, displacing more water, until it balances again.","emoji":"📦","items":[["cargo","add cargo"],["lower","sits lower"]]},
+{"name":"plimsoll","step":"06 · Load line","text":"Ships have a load line painted on the hull, showing the deepest they can safely sit.","emoji":"📏","items":[["load","load line"],["safely","safe limit"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Displace, push back, float. Follow for more on how things really work."}]}

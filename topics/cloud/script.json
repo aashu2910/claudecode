@@ -1,0 +1,9 @@
+{"accent":"#38bdf8","file":"Cloud_Storage_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You save a file to the cloud, drop your phone in water, and the file is still safe. Where is it really kept?"},
+{"name":"upload","step":"01 · Upload","text":"Your file travels over the internet, encrypted, to the company's data centres. Huge buildings full of servers."},
+{"name":"chunks","step":"02 · Chunks","text":"Large files are often split into chunks, and stored across many drives."},
+{"name":"copies","step":"03 · Copies","text":"Each piece is stored more than once, on different machines, often in different locations. If one drive dies, another copy takes over."},
+{"name":"encrypt","step":"04 · Locked at rest","text":"Major providers also encrypt your files while they're stored, so a stolen drive alone is useless."},
+{"name":"sync","step":"05 · Sync","text":"When you edit a file, the app usually uploads just the changes, then updates it on your other devices."},
+{"name":"you","step":"06 · Your part","text":"The weakest link is often your password. Turn on two factor authentication to keep the account safe."},
+{"name":"outro","step":"Recap","text":"Upload, split, copy, sync. Your files, somewhere safe. Follow for more on how things really work."}]}

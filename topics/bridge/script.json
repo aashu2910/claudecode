@@ -1,0 +1,46 @@
+{
+"accent": "#0f766e",
+"file": "How_Bridges_Stay_Up_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "A bridge carries thousands of heavy trucks across a river, without falling. How does it hold that weight?"
+},
+{
+"name": "forces",
+"step": "01 · Two forces",
+"text": "Every bridge balances two forces. Compression, which squeezes, and tension, which pulls."
+},
+{
+"name": "beam",
+"step": "02 · Beam bridge",
+"text": "A beam bridge bends under load. The top gets squeezed and the bottom gets stretched."
+},
+{
+"name": "arch",
+"step": "03 · Arch bridge",
+"text": "An arch turns the weight into compression, pushing outward and down into strong supports at each end."
+},
+{
+"name": "suspension",
+"step": "04 · Suspension bridge",
+"text": "A suspension bridge hangs the deck from huge cables in tension, draped over tall towers."
+},
+{
+"name": "truss",
+"step": "05 · Trusses",
+"text": "Triangles called trusses spread the load, because a triangle can't change shape without changing a side."
+},
+{
+"name": "movement",
+"step": "06 · Built to move",
+"text": "Bridges also have expansion joints, so they can grow and shrink with heat without cracking."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Compression, tension, smart shapes. Follow for more on how things really work."
+}
+]
+}

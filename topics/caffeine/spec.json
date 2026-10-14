@@ -1,0 +1,9 @@
+{"accent":"#78350f","file":"How_Caffeine_Works_9x16.mp4","buddy":["rect","#fde68a"],"outro":["Blocking","sleepiness."],"scenes":[
+{"name":"hook","step":"How it works","text":"One cup of coffee, and the sleepiness is gone. Does caffeine give you energy?","emoji":"☕","items":[["coffee","one cup"],["energy","energy?"]]},
+{"name":"adenosine","step":"01 · Adenosine","text":"Not really. As you stay awake, a chemical called adenosine builds up in your brain.","emoji":"🧠","items":[["adenosine","adenosine builds up"]]},
+{"name":"receptors","step":"02 · Sleep pressure","text":"Adenosine fits into receptors on brain cells, slowing them down, and making you feel tired.","emoji":"🔌","items":[["receptors","receptors"],["tired","feel tired"]]},
+{"name":"block","step":"03 · The blocker","text":"Caffeine has a similar shape. It sits in those receptors and blocks adenosine, without slowing anything.","emoji":"🚫","items":[["similar","similar shape"],["blocks","blocks adenosine"]]},
+{"name":"alert","step":"04 · Feeling alert","text":"With the brakes off, other brain signals rise, and you feel more alert, within about thirty to sixty minutes.","emoji":"⚡","items":[["alert","more alert"],["thirty","~30–60 min"]]},
+{"name":"crash","step":"05 · The crash","text":"Adenosine keeps piling up behind the block. When caffeine wears off, the tiredness can hit at once.","emoji":"📉","items":[["piling","adenosine piles up"],["wears","wears off → crash"]]},
+{"name":"halflife","step":"06 · Half-life","text":"It takes around five hours for half of it to leave your body, so late coffee can mess with sleep.","emoji":"🌙","items":[["five","half-life ≈ 5 h"],["late","late coffee → poor sleep"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Not energy, just blocking sleepiness. Follow for more on how things really work."}]}

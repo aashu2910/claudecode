@@ -1,0 +1,46 @@
+{
+"accent": "#0ea5e9",
+"file": "CIBIL_Score_How_It_Works_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "One three digit number decides if you get a loan, and at what rate. So who calculates your CIBIL score?"
+},
+{
+"name": "bureau",
+"step": "01 · Credit bureau",
+"text": "CIBIL is a credit bureau. Banks and lenders send it monthly reports about every loan and credit card you have."
+},
+{
+"name": "payment",
+"step": "02 · Payment history",
+"text": "The biggest factor is payment history. Paying every EMI and card bill on time pushes the score up."
+},
+{
+"name": "usage",
+"step": "03 · Credit usage",
+"text": "Next is how much of your limit you use. Keeping card usage low, often under thirty percent, looks safer."
+},
+{
+"name": "mix",
+"step": "04 · History and mix",
+"text": "A longer credit history and a healthy mix of loan types also help."
+},
+{
+"name": "enquiry",
+"step": "05 · Enquiries",
+"text": "Applying for many loans in a short time creates hard enquiries, which can pull it down a bit."
+},
+{
+"name": "score",
+"step": "06 · The score",
+"text": "A model turns all of this into a number from three hundred to nine hundred. Above seven fifty is generally seen as good."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Pay on time, use less, borrow wisely. Follow for more on how things really work."
+}
+]
+}

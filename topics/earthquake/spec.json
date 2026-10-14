@@ -1,0 +1,9 @@
+{"accent":"#b45309","file":"How_Earthquakes_Happen_9x16.mp4","buddy":["rect","#fef3c7"],"outro":["Stick, slip,","shake."],"scenes":[
+{"name":"hook","step":"How it works","text":"The ground feels solid, until suddenly it shakes. What makes the Earth move under our feet?","emoji":"🌏","items":[["solid","solid ground"],["shakes","suddenly shakes"]]},
+{"name":"plates","step":"01 · Tectonic plates","text":"Earth's outer shell is broken into giant tectonic plates, which slowly move, a few centimetres a year.","emoji":"🧩","items":[["tectonic","tectonic plates"],["centimetres","few cm per year"]]},
+{"name":"stuck","step":"02 · Getting stuck","text":"Where plates meet, along faults, the rocks get stuck by friction, while the plates keep pushing.","emoji":"🧱","items":[["faults","faults"],["friction","stuck by friction"]]},
+{"name":"stress","step":"03 · Building stress","text":"Stress builds up for years, bending the rock like a stretched spring.","emoji":"🌀","items":[["stress","stress builds"],["spring","like a spring"]]},
+{"name":"slip","step":"04 · Sudden slip","text":"When it's too much, the rock suddenly slips, releasing energy as seismic waves.","emoji":"💥","items":[["slips","sudden slip"],["seismic","seismic waves"]]},
+{"name":"waves","step":"05 · Waves","text":"Faster P waves arrive first, then stronger S and surface waves cause most of the shaking.","emoji":"〰️","items":[["faster","P waves first"],["surface","S + surface waves shake"]]},
+{"name":"measure","step":"06 · Measuring","text":"Seismometers record the waves, and magnitude is measured on a scale where each step is about thirty two times more energy.","emoji":"📈","items":[["seismometers","seismometers"],["thirty","+1 ≈ 32× energy"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Plates push, rocks stick, then slip and shake. Follow for more on how things really work."}]}

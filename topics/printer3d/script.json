@@ -1,0 +1,9 @@
+{"accent":"#fb923c","file":"3D_Printer_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"A 3D printer can make a toy, a phone stand, even a spare part, out of a spool of plastic. How?"},
+{"name":"model","step":"01 · A 3D model","text":"It starts with a 3D model on a computer. Slicer software cuts it into hundreds of thin horizontal layers."},
+{"name":"melt","step":"02 · Melt the plastic","text":"The most common printers push a plastic filament into a hot nozzle, around two hundred degrees, so it melts."},
+{"name":"draw","step":"03 · Draw a layer","text":"The nozzle moves around, squeezing out a thin line of melted plastic, tracing the shape of one layer."},
+{"name":"stack","step":"04 · Stack up","text":"Then it moves up by a fraction of a millimetre, and draws the next layer on top. Each one fuses to the one below."},
+{"name":"infill","step":"05 · Inside and supports","text":"Inside, it often prints a honeycomb-like pattern instead of solid plastic, to save material. Overhangs get temporary supports."},
+{"name":"time","step":"06 · Patience","text":"Because it's layer by layer, even small objects can take a few hours to print."},
+{"name":"outro","step":"Recap","text":"Model, slice, melt, stack. Building from nothing. Follow for more on how things really work."}]}

@@ -1,0 +1,46 @@
+{
+"accent": "#64748b",
+"file": "How_A_Thermos_Works_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "Hot tea stays hot for hours, and cold water stays cold. How does a thermos know which one you want?"
+},
+{
+"name": "three",
+"step": "01 · Three ways",
+"text": "It doesn't know. It just blocks heat moving at all. Heat travels in three ways: conduction, convection and radiation."
+},
+{
+"name": "vacuum",
+"step": "02 · The vacuum",
+"text": "A thermos has two walls with a vacuum between them. With almost no air, conduction and convection nearly stop."
+},
+{
+"name": "shiny",
+"step": "03 · Shiny walls",
+"text": "The walls are shiny, which reflects infrared radiation back, instead of letting it escape."
+},
+{
+"name": "lid",
+"step": "04 · The lid",
+"text": "The lid is the weak spot. A tight, insulated stopper keeps warm air from escaping at the top."
+},
+{
+"name": "both",
+"step": "05 · Works both ways",
+"text": "Since it slows heat in either direction, it keeps cold drinks cold just as well."
+},
+{
+"name": "tip",
+"step": "06 · Pro tip",
+"text": "Pre-fill it with hot water for a minute first, so the inner wall doesn't steal heat from your tea."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Vacuum, shiny walls, tight lid. Heat has nowhere to go. Follow for more on how things really work."
+}
+]
+}

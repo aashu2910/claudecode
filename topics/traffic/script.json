@@ -1,0 +1,46 @@
+{
+"accent": "#22c55e",
+"file": "How_Traffic_Signals_Work_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "Red, yellow, green. Some signals change on a timer, but some seem to know you're waiting. How?"
+},
+{
+"name": "controller",
+"step": "01 · The controller",
+"text": "Each junction has a controller box nearby, a small computer that runs the light sequence."
+},
+{
+"name": "fixed",
+"step": "02 · Fixed time",
+"text": "Simple signals use fixed timing. Each direction gets green for a set number of seconds, based on usual traffic."
+},
+{
+"name": "sensors",
+"step": "03 · Sensors",
+"text": "Smarter ones use sensors, like loops of wire under the road, or cameras, to detect waiting vehicles."
+},
+{
+"name": "adaptive",
+"step": "04 · Adapting",
+"text": "Then the controller extends green for busy roads, and skips empty directions."
+},
+{
+"name": "wave",
+"step": "05 · Green wave",
+"text": "Signals along a road can be linked, so cars at the right speed hit green after green."
+},
+{
+"name": "safety",
+"step": "06 · Safety gaps",
+"text": "Yellow and an all red pause give time to clear the junction before others go."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Timed, sensed, connected. Follow for more on how things really work."
+}
+]
+}

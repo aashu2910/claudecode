@@ -1,0 +1,9 @@
+{"accent":"#4f46e5","file":"DigiLocker_How_It_Works_9x16.mp4","buddy":["rect","#e0e7ff"],"outro":["Issued,","not uploaded."],"scenes":[
+{"name":"hook","step":"How it works","text":"Your licence, marksheet and other documents live in one app, and officials accept them. How is DigiLocker trusted?","emoji":"🗄️","items":[["licence","🪪 licence · 📄 marksheet"],["trusted","trusted?"]]},
+{"name":"what","step":"01 · What it is","text":"DigiLocker is a government run digital wallet for documents, linked to your Aadhaar and mobile number.","emoji":"📲","items":[["government","govt digital wallet"],["aadhaar","linked to Aadhaar"]]},
+{"name":"issuers","step":"02 · Issuers","text":"The key idea is issuers. Departments like transport, and boards, publish documents directly into the system.","emoji":"🏢","items":[["issuers","issuers"],["transport","transport · boards …"]]},
+{"name":"fetch","step":"03 · Fetching","text":"When you open one, the app fetches it from the issuer's records, instead of trusting a photo you uploaded.","emoji":"📥","items":[["fetches","fetched from issuer"],["photo","not your photo"]]},
+{"name":"sign","step":"04 · Digital signature","text":"Issued documents carry a digital signature, so any change to them can be detected.","emoji":"✍️","items":[["signature","digital signature"],["detected","tampering detected"]]},
+{"name":"share","step":"05 · Sharing","text":"You can share a document with consent, and the receiver can verify it came from the issuer.","emoji":"🤝","items":[["consent","share with consent"],["verify","receiver verifies"]]},
+{"name":"valid","step":"06 · Accepted","text":"Under Indian rules, these issued documents are treated as valid like originals, though check what a specific office accepts.","emoji":"✅","items":[["valid","treated as valid"],["check","check with the office"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Issued, signed, fetched, verified. Follow for more on how things really work."}]}

@@ -1,0 +1,9 @@
+{"accent":"#f472b6","file":"Computer_Mouse_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Move your mouse a little, and the cursor glides across the screen. There's no ball inside anymore. So how does it know?"},
+{"name":"light","step":"01 · A light","text":"Flip it over. A small light, red or invisible infrared, shines down at the surface beneath it."},
+{"name":"camera","step":"02 · A tiny camera","text":"Next to it is a tiny camera sensor. It takes thousands of very low resolution pictures every second."},
+{"name":"compare","step":"03 · Compare","text":"A chip compares each picture with the last one. The tiny bumps and fibres of the surface shift, revealing which way and how far you moved."},
+{"name":"send","step":"04 · Send it","text":"It sends those movements to the computer, which moves the cursor to match, many times a second."},
+{"name":"dpi","step":"05 · DPI","text":"DPI is how many dots the cursor moves for each inch you move the mouse. Higher DPI means a faster cursor."},
+{"name":"glass","step":"06 · Glass problem","text":"On a shiny glass desk there's almost no texture to see, so many mice struggle. A mouse pad fixes that."},
+{"name":"outro","step":"Recap","text":"Light, camera, compare, cursor. Tracking every move. Follow for more on how things really work."}]}

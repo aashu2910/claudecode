@@ -1,0 +1,9 @@
+{"accent":"#f59e0b","file":"Phone_Motion_Sensors_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Turn your phone sideways, and the screen rotates. Tilt it in a game, and the car steers. How does it feel movement?"},
+{"name":"mems","step":"01 · Tiny machines","text":"Inside is a chip with microscopic moving parts, called MEMS. Tiny silicon structures, thinner than a hair."},
+{"name":"accel","step":"02 · Accelerometer","text":"The accelerometer has a tiny mass on springs. When the phone moves, the mass shifts, and the chip measures that shift electrically."},
+{"name":"gravity","step":"03 · Finding down","text":"Gravity always pulls that mass too. So even when still, the phone knows which way is down, and rotates the screen."},
+{"name":"gyro","step":"04 · Gyroscope","text":"A gyroscope has a part that vibrates. When you twist the phone, that vibration gets pushed sideways, revealing how fast you're rotating."},
+{"name":"uses","step":"05 · Everyday uses","text":"Together they count your steps, steer games, steady your camera, and help maps know which way you're facing."},
+{"name":"compass","step":"06 · Plus a compass","text":"Many phones also have a magnetometer, a digital compass that senses Earth's magnetic field."},
+{"name":"outro","step":"Recap","text":"Mass, springs, vibration, compass. Your phone feels every move. Follow for more on how things really work."}]}

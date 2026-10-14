@@ -1,0 +1,9 @@
+{"accent":"#8b5cf6","file":"How_Painkillers_Work_9x16.mp4","buddy":["circle","#ede9fe"],"outro":["Quiet the","signal."],"scenes":[
+{"name":"hook","step":"How it works","text":"You swallow a small tablet for a headache, and somehow it knows where the pain is. Does it?","emoji":"💊","items":[["tablet","one tablet"],["knows","finds the pain?"]]},
+{"name":"everywhere","step":"01 · It travels everywhere","text":"It doesn't. The medicine dissolves, enters the blood, and spreads through the whole body.","emoji":"🩸","items":[["blood","enters blood"],["whole","whole body"]]},
+{"name":"prostaglandins","step":"02 · Pain chemicals","text":"Injured tissue makes chemicals called prostaglandins, which make nerves more sensitive and cause swelling.","emoji":"⚠️","items":[["prostaglandins","prostaglandins"],["sensitive","nerves more sensitive"]]},
+{"name":"nsaid","step":"03 · Blocking the enzyme","text":"Drugs like ibuprofen block an enzyme called COX, so fewer prostaglandins are made where it hurts.","emoji":"🚫","items":[["ibuprofen","ibuprofen"],["cox","blocks COX"]]},
+{"name":"paracetamol","step":"04 · Paracetamol","text":"Paracetamol works mainly in the brain and spinal cord, and scientists still don't fully understand how.","emoji":"🧠","items":[["paracetamol","paracetamol"],["fully","not fully understood"]]},
+{"name":"brain","step":"05 · Pain is in the brain","text":"Pain is the brain's reading of nerve signals. Calm the signals, and the pain feels smaller.","emoji":"📡","items":[["reading","brain reads signals"],["calm","calm signals → less pain"]]},
+{"name":"safety","step":"06 · Use safely","text":"Follow the dose on the label, and ask a doctor or pharmacist if unsure. This is general info, not medical advice.","emoji":"📋","items":[["dose","follow the dose"],["pharmacist","ask a pharmacist"],["advice","not medical advice"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Spread, block, quiet the signal. Follow for more on how things really work."}]}

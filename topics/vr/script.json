@@ -1,0 +1,9 @@
+{"accent":"#a78bfa","file":"VR_Headset_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Put on a VR headset, and you feel like you're standing inside another world. But it's just screens near your eyes. How?"},
+{"name":"two","step":"01 · Two images","text":"The headset shows a slightly different image to each eye, just like your two eyes see the real world from slightly different spots."},
+{"name":"depth","step":"02 · Depth","text":"Your brain combines the two views, and the small differences make things feel near or far. That's stereoscopic 3D."},
+{"name":"lenses","step":"03 · Lenses","text":"The screens are only a few centimetres away, so lenses bend the light, letting your eyes focus comfortably and filling your view."},
+{"name":"track","step":"04 · Head tracking","text":"Motion sensors and cameras track every turn of your head, and the view updates to match, so the world seems to stay still."},
+{"name":"fast","step":"05 · Speed matters","text":"It has to update very fast, often ninety times a second or more. Any lag between your movement and the image can cause motion sickness."},
+{"name":"hands","step":"06 · Your hands","text":"Controllers, or cameras watching your hands, let you reach out and touch that world."},
+{"name":"outro","step":"Recap","text":"Two images, lenses, tracking, speed. A world in front of your eyes. Follow for more on how things really work."}]}

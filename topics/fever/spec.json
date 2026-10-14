@@ -1,0 +1,9 @@
+{"accent":"#f43f5e","file":"Why_We_Get_Fever_9x16.mp4","buddy":["circle","#ffe4e6"],"outro":["Turning up","the heat."],"scenes":[
+{"name":"hook","step":"How it works","text":"You catch an infection and your temperature shoots up. Is fever the illness, or is your body doing it on purpose?","emoji":"🤒","items":[["temperature","temperature ⬆"],["purpose","on purpose?"]]},
+{"name":"thermostat","step":"01 · Body thermostat","text":"A part of your brain called the hypothalamus works like a thermostat, keeping you near thirty seven degrees.","emoji":"🧠","items":[["hypothalamus","hypothalamus"],["thirty","≈ 37°C"]]},
+{"name":"signals","step":"02 · Alarm signals","text":"When immune cells detect germs, they release chemical signals that travel to the brain.","emoji":"📣","items":[["immune","immune cells"],["chemical","chemical signals → brain"]]},
+{"name":"reset","step":"03 · Resetting","text":"These signals raise the thermostat's set point. Now your normal temperature feels too cold.","emoji":"🎛️","items":[["raise","set point ⬆"],["cold","normal feels cold"]]},
+{"name":"chills","step":"04 · Chills","text":"So you shiver and get chills, and blood vessels in the skin narrow, to heat you up.","emoji":"🥶","items":[["shiver","shivering"],["narrow","skin vessels narrow"]]},
+{"name":"why","step":"05 · Why heat helps","text":"A higher temperature can slow some germs, and helps parts of the immune system work faster.","emoji":"🛡️","items":[["slow","slows some germs"],["faster","immune system faster"]]},
+{"name":"care","step":"06 · When to get help","text":"Most fevers pass, but a very high or long fever, or one in a baby, needs a doctor. This is general info, not medical advice.","emoji":"🩺","items":[["high","very high / long fever"],["doctor","see a doctor"],["advice","not medical advice"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Detect, signal, reset, heat up. Follow for more on how things really work."}]}

@@ -1,0 +1,9 @@
+{"accent":"#475569","file":"How_A_Car_Engine_Works_9x16.mp4","buddy":["rect","#e2e8f0"],"outro":["Suck, squeeze,","bang, blow."],"scenes":[
+{"name":"hook","step":"How it works","text":"Press the accelerator, and tiny explosions push a car down the road. How does an engine turn fuel into motion?","emoji":"🚗","items":[["explosions","tiny explosions"],["motion","fuel → motion?"]]},
+{"name":"piston","step":"01 · Cylinders and pistons","text":"Inside are cylinders, each with a piston that slides up and down, connected to a crankshaft.","emoji":"⚙️","items":[["cylinders","cylinders"],["piston","piston"],["crankshaft","crankshaft"]]},
+{"name":"intake","step":"02 · Intake","text":"Step one, intake. The piston moves down, drawing in air and fuel.","emoji":"⬇️","items":[["intake","1 · intake"],["air","air + fuel in"]]},
+{"name":"compress","step":"03 · Compression","text":"Step two, compression. The piston moves up, squeezing the mixture tight.","emoji":"🗜️","items":[["compression","2 · compression"],["squeezing","squeeze"]]},
+{"name":"power","step":"04 · Power","text":"Step three, power. A spark plug ignites it, and the blast pushes the piston down hard.","emoji":"💥","items":[["power","3 · power"],["spark","spark → blast"]]},
+{"name":"exhaust","step":"05 · Exhaust","text":"Step four, exhaust. The piston rises again, pushing the burnt gases out the tailpipe.","emoji":"💨","items":[["exhaust","4 · exhaust"],["burnt","burnt gases out"]]},
+{"name":"crank","step":"06 · Turning wheels","text":"The crankshaft turns all that up and down motion into rotation, which goes through the gearbox to the wheels.","emoji":"🛞","items":[["rotation","up-down → rotation"],["gearbox","gearbox → wheels"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Intake, compression, power, exhaust. Suck, squeeze, bang, blow. Follow for more on how things really work."}]}

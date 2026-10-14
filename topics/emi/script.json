@@ -1,0 +1,46 @@
+{
+"accent": "#0891b2",
+"file": "EMI_How_It_Works_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "You pay the same EMI every month, yet in the first years your loan barely shrinks. Why?"
+},
+{
+"name": "what",
+"step": "01 · What EMI means",
+"text": "EMI means equated monthly instalment. A fixed payment that clears both the loan and its interest over a set time."
+},
+{
+"name": "split",
+"step": "02 · Two parts",
+"text": "Each payment has two parts. Interest on what you still owe, and principal that reduces the loan."
+},
+{
+"name": "early",
+"step": "03 · Early years",
+"text": "At the start you owe the most, so most of the EMI goes to interest, and only a little cuts the loan."
+},
+{
+"name": "later",
+"step": "04 · Later years",
+"text": "As the loan shrinks, interest falls, and more of each payment goes to principal. It speeds up."
+},
+{
+"name": "prepay",
+"step": "05 · Prepaying",
+"text": "Paying extra early on hits the principal directly, which can save a lot of total interest."
+},
+{
+"name": "rate",
+"step": "06 · Rate and tenure",
+"text": "A longer tenure lowers the EMI, but you usually pay more interest overall. Check the total, not just the monthly number."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Same EMI, shifting split, interest first then principal. Follow for more on how things really work."
+}
+]
+}

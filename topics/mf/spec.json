@@ -1,0 +1,9 @@
+{"accent":"#f59e0b","file":"Mutual_Funds_How_They_Work_9x16.mp4","buddy":["circle","#fef3c7"],"outro":["Pool, invest,","grow together."],"scenes":[
+{"name":"hook","step":"How it works","text":"You put in just five hundred rupees, and suddenly you own a slice of fifty companies. How does a mutual fund do that?","emoji":"🥧","items":[["five","₹500"],["fifty","slice of 50 companies"]]},
+{"name":"pool","step":"01 · Pooling money","text":"A mutual fund collects money from thousands of people into one big pool.","emoji":"🫙","items":[["thousands","thousands of investors"],["pool","one big pool"]]},
+{"name":"manager","step":"02 · Fund manager","text":"A fund manager invests that pool in shares, bonds or both, according to the fund's stated goal.","emoji":"👩‍💼","items":[["manager","fund manager"],["shares","📈 shares"],["bonds","📄 bonds"]]},
+{"name":"units","step":"03 · Units","text":"In return you get units. Your share of the fund depends on how many units you hold.","emoji":"🧩","items":[["units","you get units"],["share","your share"]]},
+{"name":"nav","step":"04 · NAV","text":"Every day the fund's value is divided by its units. That price per unit is called the NAV.","emoji":"🧮","items":[["divided","total value ÷ units"],["nav","= NAV"]]},
+{"name":"sip","step":"05 · SIP","text":"With a SIP, you invest a fixed amount every month, buying more units when prices are low.","emoji":"🗓️","items":[["sip","SIP"],["fixed","fixed amount monthly"],["low","low price → more units"]]},
+{"name":"risk","step":"06 · Costs and risk","text":"Funds charge a small yearly fee called the expense ratio, and returns are not guaranteed. Markets go up and down.","emoji":"⚖️","items":[["expense","expense ratio"],["guaranteed","returns not guaranteed"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Pool, invest, track the NAV. Growing together. Follow for more on how things really work."}]}

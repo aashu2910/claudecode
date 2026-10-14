@@ -1,0 +1,9 @@
+{"accent":"#4ade80","file":"Power_Bank_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Your power bank says ten thousand milliamp hours, but it doesn't charge your phone even twice. Why not?"},
+{"name":"cells","step":"01 · Inside","text":"A power bank is basically lithium ion cells, the same kind as your phone, plus a small circuit board."},
+{"name":"voltage","step":"02 · Voltage","text":"The cells work at about three point seven volts, but USB needs five volts or more. So a boost converter steps it up."},
+{"name":"loss","step":"03 · Losses","text":"That conversion loses some energy as heat. And the rating is measured at the lower cell voltage."},
+{"name":"real","step":"04 · Real capacity","text":"So a ten thousand milliamp hour bank typically delivers around six to seven thousand to your phone. Not the full number."},
+{"name":"protect","step":"05 · Protection","text":"The circuit also guards against overcharging, short circuits and overheating, which is why cheap unbranded ones can be risky."},
+{"name":"fly","step":"06 · Flying","text":"Because of the battery inside, airlines want power banks in your cabin bag, never in checked luggage."},
+{"name":"outro","step":"Recap","text":"Cells, boost, losses, protection. Energy in your pocket. Follow for more on how things really work."}]}

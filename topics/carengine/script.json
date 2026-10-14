@@ -1,0 +1,46 @@
+{
+"accent": "#475569",
+"file": "How_A_Car_Engine_Works_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "Press the accelerator, and tiny explosions push a car down the road. How does an engine turn fuel into motion?"
+},
+{
+"name": "piston",
+"step": "01 · Cylinders and pistons",
+"text": "Inside are cylinders, each with a piston that slides up and down, connected to a crankshaft."
+},
+{
+"name": "intake",
+"step": "02 · Intake",
+"text": "Step one, intake. The piston moves down, drawing in air and fuel."
+},
+{
+"name": "compress",
+"step": "03 · Compression",
+"text": "Step two, compression. The piston moves up, squeezing the mixture tight."
+},
+{
+"name": "power",
+"step": "04 · Power",
+"text": "Step three, power. A spark plug ignites it, and the blast pushes the piston down hard."
+},
+{
+"name": "exhaust",
+"step": "05 · Exhaust",
+"text": "Step four, exhaust. The piston rises again, pushing the burnt gases out the tailpipe."
+},
+{
+"name": "crank",
+"step": "06 · Turning wheels",
+"text": "The crankshaft turns all that up and down motion into rotation, which goes through the gearbox to the wheels."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Intake, compression, power, exhaust. Suck, squeeze, bang, blow. Follow for more on how things really work."
+}
+]
+}

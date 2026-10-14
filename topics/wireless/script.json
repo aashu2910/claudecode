@@ -1,0 +1,9 @@
+{"accent":"#34d399","file":"Wireless_Charging_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You place your phone on a pad, and it starts charging. No cable plugged in. So how does the power get in?"},
+{"name":"coil","step":"01 · Coil in the pad","text":"Inside the pad is a flat coil of copper wire. Alternating current flowing through it creates a magnetic field that keeps changing."},
+{"name":"induce","step":"02 · Coil in the phone","text":"Your phone has a matching coil. The changing magnetic field passing through it induces an electric current. That's electromagnetic induction."},
+{"name":"convert","step":"03 · Convert","text":"That current is alternating, so a chip in the phone converts it into steady DC, to charge the battery."},
+{"name":"talk","step":"04 · They talk","text":"Under the Qi standard, the phone and pad communicate, agreeing on how much power to send, and spotting stray metal objects."},
+{"name":"align","step":"05 · Alignment","text":"The coils need to line up. That's why some phones and pads use magnets, to snap into the right spot."},
+{"name":"tradeoff","step":"06 · The trade off","text":"It's convenient, but some energy is lost as heat, so it's usually slower and a bit less efficient than a cable."},
+{"name":"outro","step":"Recap","text":"Coil, field, induction, battery. Power through the air. Follow for more on how things really work."}]}

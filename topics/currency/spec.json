@@ -1,0 +1,9 @@
+{"accent":"#7c3aed","file":"Currency_Note_Security_Features_9x16.mp4","buddy":["rect","#ede9fe"],"outro":["Hard to copy,","easy to check."],"scenes":[
+{"name":"hook","step":"How it works","text":"A colour printer can copy almost anything. So why is it so hard to copy a currency note?","emoji":"🖨️","items":[["copy","copy anything?"],["currency","💵 currency note"]]},
+{"name":"paper","step":"01 · Special paper","text":"Notes are printed on special cotton based paper, not wood pulp, so they feel crisp and different.","emoji":"📜","items":[["cotton","cotton-based paper"],["crisp","feels crisp"]]},
+{"name":"watermark","step":"02 · Watermark","text":"Hold a note up to light and you see a watermark. It's made inside the paper, not printed on top.","emoji":"💡","items":[["watermark","watermark"],["inside","made inside paper"]]},
+{"name":"thread","step":"03 · Security thread","text":"A security thread is woven in, and on many notes its colour shifts when you tilt it.","emoji":"🧵","items":[["thread","security thread"],["tilt","colour shifts on tilt"]]},
+{"name":"intaglio","step":"04 · Raised print","text":"Raised intaglio printing makes parts of the note feel bumpy, which also helps visually impaired people.","emoji":"✋","items":[["raised","raised intaglio print"],["bumpy","you can feel it"]]},
+{"name":"micro","step":"05 · Micro lettering","text":"Tiny micro letters are printed so small, that most home printers blur them.","emoji":"🔎","items":[["micro","micro lettering"],["blur","printers blur it"]]},
+{"name":"uv","step":"06 · Hidden features","text":"Some inks glow under UV light, and banks use machines to check features you can't see.","emoji":"🔦","items":[["glow","UV-glow ink"],["machines","machine checks"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Paper, watermark, thread, raised print. Hard to copy, easy to check. Follow for more on how things really work."}]}

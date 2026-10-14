@@ -1,0 +1,9 @@
+{"accent":"#10b981","file":"Captcha_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You tick a box that says I'm not a robot, and somehow it believes you. How can one click prove you're human?"},
+{"name":"name","step":"01 · What CAPTCHA means","text":"CAPTCHA is a test that computers give, to tell humans and bots apart. Bots are used to spam, scalp tickets and break into accounts."},
+{"name":"old","step":"02 · The old way","text":"Older captchas showed warped letters or blurry images, things that were easy for people but hard for computers."},
+{"name":"behaviour","step":"03 · Watching behaviour","text":"Modern ones quietly watch how you behave. How your mouse moves, how you scroll and type, and details about your browser."},
+{"name":"score","step":"04 · Risk score","text":"All of that becomes a risk score. Look normal, and one click is enough, or no test at all."},
+{"name":"puzzle","step":"05 · Extra puzzles","text":"Look suspicious, maybe using a VPN or private browsing, and you get the traffic lights and crosswalks puzzle."},
+{"name":"ai","step":"06 · The arms race","text":"AI can now solve many image puzzles, so captchas rely more and more on behaviour, and keep changing."},
+{"name":"outro","step":"Recap","text":"Watch, score, challenge, adapt. Proving you're human. Follow for more on how things really work."}]}

@@ -1,0 +1,9 @@
+{"accent":"#0ea5e9","file":"How_X_Rays_Work_9x16.mp4","buddy":["rect","#e0f2fe"],"outro":["Shadows of","your bones."],"scenes":[
+{"name":"hook","step":"How it works","text":"An X-ray can see your bones through skin and muscle. How does light pass right through you?","emoji":"🦴","items":[["bones","see bones"],["through","through skin?"]]},
+{"name":"energy","step":"01 · High energy light","text":"X-rays are a kind of light, but with far more energy than the light our eyes can see.","emoji":"⚡","items":[["light","a kind of light"],["energy","much more energy"]]},
+{"name":"pass","step":"02 · Passing through","text":"They pass easily through soft tissue like skin, fat and muscle.","emoji":"➡️","items":[["soft","soft tissue = pass"]]},
+{"name":"absorb","step":"03 · Absorbed by bone","text":"Bones contain calcium, which absorbs much more X-ray energy, so fewer rays get through.","emoji":"🦴","items":[["calcium","calcium"],["absorbs","absorbs X-rays"]]},
+{"name":"shadow","step":"04 · A shadow picture","text":"A detector behind you records what gets through. Bones show up white, like shadows, and soft areas look dark.","emoji":"🖼️","items":[["detector","detector"],["white","bones → white"],["dark","soft → dark"]]},
+{"name":"ct","step":"05 · CT scans","text":"A CT scanner takes many X-rays from different angles, and a computer builds slices of your body.","emoji":"🌀","items":[["many","many angles"],["slices","computer builds slices"]]},
+{"name":"safety","step":"06 · Safety","text":"X-rays are ionising, so doses are kept low, and that's why you see lead aprons and warning signs.","emoji":"☢️","items":[["ionising","ionising"],["low","doses kept low"],["lead","lead aprons"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Pass through, absorb, shadow. Follow for more on how things really work."}]}

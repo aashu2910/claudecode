@@ -1,0 +1,9 @@
+{"accent":"#ef4444","file":"YouTube_Recommendations_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You finish one video, and YouTube lines up the next one you'll probably click. How does it choose from billions?"},
+{"name":"candidates","step":"01 · Narrow it down","text":"First, a fast system picks a few hundred possible videos for you, out of billions, based on what you and similar viewers watch."},
+{"name":"signals","step":"02 · Your signals","text":"It looks at your watch history, searches, likes, subscriptions, and what you skip or mark not interested."},
+{"name":"rank","step":"03 · Ranking","text":"A second model scores each candidate, predicting how likely you are to click, and how long you'll actually keep watching."},
+{"name":"satisfy","step":"04 · Satisfaction","text":"YouTube says it also uses surveys asking viewers if a video was worth their time, so it's not just about clicks."},
+{"name":"mix","step":"05 · Mix it up","text":"It adds some variety and fresh topics, so your feed doesn't become the same thing over and over."},
+{"name":"control","step":"06 · You're in control","text":"You can steer it. Tap not interested, remove videos from history, or pause your watch history."},
+{"name":"outro","step":"Recap","text":"Narrow, score, satisfy, mix. Your next video, picked for you. Follow for more on how things really work."}]}

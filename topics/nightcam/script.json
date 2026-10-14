@@ -1,0 +1,9 @@
+{"accent":"#818cf8","file":"Phone_Night_Mode_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You take a photo in a dark room, hold still for a few seconds, and it comes out surprisingly bright. How?"},
+{"name":"problem","step":"01 · The problem","text":"A phone camera sensor is tiny, so it catches very little light. One long exposure would just come out blurry from your shaking hands."},
+{"name":"burst","step":"02 · Many shots","text":"So night mode quickly takes many short photos in a row, sometimes a dozen or more, over a few seconds."},
+{"name":"align","step":"03 · Line them up","text":"Software lines up all the frames, correcting for your hand movement, so the details sit exactly on top of each other."},
+{"name":"merge","step":"04 · Merge","text":"Then it blends them. Real details repeat in every frame, but random noise doesn't, so averaging cleans the image."},
+{"name":"tone","step":"05 · Brighten smartly","text":"Finally, it brightens the shadows, keeps lights from blowing out, and fixes colours, often with help from AI."},
+{"name":"tip","step":"06 · Your part","text":"That's why it asks you to hold still. Lean on something, and the result gets even sharper."},
+{"name":"outro","step":"Recap","text":"Burst, align, merge, brighten. Seeing in the dark. Follow for more on how things really work."}]}

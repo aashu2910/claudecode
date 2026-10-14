@@ -1,0 +1,9 @@
+{"accent":"#0891b2","file":"EMI_How_It_Works_9x16.mp4","buddy":["circle","#cffafe"],"outro":["Same EMI,","shifting split."],"scenes":[
+{"name":"hook","step":"How it works","text":"You pay the same EMI every month, yet in the first years your loan barely shrinks. Why?","emoji":"📆","items":[["same","same EMI monthly"],["barely","loan barely shrinks?"]]},
+{"name":"what","step":"01 · What EMI means","text":"EMI means equated monthly instalment. A fixed payment that clears both the loan and its interest over a set time.","emoji":"🧾","items":[["equated","equated monthly instalment"],["both","loan + interest"]]},
+{"name":"split","step":"02 · Two parts","text":"Each payment has two parts. Interest on what you still owe, and principal that reduces the loan.","emoji":"✂️","items":[["interest","interest part"],["principal","principal part"]]},
+{"name":"early","step":"03 · Early years","text":"At the start you owe the most, so most of the EMI goes to interest, and only a little cuts the loan.","emoji":"🐢","items":[["most","owe the most"],["interest","mostly interest"]]},
+{"name":"later","step":"04 · Later years","text":"As the loan shrinks, interest falls, and more of each payment goes to principal. It speeds up.","emoji":"🐇","items":[["shrinks","loan shrinks"],["principal","more principal"]]},
+{"name":"prepay","step":"05 · Prepaying","text":"Paying extra early on hits the principal directly, which can save a lot of total interest.","emoji":"💰","items":[["extra","pay extra early"],["save","save total interest"]]},
+{"name":"rate","step":"06 · Rate and tenure","text":"A longer tenure lowers the EMI, but you usually pay more interest overall. Check the total, not just the monthly number.","emoji":"⚖️","items":[["longer","longer tenure → lower EMI"],["total","check the total"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Same EMI, shifting split, interest first then principal. Follow for more on how things really work."}]}

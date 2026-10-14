@@ -1,0 +1,46 @@
+{
+"accent": "#94a3b8",
+"file": "How_Mirrors_Work_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "A wall bounces light too, so why can you see yourself in a mirror, but not in a white wall?"
+},
+{
+"name": "glass",
+"step": "01 · What it's made of",
+"text": "A mirror is glass with a thin coat of metal behind it, usually silver or aluminium, then protective paint."
+},
+{
+"name": "electrons",
+"step": "02 · Metal reflects",
+"text": "Metals have free electrons that respond to light, and send almost all of it straight back."
+},
+{
+"name": "smooth",
+"step": "03 · Super smooth",
+"text": "The surface is extremely smooth, so every ray bounces at the same angle it came in."
+},
+{
+"name": "wall",
+"step": "04 · Rough surfaces",
+"text": "A wall is rough at a tiny scale. Light scatters in all directions, so you see brightness, not an image."
+},
+{
+"name": "flip",
+"step": "05 · The flip",
+"text": "Mirrors don't really swap left and right. They reverse front and back, which looks like a left-right swap."
+},
+{
+"name": "uses",
+"step": "06 · Beyond bathrooms",
+"text": "Curved mirrors focus light, in car side mirrors, telescopes and solar power plants."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Smooth metal, straight bounce, a clear image. Follow for more on how things really work."
+}
+]
+}

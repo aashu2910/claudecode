@@ -1,0 +1,9 @@
+{"accent":"#3b82f6","file":"Google_Translate_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You type a sentence in Hindi, and a second later it's in Japanese. Is there a giant dictionary doing this?"},
+{"name":"old","step":"01 · The old way","text":"Early translators swapped words and phrases using huge tables, which often gave clumsy, word by word results."},
+{"name":"tokens","step":"02 · Tokens","text":"Today a neural network does it. First your sentence is split into small pieces called tokens, and each becomes a list of numbers."},
+{"name":"meaning","step":"03 · Capturing meaning","text":"The model reads all the tokens together, using attention to see how every word relates to the others."},
+{"name":"generate","step":"04 · Writing it out","text":"Then it writes the translation one token at a time, each time picking the most likely next piece."},
+{"name":"train","step":"05 · Learning","text":"It learned this by studying millions of sentences that were already translated by people."},
+{"name":"limits","step":"06 · Still tricky","text":"Idioms, slang and rare languages can still trip it up, so double check anything important."},
+{"name":"outro","step":"Recap","text":"Split, understand, generate, learn. Follow for more on how things really work."}]}

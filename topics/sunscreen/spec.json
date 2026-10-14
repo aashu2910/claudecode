@@ -1,0 +1,9 @@
+{"accent":"#eab308","file":"How_Sunscreen_Works_9x16.mp4","buddy":["circle","#fef9c3"],"outro":["Block, absorb,","reapply."],"scenes":[
+{"name":"hook","step":"How it works","text":"A thin layer of cream stops sunburn on a blazing day. How does sunscreen fight the sun?","emoji":"☀️","items":[["thin","thin layer"],["sunburn","no sunburn?"]]},
+{"name":"uv","step":"01 · UV light","text":"Sunlight carries ultraviolet rays. UVB mainly burns the skin, and UVA goes deeper and ages it.","emoji":"🌞","items":[["uvb","UVB → burns"],["uva","UVA → ages"]]},
+{"name":"mineral","step":"02 · Mineral filters","text":"Mineral sunscreens use zinc oxide or titanium dioxide, which mainly absorb UV, and scatter some of it.","emoji":"🪨","items":[["zinc","zinc oxide · titanium dioxide"],["absorb","absorb + scatter"]]},
+{"name":"chemical","step":"03 · Chemical filters","text":"Chemical filters absorb UV energy and release it as a tiny amount of heat.","emoji":"🔥","items":[["absorb","absorb UV"],["heat","release as heat"]]},
+{"name":"spf","step":"04 · SPF","text":"SPF measures protection against UVB. SPF thirty blocks around ninety seven percent, when applied properly.","emoji":"🔢","items":[["spf","SPF = UVB protection"],["ninety","SPF 30 ≈ 97%"]]},
+{"name":"broad","step":"05 · Broad spectrum","text":"Broad spectrum, or a PA rating, means it also protects against UVA.","emoji":"🌈","items":[["broad","broad spectrum / PA"],["uva","also UVA"]]},
+{"name":"reapply","step":"06 · Reapply","text":"It wears off with sweat and water, so reapply about every two hours outdoors, and use enough.","emoji":"🔁","items":[["sweat","sweat + water"],["two","reapply ~2 hours"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Absorb, scatter, reapply. Follow for more on how things really work."}]}

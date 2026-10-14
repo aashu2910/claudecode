@@ -1,0 +1,9 @@
+{"accent":"#38bdf8","file":"Why_Salt_Melts_Ice_9x16.mp4","buddy":["rect","#e0f2fe"],"outro":["Lower the","freezing point."],"scenes":[
+{"name":"hook","step":"How it works","text":"In snowy cities, trucks spread salt on icy roads, and the ice melts even below zero. How?","emoji":"🧂","items":[["salt","salt on roads"],["below","melts below 0°C?"]]},
+{"name":"balance","step":"01 · Ice balance","text":"At zero degrees, water molecules are constantly freezing onto ice, and melting off it, at the same rate.","emoji":"⚖️","items":[["freezing","freezing ⇄ melting"],["same","same rate"]]},
+{"name":"dissolve","step":"02 · Salt dissolves","text":"Salt dissolves in the thin layer of water on the ice, splitting into sodium and chloride ions.","emoji":"💧","items":[["dissolves","dissolves"],["sodium","Na⁺ + Cl⁻"]]},
+{"name":"block","step":"03 · Getting in the way","text":"Those ions get in the way, so fewer water molecules freeze back on. Melting wins.","emoji":"🚧","items":[["fewer","fewer freeze back"],["melting","melting wins"]]},
+{"name":"point","step":"04 · Lower freezing point","text":"This lowers the freezing point. Salty water stays liquid at temperatures where pure water would freeze.","emoji":"🌡️","items":[["lowers","freezing point ⬇"],["liquid","stays liquid"]]},
+{"name":"limit","step":"05 · The limit","text":"It has limits. Below about minus ten degrees, common salt works poorly, so other chemicals are used.","emoji":"🥶","items":[["minus","below ≈ −10°C"],["poorly","works poorly"]]},
+{"name":"kulfi","step":"06 · Same trick, opposite use","text":"The same trick makes ice cream. Ice plus salt gets colder than plain ice, freezing the cream faster.","emoji":"🍨","items":[["ice","ice + salt"],["colder","colder than ice"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Dissolve, block, lower the freezing point. Follow for more on how things really work."}]}

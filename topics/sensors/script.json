@@ -1,0 +1,9 @@
+{"accent":"#fde047","file":"Phone_Light_Proximity_Sensors_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Your screen dims in a dark room, and switches off when you hold the phone to your ear. How does it know?"},
+{"name":"light","step":"01 · Light sensor","text":"Near the top of the screen is an ambient light sensor. It measures how bright the room around you is."},
+{"name":"adjust","step":"02 · Auto brightness","text":"Bright room, brighter screen. Dark room, dimmer screen. That saves battery, and is easier on your eyes."},
+{"name":"learn","step":"03 · It learns","text":"Many phones also learn from you. Each time you nudge the slider, adaptive brightness adjusts to your taste."},
+{"name":"prox","step":"04 · Proximity sensor","text":"The proximity sensor sends out invisible infrared light. When something is close, like your ear, the light bounces straight back."},
+{"name":"off","step":"05 · Screen off","text":"So during a call, the phone turns the screen off, and your cheek can't accidentally tap buttons. It also saves power."},
+{"name":"hidden","step":"06 · Hidden sensors","text":"On many new phones, these sensors hide under the screen itself, so you won't even see them."},
+{"name":"outro","step":"Recap","text":"Light, brightness, infrared, ear. Little sensors, big help. Follow for more on how things really work."}]}

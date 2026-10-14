@@ -1,0 +1,9 @@
+{"accent":"#dc2626","file":"How_Fire_Extinguishers_Work_9x16.mp4","buddy":["rect","#fee2e2"],"outro":["Break the","triangle."],"scenes":[
+{"name":"hook","step":"How it works","text":"One squeeze of a fire extinguisher, and the flames are gone. But how does it actually kill a fire?","emoji":"🧯","items":[["squeeze","squeeze"],["kill","how?"]]},
+{"name":"triangle","step":"01 · Fire triangle","text":"Fire needs three things: heat, fuel and oxygen. Take away any one, and it goes out.","emoji":"🔺","items":[["heat","🔥 heat"],["fuel","🪵 fuel"],["oxygen","💨 oxygen"]]},
+{"name":"water","step":"02 · Water type","text":"Water extinguishers cool the fire, removing heat. They're good for wood and paper, but dangerous on oil and electrical fires.","emoji":"💧","items":[["cool","cools → removes heat"],["dangerous","✗ oil · ✗ electrical"]]},
+{"name":"co2","step":"03 · CO2 type","text":"Carbon dioxide extinguishers push away oxygen and cool a bit. They suit electrical fires and leave no residue.","emoji":"☁️","items":[["oxygen","pushes away oxygen"],["electrical","⚡ electrical fires"]]},
+{"name":"powder","step":"04 · Dry powder","text":"Dry powder ones coat the fuel, and interrupt the chemical reaction of burning. They work on many fire types.","emoji":"🌫️","items":[["coat","coats the fuel"],["interrupt","stops the reaction"]]},
+{"name":"inside","step":"05 · What's inside","text":"Inside, a pressurised gas pushes the agent out when you squeeze the handle.","emoji":"🫧","items":[["pressurised","pressurised gas"],["squeeze","squeeze to release"]]},
+{"name":"pass","step":"06 · PASS","text":"Remember PASS. Pull the pin, aim at the base, squeeze, and sweep side to side. And leave if it's too big.","emoji":"📋","items":[["pull","Pull · Aim"],["squeeze","Squeeze · Sweep"],["leave","too big? leave"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Heat, fuel, oxygen. Break the triangle. Follow for more on how things really work."}]}

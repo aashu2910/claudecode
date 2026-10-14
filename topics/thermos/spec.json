@@ -1,0 +1,9 @@
+{"accent":"#64748b","file":"How_A_Thermos_Works_9x16.mp4","buddy":["rect","#e2e8f0"],"outro":["Heat has","nowhere to go."],"scenes":[
+{"name":"hook","step":"How it works","text":"Hot tea stays hot for hours, and cold water stays cold. How does a thermos know which one you want?","emoji":"🫖","items":[["hot","🔥 stays hot"],["cold","🧊 stays cold"]]},
+{"name":"three","step":"01 · Three ways","text":"It doesn't know. It just blocks heat moving at all. Heat travels in three ways: conduction, convection and radiation.","emoji":"🌡️","items":[["conduction","conduction"],["convection","convection"],["radiation","radiation"]]},
+{"name":"vacuum","step":"02 · The vacuum","text":"A thermos has two walls with a vacuum between them. With almost no air, conduction and convection nearly stop.","emoji":"🫙","items":[["two","double wall"],["vacuum","vacuum gap"],["nearly","conduction + convection ✗"]]},
+{"name":"shiny","step":"03 · Shiny walls","text":"The walls are shiny, which reflects infrared radiation back, instead of letting it escape.","emoji":"🪞","items":[["shiny","shiny walls"],["reflects","reflect radiation"]]},
+{"name":"lid","step":"04 · The lid","text":"The lid is the weak spot. A tight, insulated stopper keeps warm air from escaping at the top.","emoji":"🧢","items":[["weak","weak spot"],["tight","tight insulated lid"]]},
+{"name":"both","step":"05 · Works both ways","text":"Since it slows heat in either direction, it keeps cold drinks cold just as well.","emoji":"↔️","items":[["either","either direction"],["cold","cold stays cold"]]},
+{"name":"tip","step":"06 · Pro tip","text":"Pre-fill it with hot water for a minute first, so the inner wall doesn't steal heat from your tea.","emoji":"💡","items":[["pre","pre-heat it"],["steal","wall won't steal heat"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Vacuum, shiny walls, tight lid. Heat has nowhere to go. Follow for more on how things really work."}]}

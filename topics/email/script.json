@@ -1,0 +1,9 @@
+{"accent":"#60a5fa","file":"Email_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You hit send on an email, and seconds later it lands in an inbox on the other side of the world. What's the route?"},
+{"name":"out","step":"01 · Outgoing server","text":"Your mail app hands the message to your provider's outgoing mail server, using a protocol called SMTP."},
+{"name":"mx","step":"02 · Find the inbox","text":"That server looks at the part after the at sign, and asks the internet's address book, DNS, which server handles mail for that domain."},
+{"name":"deliver","step":"03 · Server to server","text":"It connects to the recipient's mail server and passes the message across, usually encrypted along the way."},
+{"name":"check","step":"04 · Checks","text":"The receiving server checks it isn't spam or a fake sender, using records that prove where the email really came from."},
+{"name":"store","step":"05 · Stored","text":"The email is saved in the recipient's mailbox on that server. It waits there."},
+{"name":"fetch","step":"06 · Fetched","text":"When they open their app, it syncs with the server and the email appears, on every device they use."},
+{"name":"outro","step":"Recap","text":"Send, look up, deliver, sync. Mail at internet speed. Follow for more on how things really work."}]}

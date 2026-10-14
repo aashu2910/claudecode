@@ -1,0 +1,46 @@
+{
+"accent": "#78350f",
+"file": "How_Caffeine_Works_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "One cup of coffee, and the sleepiness is gone. Does caffeine give you energy?"
+},
+{
+"name": "adenosine",
+"step": "01 · Adenosine",
+"text": "Not really. As you stay awake, a chemical called adenosine builds up in your brain."
+},
+{
+"name": "receptors",
+"step": "02 · Sleep pressure",
+"text": "Adenosine fits into receptors on brain cells, slowing them down, and making you feel tired."
+},
+{
+"name": "block",
+"step": "03 · The blocker",
+"text": "Caffeine has a similar shape. It sits in those receptors and blocks adenosine, without slowing anything."
+},
+{
+"name": "alert",
+"step": "04 · Feeling alert",
+"text": "With the brakes off, other brain signals rise, and you feel more alert, within about thirty to sixty minutes."
+},
+{
+"name": "crash",
+"step": "05 · The crash",
+"text": "Adenosine keeps piling up behind the block. When caffeine wears off, the tiredness can hit at once."
+},
+{
+"name": "halflife",
+"step": "06 · Half-life",
+"text": "It takes around five hours for half of it to leave your body, so late coffee can mess with sleep."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Not energy, just blocking sleepiness. Follow for more on how things really work."
+}
+]
+}

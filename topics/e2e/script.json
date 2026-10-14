@@ -1,0 +1,9 @@
+{"accent":"#2dd4bf","file":"End_To_End_Encryption_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Chat apps say your messages are end to end encrypted, so not even they can read them. How is that possible?"},
+{"name":"keys","step":"01 · Two keys","text":"Each phone creates a pair of keys. A public key it can share with anyone, and a private key that never leaves the device."},
+{"name":"lock","step":"02 · Lock it","text":"When you send a message, your phone scrambles it using your friend's public key. Only their private key can unscramble it."},
+{"name":"server","step":"03 · The server","text":"The app's server just passes along the scrambled message. Without the private key, it's gibberish, even to the company."},
+{"name":"unlock","step":"04 · Unlock","text":"Your friend's phone uses its private key to decrypt it, and the message appears, readable only there."},
+{"name":"rotate","step":"05 · Fresh keys","text":"Modern apps keep changing the keys as you chat, so even if one key leaked, old messages would stay safe."},
+{"name":"careful","step":"06 · Watch out","text":"Encryption protects messages in transit. Unencrypted cloud backups, or someone reading over your shoulder, are still risks."},
+{"name":"outro","step":"Recap","text":"Public key, private key, scramble, unlock. Only you two can read it. Follow for more on how things really work."}]}

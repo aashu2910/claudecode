@@ -1,0 +1,9 @@
+{"accent":"#f59e0b","file":"Online_Ads_Targeting_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You talk about shoes with a friend, and later you see a shoe ad. Is your phone listening? Probably not. Here's what's really going on."},
+{"name":"listen","step":"01 · The listening myth","text":"Researchers who studied popular apps haven't found evidence that they secretly record your conversations for ads. There are simpler explanations."},
+{"name":"tracking","step":"02 · Tracking pixels","text":"Many websites include invisible trackers. When you browse shoes, ad companies note it, and follow you to other sites and apps."},
+{"name":"location","step":"03 · Location","text":"If apps have location access, they may know you visited a shoe store, or a mall, and use that for ads."},
+{"name":"friends","step":"04 · Your friends","text":"If your friend searched for shoes, and you're often near each other or connected, you may be grouped together and see similar ads."},
+{"name":"auction","step":"05 · The auction","text":"Each time a page loads, advertisers bid for your attention in a split second auction, using this profile of you."},
+{"name":"control","step":"06 · Take control","text":"You can limit ad tracking in your phone settings, turn off ad personalisation, and deny location to apps that don't need it."},
+{"name":"outro","step":"Recap","text":"Trackers, location, friends, auction. Not magic, just data. Follow for more on how things really work."}]}

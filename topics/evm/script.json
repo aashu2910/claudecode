@@ -1,0 +1,46 @@
+{
+"accent": "#f97316",
+"file": "EVM_Voting_Machine_How_It_Works_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "You press one blue button and your vote is recorded. How does an electronic voting machine actually work?"
+},
+{
+"name": "units",
+"step": "01 · Two units",
+"text": "An EVM has two parts. A ballot unit where you vote, and a control unit kept with the polling officer."
+},
+{
+"name": "enable",
+"step": "02 · One vote at a time",
+"text": "The officer presses a button to allow one vote. After you vote, it locks until the next voter."
+},
+{
+"name": "vvpat",
+"step": "03 · VVPAT slip",
+"text": "A VVPAT printer shows a paper slip with your candidate's symbol for about seven seconds, then drops it into a sealed box."
+},
+{
+"name": "standalone",
+"step": "04 · Standalone",
+"text": "As described by the Election Commission, the machines are standalone, not connected to the internet or any network."
+},
+{
+"name": "seal",
+"step": "05 · Sealed and stored",
+"text": "After polling, the units are sealed and kept in guarded strong rooms until counting day."
+},
+{
+"name": "count",
+"step": "06 · Counting",
+"text": "On counting day, the control unit shows totals per candidate, and some VVPAT slips are matched against them."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Press, verify on paper, seal, count. Follow for more on how things really work."
+}
+]
+}

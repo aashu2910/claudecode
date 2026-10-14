@@ -1,0 +1,9 @@
+{"accent":"#6366f1","file":"What_Sleep_Does_To_Your_Brain_9x16.mp4","buddy":["circle","#e0e7ff"],"outro":["Sleep is","maintenance."],"scenes":[
+{"name":"hook","step":"How it works","text":"You spend about a third of your life asleep. So what is your brain actually doing all night?","emoji":"😴","items":[["third","⅓ of life asleep"],["night","what's the brain doing?"]]},
+{"name":"cycles","step":"01 · Sleep cycles","text":"Sleep comes in cycles of about ninety minutes, moving through light sleep, deep sleep and REM.","emoji":"🔁","items":[["ninety","~90 min cycles"],["light","light → deep → REM"]]},
+{"name":"deep","step":"02 · Deep sleep","text":"In deep sleep, brain waves slow down, and the body focuses on repair and growth.","emoji":"🌊","items":[["slow","slow brain waves"],["repair","repair + growth"]]},
+{"name":"clean","step":"03 · Cleaning up","text":"Research suggests fluid flows through the sleeping brain more, helping wash away waste from the day.","emoji":"🧽","items":[["fluid","fluid flow ⬆"],["waste","clears waste"]]},
+{"name":"memory","step":"04 · Saving memories","text":"Sleep helps lock in memories, replaying and strengthening what you learned.","emoji":"💾","items":[["memories","saves memories"],["strengthening","strengthens learning"]]},
+{"name":"rem","step":"05 · REM and dreams","text":"In REM sleep, the brain is very active and most vivid dreams happen, while most muscles stay relaxed.","emoji":"💭","items":[["active","brain very active"],["dreams","vivid dreams"]]},
+{"name":"lack","step":"06 · Missing sleep","text":"Too little sleep hurts focus, mood and memory. Most adults are advised to get around seven to nine hours.","emoji":"⏰","items":[["focus","focus · mood · memory ⬇"],["seven","adults: ~7–9 h"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Repair, clean, save, dream. Sleep is maintenance. Follow for more on how things really work."}]}

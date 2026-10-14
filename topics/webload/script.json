@@ -1,0 +1,9 @@
+{"accent":"#22d3ee","file":"Website_Loading_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You type a website name, press enter, and the page appears in about a second. A lot happens in that second."},
+{"name":"dns","step":"01 · DNS lookup","text":"Computers don't use names, they use numbers called IP addresses. So your browser asks DNS, the internet's phone book, for the website's number."},
+{"name":"chain","step":"02 · Asking around","text":"If it's not already saved nearby, the lookup goes from root servers, to the dot com servers, to the site's own name server, which gives the answer."},
+{"name":"connect","step":"03 · Connect securely","text":"Your browser connects to that IP address, and they agree on encryption keys. That's the padlock you see next to the address."},
+{"name":"request","step":"04 · Request the page","text":"The browser asks for the page, and the server sends back HTML, the page's structure."},
+{"name":"assets","step":"05 · The extras","text":"The HTML lists images, styles and scripts. The browser fetches those too, often from nearby servers called a CDN."},
+{"name":"render","step":"06 · Draw it","text":"Finally, the browser lays everything out and paints the page on your screen. Often in under a second."},
+{"name":"outro","step":"Recap","text":"Lookup, connect, request, render. A page in a second. Follow for more on how things really work."}]}

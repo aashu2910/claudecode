@@ -1,0 +1,9 @@
+{"accent":"#ef4444","file":"GST_How_It_Works_9x16.mp4","buddy":["rect","#fee2e2"],"outro":["Tax on value","added."],"scenes":[
+{"name":"hook","step":"How it works","text":"Every bill you pay has a line that says GST. But who actually pays it, and why isn't it taxed again and again?","emoji":"🧾","items":[["gst","GST"],["again","taxed again?"]]},
+{"name":"what","step":"01 · What GST is","text":"GST is the goods and services tax. One tax on things you buy, replacing many older taxes in India.","emoji":"🇮🇳","items":[["goods","goods and services tax"],["replacing","replaced many old taxes"]]},
+{"name":"chain","step":"02 · Every step","text":"It's charged at each step of the chain. From raw material maker, to manufacturer, to shop.","emoji":"🔗","items":[["raw","🪵 raw material"],["manufacturer","🏭 manufacturer"],["shop","🏪 shop"]]},
+{"name":"credit","step":"03 · Input tax credit","text":"Each business subtracts the GST it already paid on its inputs. This is called input tax credit.","emoji":"➖","items":[["subtracts","subtract tax already paid"],["credit","input tax credit"]]},
+{"name":"value","step":"04 · Only value added","text":"So at every step, tax is effectively paid only on the value added, not on tax over tax.","emoji":"➕","items":[["value","tax on value added"],["over","no tax on tax"]]},
+{"name":"consumer","step":"05 · Who pays","text":"In the end, the full tax is carried by the final buyer. That's you, at the counter.","emoji":"🛒","items":[["final","final buyer pays"]]},
+{"name":"split","step":"06 · Where it goes","text":"For sales within a state, it's split between the centre and the state, as CGST and SGST.","emoji":"🏛️","items":[["centre","centre + state"],["cgst","CGST + SGST"]],"kiko":1},
+{"name":"outro","step":"Recap","text":"Charged at each step, credit for tax paid, final buyer pays. Follow for more on how things really work."}]}
