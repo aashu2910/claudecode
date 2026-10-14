@@ -1,0 +1,9 @@
+{"accent":"#22d3ee","file":"Tap_To_Pay_Phone_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You hold your phone near the card machine, and it beeps. Paid. But your real card number never left your phone. How?"},
+{"name":"nfc","step":"01 · NFC","text":"Your phone and the machine talk using NFC, a radio link that only works within a few centimetres."},
+{"name":"token","step":"02 · A token","text":"When you add your card, the card network gives your phone a token, a stand in number. Your real card number isn't stored on the phone."},
+{"name":"unlock","step":"03 · Unlock","text":"You confirm with your fingerprint, face or PIN, so a thief can't simply tap your phone."},
+{"name":"code","step":"04 · One time code","text":"For each payment, the phone creates a one time code. Copy it, and it's useless for the next payment."},
+{"name":"swap","step":"05 · Behind the scenes","text":"The card network swaps the token back for your real card details, and your bank approves it as usual."},
+{"name":"safe","step":"06 · Why it's safer","text":"Even if a shop's system leaked, the token alone can't be used elsewhere. That's why card tokenisation is required by RBI rules in India."},
+{"name":"outro","step":"Recap","text":"Tap, token, unlock, approve. Your card stays secret. Follow for more on how things really work."}]}

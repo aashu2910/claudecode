@@ -1,0 +1,9 @@
+{"accent":"#fb7185","file":"Firecracker_Sound_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"A firecracker bursts in the sky. You see the flash first, and hear the boom a moment later. Why?"},
+{"name":"blast","step":"01 · The blast","text":"The explosion heats gas in an instant. It expands violently, shoving the air around it."},
+{"name":"wave","step":"02 · Pressure wave","text":"That push squeezes the next layer of air, which squeezes the next. A pressure wave spreads out in every direction. That's sound."},
+{"name":"speed","step":"03 · Speed of sound","text":"In air, sound travels about three hundred and forty metres every second. Fast, but nowhere near as fast as light."},
+{"name":"flash","step":"04 · Light wins","text":"Light from the flash reaches you almost instantly. Count the seconds to the boom, and multiply by about three hundred and forty metres."},
+{"name":"fade","step":"05 · Fading","text":"As the wave spreads over a bigger area, it gets weaker. Buildings and hills can bounce it back as an echo."},
+{"name":"ear","step":"06 · Your ears","text":"Your eardrum vibrates with the wave. Very loud bursts up close can damage your hearing, so keep your distance."},
+{"name":"outro","step":"Recap","text":"Blast, wave, speed, ears. Sound on the move. Follow for more on how things really work."}]}

@@ -1,0 +1,9 @@
+{"accent":"#4ade80","file":"CCTV_Night_Vision_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"At night, a CCTV camera still sees clearly in the dark. But the footage turns black and white. Why?"},
+{"name":"leds","step":"01 · Infrared LEDs","text":"Look closely around the lens. Those small LEDs shine infrared light, which our eyes can't see."},
+{"name":"sensor","step":"02 · The sensor","text":"The camera's image sensor can pick up infrared, even though we can't. So the scene is lit, just invisibly."},
+{"name":"filter","step":"03 · Day filter","text":"By day, a filter blocks infrared so colours look natural. At night it slides away. That's the click you sometimes hear."},
+{"name":"bw","step":"04 · Black and white","text":"Infrared light carries no real colour information, so the camera switches to black and white for a clearer image."},
+{"name":"auto","step":"05 · Auto switch","text":"A small light sensor decides when it's dark enough, and flips the camera into night mode automatically."},
+{"name":"limit","step":"06 · Limits","text":"The infrared only reaches so far, often a few tens of metres, and a glass window can reflect it straight back as glare."},
+{"name":"outro","step":"Recap","text":"LEDs, sensor, filter, grey. Seeing in the dark. Follow for more on how things really work."}]}

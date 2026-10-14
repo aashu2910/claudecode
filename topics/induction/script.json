@@ -1,0 +1,9 @@
+{"accent":"#f97316","file":"Induction_Cooktop_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"An induction cooktop has no flame, and the glass beside the pan stays fairly cool. Yet the pan boils water fast. How?"},
+{"name":"coil","step":"01 · The coil","text":"Under the glass is a coil of copper wire. Fast alternating current flows through it, tens of thousands of times a second."},
+{"name":"field","step":"02 · Magnetic field","text":"That creates a magnetic field that keeps flipping direction, passing straight up through the glass."},
+{"name":"eddy","step":"03 · Currents in the pan","text":"The changing field induces swirling electric currents inside the metal base of the pan, called eddy currents."},
+{"name":"heat","step":"04 · Pan heats itself","text":"The metal resists those currents, turning that energy into heat. So the pan itself becomes the heater, not the glass."},
+{"name":"pan","step":"05 · The right pan","text":"It needs a magnetic pan, like cast iron or many steel ones. If a magnet sticks to the bottom, it'll work."},
+{"name":"eff","step":"06 · Efficient","text":"Most of the energy goes straight into the pan, with far less wasted heating the air than a gas flame."},
+{"name":"outro","step":"Recap","text":"Coil, field, currents, heat. Cooking with magnetism. Follow for more on how things really work."}]}
