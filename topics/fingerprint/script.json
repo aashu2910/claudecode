@@ -1,0 +1,9 @@
+{"accent":"#67e8f9","file":"Fingerprint_Sensor_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You touch your thumb to the phone, and it unlocks in a blink. But how does it know it's you?"},
+{"name":"ridges","step":"01 · Ridges and valleys","text":"Your fingertip is covered in ridges and valleys. The pattern is unique, even between identical twins."},
+{"name":"scan","step":"02 · The scan","text":"The sensor reads that pattern. Many phones use tiny capacitor cells. Others, under the screen, use light or sound to image it."},
+{"name":"points","step":"03 · Key points","text":"Software doesn't keep the photo. It finds key points, where ridges end or split, and maps their positions and angles."},
+{"name":"enroll","step":"04 · Enrolment","text":"When you set it up, several touches build a template. It's stored in a locked area of the chip that apps can't read."},
+{"name":"match","step":"05 · Matching","text":"Each new touch is turned into points and compared with that template. Enough matching points gives a high score."},
+{"name":"unlock","step":"06 · Unlock","text":"Above the threshold, the secure chip says yes, and the phone unlocks. A stranger's finger fools it roughly once in fifty thousand tries."},
+{"name":"outro","step":"Recap","text":"Ridges, points, template, score. All in a split second. Follow for more on how things really work."}]}

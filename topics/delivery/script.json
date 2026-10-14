@@ -1,0 +1,9 @@
+{"accent":"#f43f5e","file":"Food_Delivery_Time_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You order biryani, and the app instantly says thirty two minutes. Not thirty. Thirty two. But how does it know?"},
+{"name":"split","step":"01 · Split the trip","text":"That number is really a sum of smaller predictions. Cooking time, rider pickup, the ride to you, and the handover."},
+{"name":"prep","step":"02 · Cooking time","text":"First, prep time. A model learns from that restaurant's past orders, the dishes you picked, and how busy the kitchen is right now."},
+{"name":"rider","step":"03 · Find a rider","text":"Then it picks a nearby delivery partner, timed to reach the restaurant just as the food is ready."},
+{"name":"route","step":"04 · The ride","text":"Travel time is predicted on real roads, using distance, live traffic, time of day, even rain."},
+{"name":"last","step":"05 · Last mile","text":"It also adds time to find your building, park, and walk up, learned from past deliveries to your area."},
+{"name":"live","step":"06 · Live updates","text":"As the rider moves, GPS updates keep refreshing the estimate, so the countdown changes on your screen."},
+{"name":"outro","step":"Recap","text":"Kitchen, rider, roads, doorstep. Added up in a second. Follow for more on how things really work."}]}

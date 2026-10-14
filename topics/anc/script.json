@@ -1,0 +1,9 @@
+{"accent":"#818cf8","file":"Noise_Cancelling_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You put on noise cancelling earphones, and the bus engine just disappears. But what actually happens?"},
+{"name":"sound","step":"01 · Sound is a wave","text":"Sound is just air pressure going up and down, a wave. Your eardrum feels those pushes and pulls."},
+{"name":"mic","step":"02 · Listen first","text":"A tiny microphone on the outside of each earbud hears the noise before it reaches your ear."},
+{"name":"flip","step":"03 · Flip the wave","text":"A chip inside computes the exact opposite wave. Where the noise pushes, the new wave pulls."},
+{"name":"play","step":"04 · Play it back","text":"The speaker plays that anti noise along with your music, within a fraction of a millisecond."},
+{"name":"cancel","step":"05 · They cancel","text":"The two waves meet in your ear canal and cancel out. A second mic inside checks what's left, and corrects it."},
+{"name":"limits","step":"06 · The limits","text":"It works best on steady, low sounds, like engines and hum. Sudden or high sounds, like voices, are mostly blocked by the ear tip seal."},
+{"name":"outro","step":"Recap","text":"Listen, flip, play, cancel. Silence, made from sound. Follow for more on how things really work."}]}

@@ -1,0 +1,9 @@
+{"accent":"#fb923c","file":"Instagram_Reels_Algorithm_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You swipe up, and the next reel is weirdly perfect for you. But how did Instagram pick it?"},
+{"name":"cand","step":"01 · Candidates","text":"First, it gathers thousands of possible reels, mostly from accounts you don't even follow."},
+{"name":"signals","step":"02 · Your signals","text":"It looks at your recent activity. What you watched to the end, liked, shared, or skipped fast."},
+{"name":"predict","step":"03 · Predictions","text":"For each reel, models predict chances. Will you watch it fully, like it, send it to a friend, or open its audio?"},
+{"name":"score","step":"04 · One score","text":"Those chances are weighted and added into one score. Sends to friends count a lot, Instagram says."},
+{"name":"filter","step":"05 · Filters","text":"Then it removes reels that break guidelines, and mixes things up, so you don't get the same creator back to back."},
+{"name":"learn","step":"06 · Keep learning","text":"Whatever you do with this reel becomes a new signal, so the feed keeps adjusting as you scroll."},
+{"name":"outro","step":"Recap","text":"Gather, predict, score, filter. A new guess every swipe. Follow for more on how things really work."}]}

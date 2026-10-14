@@ -1,0 +1,9 @@
+{"accent":"#c4b5fd","file":"Touchscreen_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You tap a tiny button on your screen, and it knows exactly where. But glass can't feel. So how?"},
+{"name":"grid","step":"01 · Hidden grid","text":"Under the glass is an invisible grid of transparent wires. Rows one way, columns the other."},
+{"name":"field","step":"02 · Electric field","text":"The phone sends a tiny signal through each row, and every crossing point holds a small electric field, called capacitance."},
+{"name":"finger","step":"03 · Your finger","text":"Your finger conducts electricity. Near a crossing, it pulls away some of that field, so the measured value drops."},
+{"name":"scan","step":"04 · Scanning","text":"A controller chip checks every crossing, over a hundred times a second, looking for those drops."},
+{"name":"center","step":"05 · Pinpoint","text":"Your finger covers several crossings. It weighs how much each one dropped, and finds the exact centre, finer than the grid."},
+{"name":"multi","step":"06 · Multi touch","text":"Since every crossing is measured separately, it tracks many fingers at once. And a normal glove doesn't conduct, so it fails."},
+{"name":"outro","step":"Recap","text":"Grid, field, finger, centre. Glass that feels you. Follow for more on how things really work."}]}

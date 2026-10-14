@@ -1,0 +1,9 @@
+{"accent":"#fde047","file":"FASTag_Toll_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You roll up to a toll plaza, the barrier lifts, and you barely slow down. No cash, no card. But what actually happens?"},
+{"name":"tag","step":"01 · The sticker","text":"That FASTag sticker has a tiny chip and an antenna inside. No battery. It just stores a unique tag ID."},
+{"name":"read","step":"02 · The reader","text":"An antenna above the lane sends out radio waves. They power the chip, and it reflects its ID back."},
+{"name":"plaza","step":"03 · Toll system","text":"The plaza system looks up your vehicle class, car, bus or truck, and works out the toll. A camera also snaps your number plate."},
+{"name":"netc","step":"04 · Bank network","text":"It sends the request to its bank, which passes it through NPCI's toll network, to the bank that issued your tag."},
+{"name":"debit","step":"05 · Your bank","text":"Your bank checks the tag is valid and has balance, then debits the toll. Approved goes back the same way."},
+{"name":"gate","step":"06 · Barrier up","text":"The barrier lifts, usually within seconds, and an SMS confirms the deduction."},
+{"name":"outro","step":"Recap","text":"Radio tag, reader, banks, barrier. Done while you roll. Follow for more on how things really work."}]}

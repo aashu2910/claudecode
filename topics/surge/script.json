@@ -1,0 +1,9 @@
+{"accent":"#e879f9","file":"Surge_Pricing_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"It starts raining, you open the app, and the same ride now costs almost double. But who decides that?"},
+{"name":"zones","step":"01 · Zones","text":"The city is split into small hexagon zones, and each one is watched in real time."},
+{"name":"demand","step":"02 · Demand","text":"Demand is how many people are opening the app and requesting rides in that zone right now."},
+{"name":"supply","step":"03 · Supply","text":"Supply is how many drivers are free nearby. Rain, office rush, or a concert can flip the balance in minutes."},
+{"name":"mult","step":"04 · Multiplier","text":"When requests far outnumber drivers, an algorithm sets a multiplier for that zone, like one point five times."},
+{"name":"fare","step":"05 · Your fare","text":"Your price is the normal fare, based on distance and time, scaled up by that multiplier. In India, rules cap it at two times the base fare."},
+{"name":"balance","step":"06 · Rebalance","text":"Higher prices pull drivers into the zone, and some riders wait. As things balance, the multiplier drops."},
+{"name":"outro","step":"Recap","text":"Riders, drivers, zone, multiplier. Price as a signal. Follow for more on how things really work."}]}

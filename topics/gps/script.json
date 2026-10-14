@@ -1,0 +1,9 @@
+{"accent":"#7dd3fc","file":"GPS_Location_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Your phone shows a blue dot, right on your street, using satellites twenty thousand kilometres away. But how?"},
+{"name":"sats","step":"01 · The satellites","text":"About thirty GPS satellites circle Earth. Each carries atomic clocks, and keeps broadcasting its position and the exact time."},
+{"name":"time","step":"02 · Travel time","text":"Your phone only listens. It compares when each signal was sent with when it arrived. A gap of about seven hundredths of a second."},
+{"name":"dist","step":"03 · Distance","text":"Radio travels at the speed of light, so that time, multiplied by the speed, gives your distance from that satellite."},
+{"name":"tri","step":"04 · Trilateration","text":"One distance puts you somewhere on a giant sphere. Three spheres cross at one point. A fourth satellite fixes your phone's clock error."},
+{"name":"fast","step":"05 · Faster fix","text":"Phones speed this up with help from mobile networks, and use other systems too, like India's NavIC."},
+{"name":"acc","step":"06 · Accuracy","text":"In open sky, that's usually within about five metres. Tall buildings bounce signals, and make it worse."},
+{"name":"outro","step":"Recap","text":"Clocks, timing, distance, spheres. Your dot, from space. Follow for more on how things really work."}]}

@@ -1,0 +1,32 @@
+const earth=(sz)=>mk(`<div style="width:${sz}px;height:${sz}px;border-radius:50%;background:radial-gradient(circle at 35% 35%,#1e5f8a,#0b2236 70%);box-shadow:0 0 80px rgba(125,211,252,.35);border:3px solid rgba(125,211,252,.4)"></div>`);
+const sat=()=>mk(`<div style="width:110px;height:110px">${icon('sat',ACC)}</div>`);
+const dot=()=>mk('<div style="width:44px;height:44px;border-radius:22px;background:#3b82f6;border:6px solid #fff;box-shadow:0 0 30px #3b82f6"></div>');
+// HOOK
+{const Ph=mk(`<div class="phone" style="background:#1a2027"><svg width="380" height="760" style="position:absolute"><g stroke="#2d3748" stroke-width="22" fill="none"><path d="M0 300H380M0 520H380M120 0V760M280 0V760"/></g></svg></div>`),D=dot(),S=sat(),K=mk('<div class="pill" style="font-size:36px">≈ 20,000 km up</div>'),e=edge([[880,330],[540,820]]),Q=mk('<div style="font-size:150px;font-weight:900" class="acc">?</div>');
+const tb=W('hook','blue'),ts=W('hook','satellites'),tk=W('hook','twenty'),th=W('hook','but');cue(tb,'pop');cue(ts,'beep');cue(th,'whoosh');
+SCN('hook',(t,o)=>{place(Ph,540,900,pop(t,S0('hook')-.3),o);place(D,540,820,pop(t,tb)*(1+.08*Math.sin(t*5)),o);place(S,880,330,pop(t,ts),o);drawEdge(e,t,ts,o,t>ts);place(K,700,520,pop(t,tk),o);place(Q,200,400,pop(t,th),o*p(t,th,th+.1),Math.sin(t*3)*8)})}
+// SATS
+{const E=earth(420),Ss=[0,1,2,3,4,5].map(()=>sat()),Or=mk('<div style="width:860px;height:860px;border-radius:50%;border:3px dashed rgba(125,211,252,.35)"></div>'),Ck=mk('<div class="card on" style="font-size:30px">atomic clocks ⏱</div>'),Br=mk('<div class="card mono" style="font-size:28px">"I\'m at X,Y,Z · time 12:00:00.000000"</div>');
+const ta=W('sats','about'),tc=W('sats','atomic'),tb=W('sats','broadcasting');cue(ta,'up');cue(tc,'tick');cue(tb,'shimmer');
+SCN('sats',(t,o)=>{place(E,540,820,pop(t,S0('sats')-.3),o);place(Or,540,820,1,o*p(t,ta,ta+.4));Ss.forEach((s,i)=>{const a=i*Math.PI/3+t*.15;place(s,540+430*Math.cos(a),820+430*Math.sin(a),pop(t,ta+i*.12)*.8,o)});place(Ck,540,330,pop(t,tc),o);place(Br,540,1340,pop(t,tb),o)})}
+// TIME
+{const S=sat(),Ph=node('phone','Your phone'),e=edge([[540,420],[540,1000]]),T=mk('<div style="width:40px;height:40px;border-radius:20px;background:#7dd3fc;box-shadow:0 0 24px #7dd3fc"></div>'),Sn=mk('<div class="card mono" style="font-size:28px">sent&nbsp;&nbsp;&nbsp;&nbsp; 12:00:00.000</div>'),Ar=mk('<div class="card mono" style="font-size:28px">arrived 12:00:00.<span class="acc">070</span></div>'),Gp=mk('<div class="tok" style="font-size:40px">≈ 0.07 s</div>'),Ls=mk('<div class="pill">receive only · no transmit</div>');
+const tl=W('time','listens'),ts=W('time','sent'),ta=W('time','arrived'),tg=W('time','gap');cue(tl,'pop');cue(ts,'tick');cue(ta,'beep');cue(tg,'ding');
+SCN('time',(t,o)=>{place(S,540,420,1,o);place(Ph,540,1050,pop(t,S0('time')-.3),o);place(Ls,540,1300,pop(t,tl),o);drawEdge(e,t,ts,o*.6,t>ts);place(T,540,420+580*p(t,ts,ta),1,o*(t>ts&&t<ta+.3?1:0));place(Sn,820,560,pop(t,ts),o);place(Ar,820,860,pop(t,ta),o);place(Gp,260,720,pop(t,tg),o)})}
+// DIST
+{const Eq=mk('<div class="big" style="font-size:52px">distance = time × <span class="acc">c</span></div>'),N=mk('<div class="card mono" style="font-size:34px;line-height:1.6">0.07 s × 300,000 km/s<br>= <span class="acc">≈ 21,000 km</span></div>'),Ru=mk('<div style="width:900px;height:40px;border-radius:20px;background:linear-gradient(90deg,#7dd3fc,rgba(125,211,252,.1))"></div>'),Lb=mk('<div class="pill">speed of light</div>');
+const tr=W('dist','radio'),ts=W('dist','speed'),tm=W('dist','multiplied'),td=W('dist','distance');cue(ts,'whoosh');cue(tm,'tick');cue(td,'ding');
+SCN('dist',(t,o)=>{place(Lb,540,420,pop(t,ts),o);place(Ru,90+450*p(t,ts,ts+.8),560,1,o*p(t,ts,ts+.3));Ru.firstElementChild.style.width=900*eio(p(t,ts,ts+.8))+'px';place(Eq,540,760,pop(t,tm),o);place(N,540,1050,pop(t,td),o)})}
+// TRI
+{const C=[[380,700,330],[700,640,300],[560,980,280]].map(()=>mk('<div style="border-radius:50%;border:5px solid #7dd3fc;background:rgba(125,211,252,.06)"></div>')),CP=[[380,700,330],[700,640,300],[560,980,280]],X=dot(),F=mk('<div class="card on" style="font-size:30px">4th satellite → fixes clock error</div>'),Sp=mk('<div class="pill">really spheres, in 3D</div>');
+const to=W('tri','one'),tth=W('tri','three'),tc=W('tri','cross'),tf=W('tri','fourth');cue(to,'pop');cue(tth,'pop');cue(tc,'ding');cue(tf,'lock');
+SCN('tri',(t,o)=>{CP.forEach(([x,y,r],i)=>{const st=i==0?to:tth+(i-1)*.3;const d=r*2;C[i].firstElementChild.style.width=d+'px';C[i].firstElementChild.style.height=d+'px';place(C[i],x,y,eio(p(t,st,st+.6)),o)});place(X,555,705,pop(t,tc),o);place(Sp,540,330,pop(t,to+.5),o);place(F,540,1380,pop(t,tf),o)})}
+// FAST
+{const Ph=node('phone','Phone'),Tw=node('tower','Mobile network'),A=mk('<div class="card" style="font-size:28px">satellite positions → faster fix</div>'),Sy=['GPS · USA','NavIC · India','Galileo · EU','GLONASS','BeiDou'].map((s,i)=>mk(`<div class="pill" style="${i==1?'background:#7dd3fc;color:#06202a':''}">${s}</div>`)),e=edge([[260,520],[820,520]]);
+const th=W('fast','help'),to=W('fast','other'),tn=W('fast','navic');cue(th,'beep');cue(to,'pop');cue(tn,'ding');
+SCN('fast',(t,o)=>{place(Ph,820,520,pop(t,S0('fast')-.3),o);place(Tw,260,520,pop(t,th-.2),o);drawEdge(e,t,th,o,t>th);place(A,540,760,pop(t,th+.3),o);Sy.forEach((s,i)=>place(s,i<3?220+i*320:380+(i-3)*320,1020+(i<3?0:120),pop(t,(i==1?tn:to)+i*.1),o))})}
+// ACC
+{const D=dot(),Cr=mk('<div style="width:360px;height:360px;border-radius:50%;border:4px solid #7dd3fc;background:rgba(125,211,252,.12)"></div>'),L=mk('<div class="tok" style="font-size:40px">≈ 5 m · open sky</div>'),B=[0,1,2].map((_,i)=>mk(`<div style="width:150px;height:${380+i*80}px;border-radius:10px;background:#1e2633;border:3px solid #33415a"></div>`)),Bo=edge([[540,250],[700,700],[460,820]]),Wr=mk('<div class="card" style="font-size:30px">bounced signals → bigger error</div>');
+const to=W('acc','open'),tf=W('acc','five'),tt=W('acc','tall'),tb=W('acc','bounce');cue(tf,'ding');cue(tt,'pop');cue(tb,'down');
+SCN('acc',(t,o)=>{const m=eio(p(t,tb,tb+.8));Cr.firstElementChild.style.width=Cr.firstElementChild.style.height=(360+360*m)+'px';place(Cr,540,820,pop(t,to),o);place(D,540+m*Math.sin(t*3)*60,820,1,o);place(L,540,400,pop(t,tf),o);B.forEach((b,i)=>place(b,[230,850,700][i],1100-([380,460,540][i])/2+250,pop(t,tt+i*.1),o));drawEdge(Bo,t,tb,o,t>tb);place(Wr,540,1420,pop(t,tb+.3),o)})}
+outro([['clock','Clocks'],['wave','Timing'],['chart','Distance'],['pin','Spheres']],'Your blue dot,','solved from space.');

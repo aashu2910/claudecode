@@ -6,3 +6,14 @@ otp/built.html
 otp/video.mp4
 otp/sfx.json
 otp/render.log
+*.onnx
+*.bin
+*.wav
+st_*.jpg
+sheet.jpg
+check.jpg
+built.html
+*.mp4
+sfx.json
+*.log
+timeline.json

@@ -1,0 +1,9 @@
+{"accent":"#86efac","file":"Microwave_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"People say a microwave cooks food from the inside out. It doesn't. So what actually happens?"},
+{"name":"mag","step":"01 · Magnetron","text":"Inside, a part called a magnetron turns electricity into microwaves. Radio waves at about two point four five gigahertz."},
+{"name":"box","step":"02 · Metal box","text":"A metal channel guides them into the box. The walls reflect them, so they bounce around the food, and the door mesh stops them escaping."},
+{"name":"water","step":"03 · Water molecules","text":"Water molecules have a plus end and a minus end. The wave's electric field flips billions of times a second."},
+{"name":"heat","step":"04 · Motion is heat","text":"The molecules keep twisting to line up with it, bumping into their neighbours. That motion is heat."},
+{"name":"depth","step":"05 · Outside in","text":"But microwaves only reach about one to two centimetres deep. The centre warms later, as heat spreads inward."},
+{"name":"spin","step":"06 · Why it spins","text":"Bouncing waves leave hot and cold spots, so the plate turns, and you're told to stir and let it stand."},
+{"name":"outro","step":"Recap","text":"Magnetron, waves, water, heat. Outside first, not inside. Follow for more on how things really work."}]}
