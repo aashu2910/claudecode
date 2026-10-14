@@ -2053,3 +2053,321 @@ Did you know this? 👇
 Follow @the_working_behind for more on how everyday things work.
 
 #mouse #pc #tech #gaming #howitworks #explained #techfacts #computer
+
+
+#####################################################################
+BATCH 7 - from 25 February 2027 (every other day, skip 1 day)
+#####################################################################
+
+ #  Date         Day  YouTube   Instagram  Video file
+61  25 Feb 2027  Thu  5:30 PM   7:30 PM    Email_How_It_Works_9x16.mp4
+62  27 Feb 2027  Sat  12:30 PM  7:00 PM    YouTube_Recommendations_How_It_Works_9x16.mp4
+63  01 Mar 2027  Mon  5:30 PM   7:30 PM    Cloud_Storage_How_It_Works_9x16.mp4
+64  03 Mar 2027  Wed  5:30 PM   7:30 PM    VPN_How_It_Works_9x16.mp4
+65  05 Mar 2027  Fri  5:30 PM   7:30 PM    End_To_End_Encryption_How_It_Works_9x16.mp4
+66  07 Mar 2027  Sun  12:30 PM  7:00 PM    Website_Loading_How_It_Works_9x16.mp4
+67  09 Mar 2027  Tue  5:30 PM   7:30 PM    Online_Ads_Targeting_How_It_Works_9x16.mp4
+68  11 Mar 2027  Thu  5:30 PM   7:30 PM    Captcha_How_It_Works_9x16.mp4
+69  13 Mar 2027  Sat  12:30 PM  7:00 PM    Netflix_Screen_Record_Black_Screen_9x16.mp4
+70  15 Mar 2027  Mon  5:30 PM   7:30 PM    Google_Translate_How_It_Works_9x16.mp4
+
+=====================================================================
+61) 25 FEB 2027 (Thu) - Email delivery
+File: Email_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How an Email Reaches Inbox in Seconds 📧 #shorts
+
+YOUTUBE DESCRIPTION:
+Your email app hands the message to an outgoing mail server, which looks up the recipient's mail server using DNS, then passes it across using SMTP. The receiving server checks for spam and stores it until their app fetches it.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#email #internet #tech #howitworks #howitworks #science
+
+YOUTUBE TAGS:
+email, SMTP, how email works, mail server, DNS MX
+
+INSTAGRAM CAPTION:
+Where does your email go after you hit send? 📧
+
+Server to server, across the world, in seconds.
+
+How many unread emails do you have? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#email #internet #tech #howitworks #explained #techfacts #networking #gmail
+
+=====================================================================
+62) 27 FEB 2027 (Sat) - YouTube recommendations
+File: YouTube_Recommendations_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How YouTube Decides What You See Next ▶️ #shorts
+
+YOUTUBE DESCRIPTION:
+YouTube's system first picks a few hundred candidate videos from millions, then ranks them using signals like what you watched, how long you watched, likes, skips and surveys. The goal is to predict what you'll enjoy watching.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#youtube #algorithm #tech #ai #howitworks #science
+
+YOUTUBE TAGS:
+youtube algorithm, recommendations, how youtube works, machine learning, watch time
+
+INSTAGRAM CAPTION:
+Why does YouTube know exactly what you want? ▶️🧠
+
+Millions of videos → a few hundred → ranked for you.
+
+What's always in your recommendations? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#youtube #algorithm #tech #ai #howitworks #explained #techfacts #socialmedia
+
+=====================================================================
+63) 01 MAR 2027 (Mon) - Cloud storage
+File: Cloud_Storage_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Where Your Cloud Photos Actually Live ☁️ #shorts
+
+YOUTUBE DESCRIPTION:
+The cloud is real computers in giant data centres. Your files are split, encrypted and copied to several servers, often in different places, so a single broken drive or building doesn't lose them.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#cloud #cloudstorage #datacenter #tech #howitworks #science
+
+YOUTUBE TAGS:
+cloud storage, data centre, google drive, icloud, backup
+
+INSTAGRAM CAPTION:
+The cloud isn't in the sky ☁️🏢
+
+It's thousands of computers in huge buildings keeping copies of your files.
+
+Do you back up your photos? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#cloud #cloudstorage #datacenter #tech #howitworks #explained #techfacts #backup
+
+=====================================================================
+64) 03 MAR 2027 (Wed) - VPN
+File: VPN_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a VPN Works 🔐 #shorts
+
+YOUTUBE DESCRIPTION:
+A VPN wraps your traffic in an encrypted tunnel to a VPN server, which forwards it to websites. Sites see the VPN server's address, and your local network sees only scrambled data. It improves privacy but doesn't make you anonymous.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#vpn #privacy #cybersecurity #tech #howitworks #science
+
+YOUTUBE TAGS:
+VPN, encryption, privacy, IP address, online security
+
+INSTAGRAM CAPTION:
+What does a VPN actually do? 🔐
+
+An encrypted tunnel, a new IP, and a lot more privacy (not invisibility).
+
+Do you use a VPN? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#vpn #privacy #cybersecurity #tech #howitworks #explained #internet #techfacts
+
+=====================================================================
+65) 05 MAR 2027 (Fri) - End-to-end encryption
+File: End_To_End_Encryption_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How End-to-End Encryption Works 🔒 #shorts
+
+YOUTUBE DESCRIPTION:
+With end-to-end encryption, messages are locked on your phone with keys only the recipient's device holds. The server only relays scrambled data it can't read. Each device has a public key to lock and a private key to unlock.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#encryption #privacy #whatsapp #cybersecurity #howitworks #science
+
+YOUTUBE TAGS:
+end to end encryption, whatsapp encryption, public key, private key, privacy
+
+INSTAGRAM CAPTION:
+Not even the app can read it 🔒💬
+
+Locked on your phone, unlocked only on theirs.
+
+Did you know how this works? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#encryption #privacy #whatsapp #cybersecurity #tech #howitworks #explained #techfacts
+
+=====================================================================
+66) 07 MAR 2027 (Sun) - Website loading (DNS)
+File: Website_Loading_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+What Happens When You Open a Website 🌐 #shorts
+
+YOUTUBE DESCRIPTION:
+Typing a website name starts a chain: DNS turns the name into an IP address, your browser connects securely to that server, requests the page, and then loads the images, styles and scripts. All in a blink.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#dns #internet #web #tech #howitworks #science
+
+YOUTUBE TAGS:
+DNS, how websites load, IP address, HTTPS, internet basics
+
+INSTAGRAM CAPTION:
+What happens in the second after you hit enter? 🌐
+
+Name → address → secure connection → page.
+
+Which site do you open first every day? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#dns #internet #web #tech #howitworks #explained #techfacts #networking
+
+=====================================================================
+67) 09 MAR 2027 (Tue) - Ad targeting
+File: Online_Ads_Targeting_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Why Ads Seem to Read Your Mind 🎯 #shorts
+
+YOUTUBE DESCRIPTION:
+Apps and websites collect signals like what you search, watch and buy, and group you into interest categories. When an ad slot loads, advertisers bid in a split-second auction, and the most relevant, highest bid often wins.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#ads #privacy #marketing #tech #howitworks #science
+
+YOUTUBE TAGS:
+targeted ads, ad auction, online advertising, privacy, cookies
+
+INSTAGRAM CAPTION:
+Is your phone listening? 🎯👂
+
+Usually it doesn't need to. Your clicks say plenty.
+
+What's the creepiest ad you've seen? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#ads #privacy #marketing #tech #howitworks #explained #socialmedia #techfacts
+
+=====================================================================
+68) 11 MAR 2027 (Thu) - CAPTCHA
+File: Captcha_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How 'I'm Not a Robot' Knows You're Human 🤖 #shorts
+
+YOUTUBE DESCRIPTION:
+Modern captchas quietly watch behaviour like mouse movement, scrolling and browser details, then give a risk score. Low risk means one click. Suspicious traffic gets image puzzles. As AI gets better at puzzles, behaviour matters more.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#captcha #cybersecurity #bots #tech #howitworks #science
+
+YOUTUBE TAGS:
+captcha, recaptcha, bots, i'm not a robot, web security
+
+INSTAGRAM CAPTION:
+How does one click prove you're human? 🤖✅
+
+It's not the click, it's how you moved before it.
+
+How many traffic lights have you clicked? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#captcha #cybersecurity #bots #tech #howitworks #explained #internet #techfacts
+
+=====================================================================
+69) 13 MAR 2027 (Sat) - Screen-record black screen (DRM)
+File: Netflix_Screen_Record_Black_Screen_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Why Netflix Screen Recording Shows Black ⬛ #shorts
+
+YOUTUBE DESCRIPTION:
+Streaming apps use DRM. The video arrives encrypted, a licence server gives keys only to trusted devices, and decryption happens in a protected part of the chip. The app also marks its window secure, so screen capture records black.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#drm #netflix #streaming #tech #howitworks #science
+
+YOUTUBE TAGS:
+DRM, screen recording, netflix black screen, widevine, streaming
+
+INSTAGRAM CAPTION:
+Tried recording a movie and got a black screen? ⬛🎬
+
+Encryption, licence keys and a 'secure' window flag.
+
+Has this happened to you? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#drm #netflix #streaming #tech #howitworks #explained #techfacts #privacy
+
+=====================================================================
+70) 15 MAR 2027 (Mon) - Google Translate
+File: Google_Translate_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Google Translate Works 🌍 #shorts
+
+YOUTUBE DESCRIPTION:
+Modern translation uses neural networks. Your sentence is split into tokens, turned into numbers, and the model uses attention to understand how words relate. Then it writes the translation one token at a time, learned from millions of human translations.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#googletranslate #ai #languages #tech #howitworks #science
+
+YOUTUBE TAGS:
+google translate, machine translation, neural network, AI, tokens
+
+INSTAGRAM CAPTION:
+How does Translate turn Hindi into Japanese in a second? 🌍
+
+Tokens, attention and millions of examples.
+
+What language would you love to learn? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#googletranslate #ai #languages #tech #howitworks #explained #machinelearning #techfacts
+
