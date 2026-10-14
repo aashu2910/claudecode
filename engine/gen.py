@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Build script.json + scene.js from a compact spec.json:
 # {accent,file,buddy:[shape,light],outro:[l1,l2],scenes:[{name,step,text,emoji,ew,items:[[word,label]],kiko}]}
-import json,sys
+import json,sys,re
 d=sys.argv[1];S=json.load(open(f'{d}/spec.json'))
 json.dump({'accent':S['accent'],'file':S['file'],'scenes':[{k:s[k] for k in('name','step','text')} for s in S['scenes']]},open(f'{d}/script.json','w'),indent=0,ensure_ascii=False)
 J=lambda x:json.dumps(x,ensure_ascii=False)
@@ -9,7 +9,7 @@ cues=['pop','tick','ding','whoosh','lock','beep','scramble']
 out=["const K=kiko();"]
 for si,s in enumerate(S['scenes'][:-1]):
   n=s['name'];its=s.get('items',[]);hook=si==0
-  em=s.get('emoji','');ew=s.get('ew') or ''.join(c for c in s['text'].split()[0] if c.isalnum())
+  em=s.get('emoji','');ew=s.get('ew') or re.match(r'[A-Za-z0-9]*',s['text']).group(0)
   ny=len(its);top=880 if em else 600
   out.append("{"+f"const E=mk('<div style=\"font-size:{230 if hook else 190}px\">{em}</div>'),"
     f"L={J([i[1] for i in its])}.map((s,i)=>label(s,i==0?'tok':'pill',{34 if max([len(i[1]) for i in its]+[0])<26 else 28}))"+(",Q=qmark();" if hook else ";")+
