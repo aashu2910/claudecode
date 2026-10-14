@@ -8,7 +8,7 @@ SCN('hook',(t,o)=>{cplace(C,t,540,560,{op:o,s:1.2,popT:S0('hook')-.3,ir:t>tn?1:0
 // LEDS
 {const C=camC(),R=Array.from({length:6},()=>mk('<div style="width:14px;height:300px;border-radius:7px;background:linear-gradient(rgba(239,68,68,.6),transparent)"></div>')),L=label('infrared: invisible to our eyes 👁️✕','tok',30);
 const tl=W('leds','leds'),ti=W('leds','infrared');cue(tl,'pop');cue(ti,'shimmer');
-SCN('leds',(t,o)=>{cplace(C,t,540,760,{op:o,s:2,ir:t>tl?1:0,mood:'grin'});R.forEach((r,i)=>place(r,330+i*90,1000+((t*100+i*30)%60),1,o*p(t,ti,ti+.4)*.6));place(L,540,400,pop(t,ti),o)})}
+SCN('leds',(t,o)=>{cplace(C,t,540,760,{op:o,s:2,ir:t>tl?1:0,mood:'grin'});R.forEach((r,i)=>place(r,330+i*90,1000+((t*100+i*30)%60),1,o*p(t,ti,ti+.4)*.6));place(L,540,1250,pop(t,ti),o)})}
 // SENSOR
 {const Sn=mk('<div style="width:320px;height:240px;border-radius:16px;background:linear-gradient(135deg,#1e1b4b,#4c1d95);border:5px solid #4ade80;display:grid;grid-template-columns:repeat(8,1fr);gap:4px;padding:16px">'+Array(32).fill('<div class="sp" style="border-radius:3px"></div>').join('')+'</div>'),L1=label('image sensor sees infrared ✓','tok',30),L2=label('lit… invisibly','pill',30);
 const tp=W('sensor','pick'),tl=W('sensor','lit');cue(tp,'beep');cue(tl,'ding');
