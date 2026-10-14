@@ -1,0 +1,9 @@
+{"accent":"#ef4444","file":"ABS_Brakes_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Slam the brakes hard, and older cars could skid straight ahead. With ABS, you can still steer. How?"},
+{"name":"lock","step":"01 · Locked wheels","text":"If a wheel stops spinning while the car is still moving, it skids. A skidding tyre has less grip, and you can't steer."},
+{"name":"sensors","step":"02 · Wheel sensors","text":"Each wheel has a speed sensor. A control unit watches all of them, many times a second."},
+{"name":"detect","step":"03 · About to lock","text":"If one wheel slows down much faster than the car, the computer knows it's about to lock."},
+{"name":"pulse","step":"04 · Pulse the brakes","text":"A valve block releases and reapplies brake pressure on that wheel, many times a second, keeping it right at the edge of grip."},
+{"name":"steer","step":"05 · You keep steering","text":"Because the wheels keep rolling, you can steer around an obstacle. The pedal may buzz under your foot. That's normal, keep pressing firmly."},
+{"name":"india","step":"06 · In India","text":"ABS is now standard on new cars, and since 2019, it's required on motorcycles above one hundred and twenty five cc."},
+{"name":"outro","step":"Recap","text":"Sense, release, reapply, steer. Braking without skidding. Follow for more on how things really work."}]}

@@ -1,0 +1,9 @@
+{"accent":"#22c55e","file":"Stock_Price_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"A share price on your app keeps changing every second. So who is actually setting that price?"},
+{"name":"exchange","step":"01 · The exchange","text":"In India, shares trade on exchanges like NSE and BSE. Your broker's app sends your order there."},
+{"name":"book","step":"02 · Order book","text":"For every stock, the exchange keeps an order book. Buyers list the highest price they'll pay, and sellers list the lowest they'll accept."},
+{"name":"match","step":"03 · Matching","text":"When a buy price meets a sell price, a computer matches them instantly. That's a trade."},
+{"name":"ltp","step":"04 · The price","text":"The price you see is simply the last traded price. Every new trade can nudge it up or down."},
+{"name":"news","step":"05 · Why it moves","text":"Good news brings more buyers, who bid higher. Bad news brings more sellers, who ask lower. Supply and demand, every second."},
+{"name":"settle","step":"06 · Settlement","text":"After the trade, the shares and money actually change hands one working day later, called T plus one settlement."},
+{"name":"outro","step":"Recap","text":"Orders, book, match, price. A crowd setting a number. Follow for more on how things really work."}]}

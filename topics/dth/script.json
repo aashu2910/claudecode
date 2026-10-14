@@ -1,0 +1,9 @@
+{"accent":"#f59e0b","file":"DTH_Satellite_TV_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Your DTH dish never moves, yet it gets hundreds of channels from space. How?"},
+{"name":"geo","step":"01 · Fixed in the sky","text":"DTH satellites sit about thirty six thousand kilometres above the equator. At that height, they circle Earth exactly as fast as it spins, so they seem fixed in the sky."},
+{"name":"uplink","step":"02 · Uplink","text":"The TV company beams all its channels up from a big earth station to the satellite."},
+{"name":"down","step":"03 · Beamed down","text":"The satellite sends the signal back down over a huge area, covering the whole country at once."},
+{"name":"dish","step":"04 · The dish","text":"Your dish's curved shape collects the faint signal, and focuses it onto a small device at the front, called the LNB, which boosts it."},
+{"name":"box","step":"05 · Set top box","text":"The signal travels down the cable to your set top box, which decodes it, and unlocks only the channels you've paid for."},
+{"name":"rain","step":"06 · Rain fade","text":"In India, dishes point roughly south, toward the equator. Very heavy rain can absorb the signal, which is why the picture sometimes freezes in a storm."},
+{"name":"outro","step":"Recap","text":"Satellite, dish, LNB, box. TV from space. Follow for more on how things really work."}]}
