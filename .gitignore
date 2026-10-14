@@ -17,3 +17,7 @@ built.html
 sfx.json
 *.log
 timeline.json
+topics/*/approved
+topics/*/.lock
+topics/*/.stfail
+topics/*/stills.log
