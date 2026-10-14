@@ -693,3 +693,350 @@ Window seat or aisle seat? 👇
 Follow @the_working_behind for more on how everyday things work.
 
 #airplane #aviation #flight #howitworks #physics #science #travel #explained
+
+
+#####################################################################
+BATCH 3 - from 7 December 2026 (every other day, skip 1 day)
+#####################################################################
+
+ #  Date         Day  YouTube   Instagram  Video file
+21  07 Dec 2026  Mon  5:30 PM   7:30 PM    EV_Battery_How_It_Works_9x16.mp4
+22  09 Dec 2026  Wed  5:30 PM   7:30 PM    Metro_Stopping_How_It_Works_9x16.mp4
+23  11 Dec 2026  Fri  5:30 PM   7:30 PM    Video_Streaming_How_It_Works_9x16.mp4
+24  13 Dec 2026  Sun  12:30 PM  7:00 PM    Lie_Detector_How_It_Works_9x16.mp4
+25  15 Dec 2026  Tue  5:30 PM   7:30 PM    Air_Conditioner_How_It_Works_9x16.mp4
+26  17 Dec 2026  Thu  5:30 PM   7:30 PM    5G_How_It_Works_9x16.mp4
+27  19 Dec 2026  Sat  12:30 PM  7:00 PM    Smartwatch_Heart_Rate_How_It_Works_9x16.mp4
+28  21 Dec 2026  Mon  5:30 PM   7:30 PM    Spam_Calls_How_It_Works_9x16.mp4
+29  23 Dec 2026  Wed  5:30 PM   7:30 PM    MRI_Scan_How_It_Works_9x16.mp4
+30  25 Dec 2026  Fri  5:30 PM   7:30 PM    Washing_Machine_Spin_How_It_Works_9x16.mp4
+
+
+=====================================================================
+21) 07 DEC 2026 (Mon) - EV battery
+File: EV_Battery_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How an Electric Car Battery Moves You 🔋 #shorts
+
+YOUTUBE DESCRIPTION:
+An EV's battery pack holds hundreds or thousands of lithium-ion cells. As you drive, lithium ions move inside each cell while electrons flow out through the wires. An inverter turns that DC into AC for the motor.
+
+The motor spins the wheels with strong torque almost instantly, regenerative braking sends energy back when you slow down, and a battery management system watches every cell.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#ev #electriccar #howitworks #battery #techexplained
+
+YOUTUBE TAGS:
+electric car, EV battery, how EV works, lithium ion, regenerative braking, inverter
+
+INSTAGRAM CAPTION:
+No engine. No fuel tank. No gears. So what's moving an EV? ⚡🚗
+
+Thousands of lithium-ion cells push electrons out, an inverter shapes the power, and the motor spins instantly. Brake, and it charges itself a little.
+
+Would your next car be electric? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#ev #electricvehicle #electriccar #howitworks #techexplained #battery #automobile #explained
+
+
+=====================================================================
+22) 09 DEC 2026 (Wed) - Metro stopping
+File: Metro_Stopping_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a Metro Stops Exactly at the Doors 🚇 #shorts
+
+YOUTUBE DESCRIPTION:
+A metro counts wheel turns to track distance, and beacons on the track called balises correct its position. On many new lines, CBTC lets each train radio its position and speed to a control centre, which sends back a safe limit.
+
+Automatic train protection brakes if it goes too fast, and automatic train operation brakes smoothly to stop right on the mark, before the doors and platform gates open together.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#metro #train #howitworks #engineering #techexplained
+
+YOUTUBE TAGS:
+metro train, how metro stops, CBTC, train signalling, automatic train operation, platform screen doors
+
+INSTAGRAM CAPTION:
+The metro stops with its doors lined up almost perfectly every time 🚇🎯
+
+Beacons on the track, radio contact with a control centre, and automatic braking curves make it happen. The doors only open when it's in the right spot.
+
+Which city's metro do you ride most? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#metro #delhimetro #mumbaimetro #train #howitworks #engineering #techexplained #explained
+
+
+=====================================================================
+23) 11 DEC 2026 (Fri) - Video streaming
+File: Video_Streaming_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Why Videos Don't Keep Buffering Anymore 📺 #shorts
+
+YOUTUBE DESCRIPTION:
+Every video is compressed and saved in several qualities, from 144p up to 4K, then cut into chunks a few seconds long. Copies sit on CDN servers close to you, so data doesn't cross the world.
+
+Your app downloads a few chunks ahead, keeps measuring your speed, and switches to lower quality instead of pausing when the network slows.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#streaming #youtube #howitworks #internet #techexplained
+
+YOUTUBE TAGS:
+video streaming, buffering, adaptive bitrate, CDN, how streaming works, video quality
+
+INSTAGRAM CAPTION:
+Ever noticed your video suddenly gets blurry… but never stops? 📺😅
+
+That's on purpose. Videos are split into small chunks in many qualities, and your app switches quality on the fly instead of buffering.
+
+Do you watch on auto quality or force HD? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#streaming #youtube #netflix #internet #howitworks #techexplained #videos #explained
+
+
+=====================================================================
+24) 13 DEC 2026 (Sun) - Lie detector
+File: Lie_Detector_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Does a Lie Detector Really Detect Lies? 🤥 #shorts
+
+YOUTUBE DESCRIPTION:
+A polygraph records blood pressure and pulse, breathing and skin sweat while the examiner mixes neutral, control and real questions. A stronger reaction to real questions is read as deception.
+
+But it measures stress, not lies. Scientific reviews have found it far from reliable, and in India the Supreme Court ruled it can't be forced on anyone without consent.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#liedetector #polygraph #howitworks #science #law
+
+YOUTUBE TAGS:
+lie detector, polygraph, how polygraph works, lie detector test India, polygraph accuracy, science explained
+
+INSTAGRAM CAPTION:
+A lie detector doesn't detect lies 🤥📈
+
+It tracks your pulse, breathing and sweat, which means stress, not truth. A nervous innocent person can fail, and a calm liar can pass.
+
+Would you trust a lie detector test? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#liedetector #polygraph #science #crime #howitworks #psychology #facts #explained
+
+
+=====================================================================
+25) 15 DEC 2026 (Tue) - Air conditioner
+File: Air_Conditioner_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Why Your AC Blows Hot Air Outside ❄️ #shorts
+
+YOUTUBE DESCRIPTION:
+An AC doesn't make cold. It moves heat out of your room. Room air passes over cold coils where refrigerant evaporates and soaks up heat, and moisture condenses into the water that drips from the pipe.
+
+Outside, the compressor squeezes the refrigerant until it's hot and the fan blows that heat away. Inverter ACs adjust compressor speed to save power, and India set 24°C as the default.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#airconditioner #ac #howitworks #science #savepower
+
+YOUTUBE TAGS:
+air conditioner, how AC works, inverter AC, AC 24 degree, refrigerant, AC outdoor unit
+
+INSTAGRAM CAPTION:
+Your AC doesn't make cold. It throws your room's heat outside 🥵➡️❄️
+
+That's why the outdoor unit blows hot air. And why 24°C is the default: every degree lower costs more electricity.
+
+What temperature do you keep your AC on? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#airconditioner #ac #summer #howitworks #science #savepower #homeappliances #explained
+
+
+=====================================================================
+26) 17 DEC 2026 (Thu) - 5G
+File: 5G_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Why 5G Is So Much Faster Than 4G 📶 #shorts
+
+YOUTUBE DESCRIPTION:
+5G uses wider chunks of radio spectrum, like a wider highway, and in India mostly runs around 3.5 GHz and 26 GHz. Towers use massive MIMO, dozens of tiny antennas serving many phones at once, and beamforming to aim the signal at you.
+
+The catch: higher frequencies don't travel as far and walls block them more, so 5G needs more towers. It also cuts delay for gaming and video calls.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#5g #internet #howitworks #techexplained #telecom
+
+YOUTUBE TAGS:
+5G, 5G vs 4G, how 5G works, massive MIMO, beamforming, 5G India
+
+INSTAGRAM CAPTION:
+Same phone, same spot, 10x the speed. What changed? 📶⚡
+
+5G uses wider radio lanes, dozens of tiny antennas, and beams aimed right at your phone. The catch? It doesn't travel as far, so it needs more towers.
+
+Do you actually get 5G where you live? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#5g #jio #airtel #internet #howitworks #techexplained #telecom #explained
+
+
+=====================================================================
+27) 19 DEC 2026 (Sat) - Smartwatch heart rate
+File: Smartwatch_Heart_Rate_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Your Smartwatch Reads Your Heart Rate ⌚ #shorts
+
+YOUTUBE DESCRIPTION:
+Those green LEDs on the back of your watch shine into your wrist. Blood absorbs green light, and every heartbeat swells your vessels with more blood, so the reflected light rises and falls.
+
+A sensor turns that into a wave with one bump per beat, software counts the bumps and filters out movement. Loose straps, tattoos or hard workouts can throw it off.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#smartwatch #heartrate #howitworks #fitness #techexplained
+
+YOUTUBE TAGS:
+smartwatch heart rate, how smartwatch works, PPG sensor, green light heart rate, fitness tracker, wearables
+
+INSTAGRAM CAPTION:
+Your watch measures your pulse… with green light 💚⌚
+
+Blood absorbs green light, and every heartbeat changes how much. Count the bumps, and you get your bpm.
+
+What's your resting heart rate? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#smartwatch #heartrate #fitness #health #howitworks #techexplained #wearables #explained
+
+
+=====================================================================
+28) 21 DEC 2026 (Mon) - Spam calls
+File: Spam_Calls_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Spam Callers Get Your Number 📞 #shorts
+
+YOUTUBE DESCRIPTION:
+Your number can leak through data breaches, shared forms, shopping sign-ups and apps that read your contacts. These get bundled into lists and sold, tagged with your city, age or interests. Auto-dialers then call huge numbers at once.
+
+Picking up marks your number as active. Caller ID apps like Truecaller flag spam using crowdsourced data. In India, use DND via TRAI and remember registered telemarketers must use 140 numbers.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#spamcalls #truecaller #howitworks #privacy #india
+
+YOUTUBE TAGS:
+spam calls, how spam callers get number, Truecaller, TRAI DND, data leak, telemarketing 140
+
+INSTAGRAM CAPTION:
+You never gave them your number. So how do they keep calling? 📞😤
+
+Leaks, sold lists and auto-dialers. And every time you answer, your number becomes more valuable to them.
+
+How many spam calls do you get a day? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#spamcalls #truecaller #privacy #cybersecurity #howitworks #india #techexplained #explained
+
+
+=====================================================================
+29) 23 DEC 2026 (Wed) - MRI scan
+File: MRI_Scan_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How an MRI Sees Inside Your Body 🧲 #shorts
+
+YOUTUBE DESCRIPTION:
+An MRI is a huge magnet, around 1.5 to 3 tesla. Hydrogen nuclei in your body's water line up with it, a radio pulse knocks them out of line, and as they relax they give off faint radio signals.
+
+Extra coils (the loud knocking) encode where each signal came from, and different tissues relax at different speeds, which creates the image. No ionising radiation, but no metal allowed.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#mri #medical #howitworks #physics #science
+
+YOUTUBE TAGS:
+MRI, how MRI works, MRI scan, magnetic resonance imaging, medical imaging, physics explained
+
+INSTAGRAM CAPTION:
+An MRI sees inside you using magnets and radio waves. No X-rays 🧲📡
+
+It nudges the hydrogen in your body's water and listens to it "echo" back. That loud knocking? Those are the coils mapping where each signal came from.
+
+Have you ever had an MRI? How loud was it? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#mri #medical #health #science #physics #howitworks #doctor #explained
+
+
+=====================================================================
+30) 25 DEC 2026 (Fri) - Washing machine spin
+File: Washing_Machine_Spin_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a Washing Machine Spins Clothes Dry 🌀 #shorts
+
+YOUTUBE DESCRIPTION:
+After rinsing, the machine pumps out loose water, then spins the drum at around 1,000+ rpm in many front-loaders. Anything moving in a circle tends to fly off in a straight line, which is inertia.
+
+The drum wall holds the clothes in, but water slips through the holes. Clothes feel hundreds of times gravity, and sensors slow the drum if the load is unbalanced.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#washingmachine #physics #howitworks #science #homeappliances
+
+YOUTUBE TAGS:
+washing machine spin, how washing machine works, spin cycle, centrifugal force, inertia, home appliances
+
+INSTAGRAM CAPTION:
+Soaking wet in, just damp out. Where does the water go? 🌀💧
+
+The drum spins so fast that water flies straight out through the tiny holes while the clothes stay in. Pure physics.
+
+Ever seen your washing machine "walk" during spin? 😂👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#washingmachine #laundry #physics #science #howitworks #homeappliances #lifehacks #explained
