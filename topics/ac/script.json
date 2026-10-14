@@ -1,0 +1,9 @@
+{"accent":"#06b6d4","file":"Air_Conditioner_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Your AC makes the room cold. But stand next to the outdoor unit, and it's blowing hot air. Why?"},
+{"name":"move","step":"01 · Moving heat","text":"An AC doesn't create cold. It pulls heat out of your room, and dumps it outside."},
+{"name":"indoor","step":"02 · Indoor unit","text":"Room air is blown across cold coils, where refrigerant evaporates, and soaks up the heat."},
+{"name":"dry","step":"03 · Drying the air","text":"Moisture from the air condenses on those cold coils. That's the water dripping from the pipe."},
+{"name":"outdoor","step":"04 · Outdoor unit","text":"The compressor squeezes the refrigerant until it's hot, and the outdoor fan blows that heat away."},
+{"name":"inverter","step":"05 · Inverter AC","text":"An inverter AC changes its compressor speed, instead of switching fully on and off, so it uses less power."},
+{"name":"temp","step":"06 · Why 24°C","text":"Every degree lower costs more electricity. That's why India's energy efficiency bureau made twenty four degrees the default."},
+{"name":"outro","step":"Recap","text":"Absorb, squeeze, release, repeat. Cool, by moving heat. Follow for more on how things really work."}]}

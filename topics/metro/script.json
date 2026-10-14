@@ -1,0 +1,9 @@
+{"accent":"#a855f7","file":"Metro_Stopping_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"A metro train glides in, and stops with its doors lined up almost exactly with the platform gates. How?"},
+{"name":"where","step":"01 · Where am I?","text":"The train counts wheel turns to track distance. But wheels can slip, so beacons on the track, called balises, correct its position."},
+{"name":"talk","step":"02 · Train talks","text":"On many new lines, a system called CBTC lets each train constantly radio its position and speed to a control centre."},
+{"name":"gap","step":"03 · Safe gap","text":"The control system works out how far ahead each train can safely go, and sends it a limit. That keeps trains apart."},
+{"name":"atp","step":"04 · Protection","text":"If a train goes faster than its limit allows, automatic train protection applies the brakes on its own."},
+{"name":"ato","step":"05 · Precise stop","text":"Automatic train operation brakes along a smooth curve, using beacons near the platform, to stop right on the mark."},
+{"name":"doors","step":"06 · Doors","text":"Only once it has stopped in the right spot, do the train doors and the platform gates open together."},
+{"name":"outro","step":"Recap","text":"Wheels, beacons, radio, brakes. Stopping on the dot. Follow for more on how things really work."}]}

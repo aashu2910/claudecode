@@ -1,0 +1,9 @@
+{"accent":"#10b981","file":"Smartwatch_Heart_Rate_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Your watch shows your heart rate, without touching your chest. How does a light know your pulse?"},
+{"name":"led","step":"01 · Green light","text":"Flip the watch over. Those green LEDs shine light into the skin on your wrist."},
+{"name":"blood","step":"02 · Blood absorbs","text":"Blood is red, so it absorbs green light well. More blood means more green light absorbed."},
+{"name":"beat","step":"03 · Each beat","text":"With every heartbeat, a pulse of blood swells the vessels, then it drops. So the absorbed light rises and falls."},
+{"name":"sensor","step":"04 · Light sensor","text":"A sensor beside the LEDs measures the light bouncing back. That makes a wave, one bump per beat."},
+{"name":"count","step":"05 · Count bumps","text":"Software counts the bumps per minute, and uses the motion sensor to filter out wrist movement."},
+{"name":"limits","step":"06 · Limits","text":"A loose strap, tattoos, or hard workouts can throw it off. Chest straps are usually more accurate."},
+{"name":"outro","step":"Recap","text":"Light, blood, bumps, beats. Your pulse, in green. Follow for more on how things really work."}]}

@@ -1,0 +1,9 @@
+{"accent":"#ef4444","file":"Video_Streaming_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You tap play, and the video starts in a second, even on a shaky connection. Why doesn't it keep buffering?"},
+{"name":"versions","step":"01 · Many versions","text":"Before you ever watch it, the video is compressed and saved in several qualities, from one forty four p, up to 4K."},
+{"name":"chunks","step":"02 · Small chunks","text":"Each version is cut into small chunks, just a few seconds long."},
+{"name":"cdn","step":"03 · Nearby servers","text":"Copies are stored on servers close to you, called a CDN, so the data doesn't cross the world every time."},
+{"name":"buffer","step":"04 · Buffer ahead","text":"Your app downloads a few chunks ahead of what you're watching. That buffer covers small hiccups."},
+{"name":"adapt","step":"05 · Switch quality","text":"It keeps measuring your speed. If the network slows down, the next chunk comes in lower quality, instead of pausing."},
+{"name":"decode","step":"06 · Decode","text":"Your phone's chip decodes each chunk back into frames, dozens every second."},
+{"name":"outro","step":"Recap","text":"Versions, chunks, buffer, switch. Smooth by design. Follow for more on how things really work."}]}

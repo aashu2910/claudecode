@@ -1,0 +1,9 @@
+{"accent":"#3b82f6","file":"MRI_Scan_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"An MRI sees inside your body in fine detail, without any X rays. So how does it see?"},
+{"name":"magnet","step":"01 · Giant magnet","text":"The tube is a huge magnet, around one point five to three tesla. Tens of thousands of times stronger than Earth's magnetic field."},
+{"name":"align","step":"02 · Hydrogen lines up","text":"Your body is full of water, and water has hydrogen. Their nuclei act like tiny magnets, and line up with the field."},
+{"name":"pulse","step":"03 · Radio pulse","text":"A radio pulse knocks them out of line. When it stops, they relax back, giving off faint radio signals."},
+{"name":"where","step":"04 · Where is it?","text":"Extra coils make the field slightly different at each spot, so each signal reveals its location. That loud knocking is those coils switching."},
+{"name":"image","step":"05 · Contrast","text":"Fat, water and other tissues relax at different speeds, so a computer turns the signals into a detailed image."},
+{"name":"safe","step":"06 · Safety","text":"No ionising radiation is used. But the magnet is always on, so metal objects are strictly kept out."},
+{"name":"outro","step":"Recap","text":"Magnet, hydrogen, radio, image. Seeing with physics. Follow for more on how things really work."}]}

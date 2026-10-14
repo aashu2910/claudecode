@@ -1,0 +1,9 @@
+{"accent":"#22c55e","file":"EV_Battery_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"An electric car has no engine, no fuel tank, and no gears to shift. So what's really moving it?"},
+{"name":"pack","step":"01 · The pack","text":"Under the floor sits a battery pack. Hundreds, or even thousands, of lithium ion cells, wired together."},
+{"name":"ions","step":"02 · Ions move","text":"Each cell has two sides. As you drive, lithium ions flow from one side to the other inside the cell, and electrons flow out through the wires."},
+{"name":"inv","step":"03 · Inverter","text":"That current is DC. An inverter turns it into AC, at the exact frequency the motor needs."},
+{"name":"motor","step":"04 · Motor","text":"In the motor, changing magnetic fields spin the rotor, which turns the wheels. Strong torque, almost instantly."},
+{"name":"regen","step":"05 · Regen braking","text":"When you slow down, the motor works as a generator, sending energy back into the battery."},
+{"name":"bms","step":"06 · Battery brain","text":"A battery management system watches every cell's voltage and temperature, while cooling keeps the pack in its comfort zone."},
+{"name":"outro","step":"Recap","text":"Cells, inverter, motor, regen. Electricity in motion. Follow for more on how things really work."}]}

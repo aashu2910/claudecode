@@ -1,0 +1,9 @@
+{"accent":"#8b5cf6","file":"5G_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Same phone, same place, but 5G downloads way faster than 4G. What actually changed?"},
+{"name":"lanes","step":"01 · Wider lanes","text":"5G uses wider chunks of radio spectrum. A wider channel is like a wider highway. More data fits through at once."},
+{"name":"freq","step":"02 · Higher bands","text":"In India, 5G mostly runs around three point five gigahertz, and some at twenty six gigahertz. Higher than most 4G bands."},
+{"name":"mimo","step":"03 · Many antennas","text":"Towers use massive MIMO. Dozens of tiny antennas, sending separate streams to many phones at the same time."},
+{"name":"beam","step":"04 · Beamforming","text":"They focus the signal into a beam aimed at your phone, instead of spraying it everywhere."},
+{"name":"range","step":"05 · The catch","text":"Higher frequencies don't travel as far, and walls block them more. So 5G needs more towers."},
+{"name":"lat","step":"06 · Faster replies","text":"5G also cuts delay, the time it takes to get a response, which helps gaming and video calls."},
+{"name":"outro","step":"Recap","text":"Wider, higher, beams, more towers. That's the jump. Follow for more on how things really work."}]}

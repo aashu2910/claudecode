@@ -1,0 +1,9 @@
+{"accent":"#f97316","file":"Spam_Calls_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You never gave them your number, yet they call about loans and offers every day. How did they get it?"},
+{"name":"leaks","step":"01 · Data leaks","text":"Numbers leak through data breaches, shared forms, shopping sign ups, and apps that read your contacts."},
+{"name":"lists","step":"02 · Sold lists","text":"These get bundled into lists and sold, often tagged with your city, age, or interests."},
+{"name":"dialer","step":"03 · Auto dialers","text":"Software dials huge numbers of calls at once. Some even try numbers in sequence."},
+{"name":"answer","step":"04 · You answered","text":"If you pick up, your number gets marked as active, and becomes more valuable. So you get even more calls."},
+{"name":"callerid","step":"05 · Caller ID apps","text":"Apps like Truecaller name callers using crowdsourced contact data, and spam reports from millions of users."},
+{"name":"fight","step":"06 · Fight back","text":"In India, turn on DND through TRAI, report spam, and remember, registered telemarketers must use numbers starting with one four zero."},
+{"name":"outro","step":"Recap","text":"Leak, list, dial, flag. Now you know. Follow for more on how things really work."}]}
