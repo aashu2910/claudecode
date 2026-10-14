@@ -1,0 +1,348 @@
+THE WORKING BEHIND - POSTING SCHEDULE
+=====================================
+Flow: post every other day (skip 1 day), starting 28 October 2026.
+Times are IST.
+  YouTube:   5:30 PM weekdays / 12:30 PM weekends
+  Instagram: 7:30 PM weekdays / 7:00 PM weekends
+
+ #  Date         Day  YouTube   Instagram  Video file
+ 1  28 Oct 2026  Wed  5:30 PM   7:30 PM    FASTag_Toll_How_It_Works_9x16.mp4
+ 2  30 Oct 2026  Fri  5:30 PM   7:30 PM    Food_Delivery_Time_How_It_Works_9x16.mp4
+ 3  01 Nov 2026  Sun  12:30 PM  7:00 PM    Photosynthesis_How_It_Works_9x16.mp4
+ 4  03 Nov 2026  Tue  5:30 PM   7:30 PM    Noise_Cancelling_How_It_Works_9x16.mp4
+ 5  05 Nov 2026  Thu  5:30 PM   7:30 PM    Fingerprint_Sensor_How_It_Works_9x16.mp4
+ 6  07 Nov 2026  Sat  12:30 PM  7:00 PM    Surge_Pricing_How_It_Works_9x16.mp4
+ 7  09 Nov 2026  Mon  5:30 PM   7:30 PM    Instagram_Reels_Algorithm_How_It_Works_9x16.mp4
+ 8  11 Nov 2026  Wed  5:30 PM   7:30 PM    Microwave_How_It_Works_9x16.mp4
+ 9  13 Nov 2026  Fri  5:30 PM   7:30 PM    GPS_Location_How_It_Works_9x16.mp4
+10  15 Nov 2026  Sun  12:30 PM  7:00 PM    Touchscreen_How_It_Works_9x16.mp4
+
+
+=====================================================================
+1) 28 OCT 2026 (Wed) - FASTag
+File: FASTag_Toll_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How FASTag Pays Toll Without Stopping 🚗 #shorts
+
+YOUTUBE DESCRIPTION:
+That sticker on your windscreen has a tiny chip and antenna but no battery. Radio waves from the toll lane power it, and it sends back a unique tag ID.
+
+The plaza works out your toll by vehicle class, routes it through NPCI's toll network to your bank, gets an approval, and lifts the barrier, usually within seconds.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#fastag #howitworks #rfid #tollplaza #techexplained
+
+YOUTUBE TAGS:
+FASTag, how FASTag works, RFID toll, NETC NPCI, toll plaza India, electronic toll collection
+
+INSTAGRAM CAPTION:
+The barrier lifts before you even stop 🚗💨
+
+That FASTag sticker has no battery. A radio antenna above the lane powers its chip, reads its ID, and your bank deducts the toll through NPCI's network, usually within seconds.
+
+Have you ever had FASTag fail at a toll plaza? Tell us what happened 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#fastag #tollplaza #howitworks #techexplained #indianroads #rfid #roadtrip #explained
+
+
+=====================================================================
+2) 30 OCT 2026 (Fri) - Swiggy/Zomato delivery time
+File: Food_Delivery_Time_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Food Apps Predict Your Delivery Time 🍛 #shorts
+
+YOUTUBE DESCRIPTION:
+That ETA isn't one guess. It's several small ones added up: how long the restaurant usually takes, how busy the kitchen is, when a nearby rider can reach it, and how long the ride will take with live traffic.
+
+It even adds time to find your building, and keeps updating as the rider's GPS moves.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#fooddelivery #swiggy #zomato #howitworks #techexplained
+
+YOUTUBE TAGS:
+Swiggy delivery time, Zomato ETA, food delivery algorithm, delivery time prediction, how food apps work, machine learning ETA
+
+INSTAGRAM CAPTION:
+"Arriving in 32 minutes." Not 30. Not 35. Why 32? 🍛⏱️
+
+That number is a sum of smaller predictions: kitchen prep time, the rider's pickup, the ride based on traffic and rain, and a few minutes to find your building.
+
+What's the longest your food has ever taken past its ETA? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#swiggy #zomato #fooddelivery #howitworks #techexplained #machinelearning #foodie #explained
+
+
+=====================================================================
+3) 01 NOV 2026 (Sun) - Photosynthesis (cartoon style)
+File: Photosynthesis_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Plants Make Food From Sunlight ☀️ #shorts
+
+YOUTUBE DESCRIPTION:
+Plants make their own food from three things: sunlight, water from the roots, and carbon dioxide that slips in through tiny pores called stomata.
+
+Chlorophyll soaks up red and blue light and bounces green back. That's why leaves look green. The light splits water to release oxygen, and the energy turns CO2 into glucose.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#photosynthesis #science #biology #howitworks #plants
+
+YOUTUBE TAGS:
+photosynthesis, how photosynthesis works, chlorophyll, plants make food, biology explained, science for kids
+
+INSTAGRAM CAPTION:
+A tree never eats a single meal. So where does its food come from? 🌳☀️
+
+Leaves mix sunlight, water and CO₂ into sugar. Light splits water, and the oxygen you're breathing right now is basically the plant's leftovers.
+
+Did you know leaves look green because they reject green light? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#photosynthesis #science #biology #howitworks #plants #nature #scienceexplained #learnwithreels
+
+
+=====================================================================
+4) 03 NOV 2026 (Tue) - Noise-cancelling earphones
+File: Noise_Cancelling_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Noise Cancelling Erases Sound 🎧 #shorts
+
+YOUTUBE DESCRIPTION:
+Sound is a pressure wave. Noise-cancelling earbuds use a tiny outside mic to hear incoming noise, then a chip creates the exact opposite wave and plays it through the speaker.
+
+The two waves cancel out in your ear. An inside mic checks what's left and corrects it. It works best on low, steady sounds like engines.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#noisecancelling #anc #earbuds #howitworks #techexplained
+
+YOUTUBE TAGS:
+noise cancelling, how ANC works, active noise cancellation, earbuds, destructive interference, headphones explained
+
+INSTAGRAM CAPTION:
+Your earphones fight sound… with more sound 🎧🤫
+
+A mic hears the noise outside, a chip creates the exact opposite wave, and the two cancel out in your ear in under a millisecond. Works best on engine hum, less on voices.
+
+Bus, flight or office: where do you use ANC the most? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#noisecancelling #anc #earbuds #howitworks #techexplained #audio #gadgets #explained
+
+
+=====================================================================
+5) 05 NOV 2026 (Thu) - Fingerprint sensor
+File: Fingerprint_Sensor_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Your Phone Recognises Your Fingerprint 👆 #shorts
+
+YOUTUBE DESCRIPTION:
+Your fingertip has a unique pattern of ridges and valleys. The sensor images it using tiny capacitor cells, light or sound, then software finds key points where ridges end or split.
+
+Those points form a template locked in a secure part of the chip. Every touch gets a match score, and only above the threshold does the phone unlock.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#fingerprint #biometrics #howitworks #smartphone #techexplained
+
+YOUTUBE TAGS:
+fingerprint sensor, how fingerprint works, biometrics, phone unlock, minutiae, smartphone security
+
+INSTAGRAM CAPTION:
+Your phone doesn't store a photo of your fingerprint 👆🔒
+
+It saves only key points (where ridges end or split) in a locked chip area. Each touch is scored against that map, and a stranger fools it only about 1 in 50,000 times.
+
+Which finger do you use to unlock your phone? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#fingerprint #smartphone #howitworks #techexplained #security #biometrics #gadgets #explained
+
+
+=====================================================================
+6) 07 NOV 2026 (Sat) - Uber/Ola surge pricing
+File: Surge_Pricing_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Uber & Ola Surge Pricing Works 🚕 #shorts
+
+YOUTUBE DESCRIPTION:
+Cities are split into small hexagon zones. When ride requests in a zone far outnumber free drivers, because of rain, office rush or a concert, an algorithm sets a price multiplier.
+
+Higher prices pull drivers in and make some riders wait, so the multiplier drops as things balance. In India, rules cap surge at 2x the base fare.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#surgepricing #uber #ola #howitworks #techexplained
+
+YOUTUBE TAGS:
+surge pricing, Uber surge, Ola surge, dynamic pricing, cab fare algorithm, ride hailing
+
+INSTAGRAM CAPTION:
+It starts raining and your cab fare almost doubles 🌧️🚕
+
+No one's raising it by hand. An algorithm compares ride requests with free drivers in your zone, sets a multiplier, and drops it as drivers arrive.
+
+What's the highest surge you've ever paid? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#uber #ola #surgepricing #howitworks #techexplained #cab #algorithm #explained
+
+
+=====================================================================
+7) 09 NOV 2026 (Mon) - Instagram reels
+File: Instagram_Reels_Algorithm_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Instagram Picks Your Next Reel 📱 #shorts
+
+YOUTUBE DESCRIPTION:
+Instagram first gathers thousands of possible reels, mostly from accounts you don't follow. Models then predict how likely you are to watch fully, like, share or open the audio.
+
+Those predictions become one score, guideline-breaking reels are filtered out, and creators are mixed up. Everything you do becomes a new signal for the next pick.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#instagram #reels #algorithm #howitworks #techexplained
+
+YOUTUBE TAGS:
+Instagram algorithm, how reels algorithm works, recommendation system, Instagram reels, social media algorithm, explore page
+
+INSTAGRAM CAPTION:
+You're watching this because the algorithm guessed you would 😅📱
+
+For every reel it predicts whether you'll watch fully, like, share or open the audio, then scores and filters thousands of options. Every swipe updates the next guess.
+
+Be honest: how long were you scrolling before this reel? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#instagramalgorithm #reels #howitworks #techexplained #socialmedia #contentcreator #algorithm #explained
+
+
+=====================================================================
+8) 11 NOV 2026 (Wed) - Microwave
+File: Microwave_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a Microwave Really Heats Food 🍲 #shorts
+
+YOUTUBE DESCRIPTION:
+A magnetron turns electricity into 2.45 GHz microwaves that bounce around the metal box. Their electric field flips billions of times a second, twisting water molecules, and that motion is heat.
+
+But they only reach about 1-2 cm deep, so food heats from the outside in. That's why the plate spins and you're told to stir.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#microwave #physics #howitworks #science #mythbusting
+
+YOUTUBE TAGS:
+microwave, how microwave works, magnetron, microwave myth, physics explained, kitchen science
+
+INSTAGRAM CAPTION:
+Microwaves DON'T cook food from the inside out 🍲❌
+
+They heat about 1–2 cm deep by twisting water molecules billions of times a second. The centre warms later as heat spreads inward. That's why you stir and let it stand.
+
+Did you believe the "inside out" myth too? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#microwave #science #howitworks #kitchenhacks #physics #scienceexplained #mythbusting #explained
+
+
+=====================================================================
+9) 13 NOV 2026 (Fri) - GPS
+File: GPS_Location_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How GPS Finds Your Exact Location 🛰️ #shorts
+
+YOUTUBE DESCRIPTION:
+GPS satellites carry atomic clocks and constantly broadcast their position and time. Your phone just listens, measuring how long each signal took to arrive, about 0.07 seconds.
+
+Time x speed of light gives a distance. Three distances pin your location, and a fourth fixes your phone's clock. Phones also use mobile networks and systems like India's NavIC.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#gps #navic #howitworks #space #techexplained
+
+YOUTUBE TAGS:
+GPS, how GPS works, trilateration, NavIC, satellite navigation, location tracking
+
+INSTAGRAM CAPTION:
+Your phone finds you using satellites 20,000 km away 🛰️📍
+
+It never talks back to them. It only listens, measures how long each signal took, and works out your spot from 4 satellites. In open sky that's usually within about 5 metres.
+
+Have you ever had Maps confidently send you the wrong way? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#gps #navic #howitworks #techexplained #space #satellite #googlemaps #explained
+
+
+=====================================================================
+10) 15 NOV 2026 (Sun) - Touchscreen
+File: Touchscreen_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a Touchscreen Knows Where You Tapped 👆 #shorts
+
+YOUTUBE DESCRIPTION:
+Under the glass sits an invisible grid of transparent wires. Every crossing holds a small electric field, and your finger, being conductive, pulls some of it away.
+
+A controller chip scans every crossing over a hundred times a second and calculates the exact centre of your touch. That's also why normal gloves don't work.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#touchscreen #smartphone #howitworks #electronics #techexplained
+
+YOUTUBE TAGS:
+touchscreen, how touchscreen works, capacitive touch, smartphone screen, multi touch, electronics explained
+
+INSTAGRAM CAPTION:
+Glass can't feel. So how does your screen know where you tapped? 👆📱
+
+There's an invisible grid of wires under it. Your finger pulls away a bit of electric field, and a chip scanning 100+ times a second finds the exact centre. That's why gloves don't work.
+
+Do you have touchscreen gloves, or do you just take them off? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#touchscreen #smartphone #howitworks #techexplained #gadgets #physics #electronics #explained
