@@ -22,9 +22,9 @@ SCN('login',(t,o)=>{place(T,540,420,pop(t,S0('login')-.3),o);place(H1,540,620,po
 const tr=W('salt','random'),ts=W('salt','salt'),td=W('salt','different');cue(ts,'shimmer');cue(td,'ding');
 SCN('salt',(t,o)=>{cplace(S,t,540,620,{op:o,s:1,popT:ts-.3,mood:'joy',r:t>ts?Math.sin(t*8)*15:0});place(A,540,820,pop(t,ts+.3),o);place(B,540,960,pop(t,ts+.7),o);place(L,540,1160,pop(t,td),o)})}
 // SLOW
-{const G=mk('<div class="big" style="font-size:90px">guesses: <span class="acc mono" id="gs"></span></div>'),Al=['bcrypt','Argon2'].map(s=>label(s,'pill',34)),Sn=mk('<div style="font-size:130px">🐢</div>'),L=label('billions of guesses → painfully slow','tok',30);
+{const G=mk('<div class="big" style="font-size:56px">guesses: <span class="acc mono" id="gs"></span></div>'),Al=['bcrypt','Argon2'].map(s=>label(s,'pill',34)),Sn=mk('<div style="font-size:130px">🐢</div>'),L=label('billions of guesses → painfully slow','tok',30);
 const ts=W('slow','slow'),tb=W('slow','bcrypt'),tg=W('slow','guessing');cue(tb,'pop');cue(tg,'down');
-SCN('slow',(t,o)=>{const n=t<tg?Math.floor((t-S0('slow'))*4e8):Math.floor((tg-S0('slow'))*4e8+(t-tg)*20);$('gs').textContent=Math.max(0,n).toLocaleString('en-IN');place(G,540,440,1,o);Al.forEach((a,i)=>place(a,380+i*320,640,pop(t,tb+i*.3),o));place(Sn,540,920,pop(t,tg),o);place(L,540,1180,pop(t,tg+.3),o)})}
+SCN('slow',(t,o)=>{const n=t<tg?Math.floor((t-S0('slow'))*2e6):Math.floor((tg-S0('slow'))*2e6+(t-tg)*20);$('gs').textContent=Math.max(0,n).toLocaleString('en-IN');place(G,540,440,1,o);Al.forEach((a,i)=>place(a,380+i*320,640,pop(t,tb+i*.3),o));place(Sn,540,920,pop(t,tg),o);place(L,540,1180,pop(t,tg+.3),o)})}
 // YOU
 {const L=lockC(),T=['🔑 different password per site','📲 turn on 2FA'].map(s=>label(s,'pill',32)),Lk=label('leaks happen ⚠','tok',34);
 const td=W('you','different'),tt=W('you','two'),tl=W('you','leaks');cue(td,'tick');cue(tt,'tick');cue(tl,'beep');

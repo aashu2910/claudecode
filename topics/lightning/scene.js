@@ -19,9 +19,9 @@ SCN('strike',(t,o)=>{cplace(C,t,540,560,{op:o,s:1.2,mood:'o'});place(Bt,540,880,
 const tr=W('rod','rod'),ts=W('rod','strip');cue(tr,'pop');cue(ts,'tick');
 SCN('rod',(t,o)=>{place(B,500,1100,1,o);place(R,500,690,pop(t,tr),o);place(S,650,1100,1,o*p(t,ts,ts+.5));place(L[0],540,420,pop(t,tr),o);place(L[1],540,540,pop(t,ts),o)})}
 // GROUND
-{const B=bldg(),R=mk('<div style="width:14px;height:160px;background:#facc15"></div>'),S=mk('<div style="width:16px;height:720px;background:#b45309"></div>'),G=mk('<div style="width:1080px;height:300px;background:#44403c"></div>'),E=mk('<div style="width:200px;height:24px;background:#b45309"></div>'),Bt=bolt(),Cur=Array.from({length:6},()=>mk('<div style="width:24px;height:24px;border-radius:12px;background:#fde047;box-shadow:0 0 14px #facc15"></div>')),L=label('easy path → not through the walls','tok',30);
+{const B=bldg(),R=mk('<div style="width:14px;height:160px;background:#facc15"></div>'),S=mk('<div style="width:16px;height:720px;background:#b45309"></div>'),G=mk('<div style="width:1080px;height:60px;background:#44403c"></div>'),E=mk('<div style="width:200px;height:24px;background:#b45309"></div>'),Bt=bolt(),Cur=Array.from({length:6},()=>mk('<div style="width:24px;height:24px;border-radius:12px;background:#fde047;box-shadow:0 0 14px #facc15"></div>')),L=label('easy path → not through the walls','tok',30);
 const tb=W('ground','buried'),te=W('ground','easy');cue(tb,'pop');cue(te,'whoosh');
-SCN('ground',(t,o)=>{place(G,540,1600,1,o);place(B,500,1100,1,o);place(R,500,690,1,o);place(S,650,1100,1,o);place(E,650,1560,pop(t,tb),o);place(Bt,520,440,.5,o*win(t,te,te+.3,.05));Cur.forEach((c,i)=>{const u=((t-te)*.8+i/6)%1;place(c,650,620+u*940,1,o*(t>te?1:0))});place(L,540,380,pop(t,te),o)})}
+SCN('ground',(t,o)=>{place(G,540,1480,1,o);place(B,500,1100,1,o);place(R,500,690,1,o);place(S,650,1100,1,o);place(E,650,1480,pop(t,tb),o);place(Bt,520,440,.5,o*win(t,te,te+.3,.05));Cur.forEach((c,i)=>{const u=((t-te)*.8+i/6)%1;place(c,650,620+u*860,1,o*(t>te?1:0))});place(L,540,380,pop(t,te),o)})}
 // MYTH
 {const X=label('✕ attracts lightning from far away','pill',30),Ok=label('✓ gives nearby strikes a safe route','tok',30),R=mk('<div style="width:14px;height:200px;background:#facc15"></div>');
 const td=W('myth','doesn'),tg=W('myth','gives');cue(td,'lock');cue(tg,'ding');

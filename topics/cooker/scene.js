@@ -15,9 +15,9 @@ SCN('boil',(t,o)=>{$('tc').textContent=Math.round(Math.min(100,25+(t-S0('boil'))
 const tl=W('seal','locks'),tg=W('seal','gasket'),tr=W('seal','rises');cue(tl,'lock');cue(tr,'up');
 SCN('seal',(t,o)=>{cplace(C,t,540,1150,{op:o,s:1.6,mood:t>tr?'worry':'happy',r:t>tr?Math.sin(t*20)*1.5:0});place(G,540,620,pop(t,tg),o);place(Pr,540,420,pop(t,tr),o)})}
 // HOTTER
-{const T=thermo(),A=label('+1 atmosphere','tok',36),L=label('higher pressure → higher boiling point','pill',30);
+{const T=mk('<div class="big" style="font-size:120px"><span class="acc" id="tc2">100</span>°C</div>'),A=label('+1 atmosphere','tok',36),L=label('higher pressure → higher boiling point','pill',30);
 const th=W('hotter','raises'),ta=W('hotter','atmosphere'),tt=W('hotter','twenty');cue(th,'up');cue(tt,'ding');
-SCN('hotter',(t,o)=>{$('tc').textContent=Math.round(100+20*eio(p(t,ta,tt+.3)));place(T,540,620,1,o);place(A,540,860,pop(t,ta),o);place(L,540,420,pop(t,th),o);kk(t,170,1490,{op:o,s:.5,mood:t>tt?'grin':'o'})})}
+SCN('hotter',(t,o)=>{$('tc2').textContent=Math.round(100+20*eio(p(t,ta,tt+.3)));place(T,540,620,1,o);place(A,540,860,pop(t,ta),o);place(L,540,420,pop(t,th),o);kk(t,170,1490,{op:o,s:.5,mood:t>tt?'grin':'o'})})}
 // FASTER
 {const D=buddy('circle','#fef3c7','#f59e0b','',95,.9),Ar=Array.from({length:8},()=>mk('<div style="font-size:60px;color:#ef4444;font-weight:900">→</div>')),L=label('heat pushed in faster → soft sooner','tok',30);
 const tp=W('faster','push'),tf=W('faster','fraction');cue(tp,'whoosh');cue(tf,'ding');
