@@ -346,3 +346,350 @@ Do you have touchscreen gloves, or do you just take them off? 👇
 Follow @the_working_behind for more on how everyday things work.
 
 #touchscreen #smartphone #howitworks #techexplained #gadgets #physics #electronics #explained
+
+
+#####################################################################
+BATCH 2 - from 17 November 2026 (every other day, skip 1 day)
+#####################################################################
+
+ #  Date         Day  YouTube   Instagram  Video file
+11  17 Nov 2026  Tue  5:30 PM   7:30 PM    Fast_Charging_How_It_Works_9x16.mp4
+12  19 Nov 2026  Thu  5:30 PM   7:30 PM    Face_Unlock_How_It_Works_9x16.mp4
+13  21 Nov 2026  Sat  12:30 PM  7:00 PM    Refrigerator_How_It_Works_9x16.mp4
+14  23 Nov 2026  Mon  5:30 PM   7:30 PM    Bluetooth_Earbuds_How_It_Works_9x16.mp4
+15  25 Nov 2026  Wed  5:30 PM   7:30 PM    IRCTC_Tatkal_How_It_Works_9x16.mp4
+16  27 Nov 2026  Fri  5:30 PM   7:30 PM    Card_Payment_How_It_Works_9x16.mp4
+17  29 Nov 2026  Sun  12:30 PM  7:00 PM    Song_Recognition_How_It_Works_9x16.mp4
+18  01 Dec 2026  Tue  5:30 PM   7:30 PM    Solar_Panel_How_It_Works_9x16.mp4
+19  03 Dec 2026  Thu  5:30 PM   7:30 PM    Petrol_Pump_How_It_Works_9x16.mp4
+20  05 Dec 2026  Sat  12:30 PM  7:00 PM    Airplane_Lift_How_It_Works_9x16.mp4
+
+
+=====================================================================
+11) 17 NOV 2026 (Tue) - Fast charging
+File: Fast_Charging_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Why Fast Charging Slows Down at 80% ⚡ #shorts
+
+YOUTUBE DESCRIPTION:
+Charging speed is power, and power is voltage times current. When you plug in, your phone and charger agree over the cable (using a standard like USB Power Delivery) to raise the voltage, so more watts flow.
+
+A chip inside the phone converts it for the battery. Near 80% it lowers the current to protect the battery, and it slows down if the phone gets hot.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#fastcharging #smartphone #howitworks #battery #techexplained
+
+YOUTUBE TAGS:
+fast charging, how fast charging works, USB Power Delivery, phone battery, charging slow at 80, smartphone tips
+
+INSTAGRAM CAPTION:
+0 to 50% in minutes… then the last 20% takes forever 🔋😩
+
+Your phone and charger agree on a higher voltage to push more power in. Near 80%, the phone slows down on purpose to protect the battery, and again if it gets hot.
+
+Do you charge to 100% or stop at 80? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#fastcharging #battery #smartphone #howitworks #techexplained #phonetips #gadgets #explained
+
+
+=====================================================================
+12) 19 NOV 2026 (Thu) - Face unlock
+File: Face_Unlock_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Face Unlock Sees You in the Dark 👀 #shorts
+
+YOUTUBE DESCRIPTION:
+On phones like the iPhone, a projector shoots over 30,000 invisible infrared dots onto your face, and an infrared camera reads how they land. That works even in total darkness.
+
+The phone builds a 3D depth map, turns it into numbers and compares them with your saved template inside a secure chip. A flat photo can't fool it.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#faceid #faceunlock #howitworks #smartphone #techexplained
+
+YOUTUBE TAGS:
+Face ID, face unlock, how Face ID works, infrared dots, 3D face scan, phone security
+
+INSTAGRAM CAPTION:
+Your phone sprays 30,000 invisible dots on your face every time you unlock it 😳🔦
+
+That's how it maps your face in 3D, even in the dark. A printed photo looks flat and fails. Cheaper phones often use just the camera, which is easier to fool.
+
+Face unlock or fingerprint, which do you trust more? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#faceid #faceunlock #smartphone #howitworks #techexplained #security #iphone #explained
+
+
+=====================================================================
+13) 21 NOV 2026 (Sat) - Refrigerator
+File: Refrigerator_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a Fridge Keeps Food Cold ❄️ #shorts
+
+YOUTUBE DESCRIPTION:
+A fridge doesn't make cold. It moves heat. Refrigerant evaporates in pipes inside and soaks up heat, then the compressor squeezes it until it's hotter than your kitchen.
+
+Coils at the back release that heat, the refrigerant turns liquid, and a tiny valve drops its pressure so it's icy cold again. A thermostat keeps it around 3-5°C.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#refrigerator #fridge #howitworks #physics #science
+
+YOUTUBE TAGS:
+refrigerator, how fridge works, refrigerant, compressor, refrigeration cycle, kitchen science
+
+INSTAGRAM CAPTION:
+Your fridge doesn't make cold. It kicks heat out 🧊🔥
+
+Touch the back: that warmth is heat pulled from your food. Refrigerant evaporates inside, gets squeezed by the compressor, dumps the heat outside, and repeats.
+
+Did you know the back of your fridge is warm on purpose? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#refrigerator #fridge #howitworks #science #physics #kitchen #homeappliances #explained
+
+
+=====================================================================
+14) 23 NOV 2026 (Mon) - Bluetooth earbuds
+File: Bluetooth_Earbuds_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Bluetooth Earbuds Connect Instantly 🎧 #shorts
+
+YOUTUBE DESCRIPTION:
+Bluetooth is low-power radio at 2.4 GHz. The first time, your phone and earbuds pair and exchange a secret key, so next time opening the case is enough to reconnect.
+
+Classic Bluetooth hops between 79 channels about 1,600 times a second to dodge interference, and your music is compressed by a codec like AAC, then decoded in the buds.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#bluetooth #earbuds #howitworks #techexplained #gadgets
+
+YOUTUBE TAGS:
+Bluetooth, how Bluetooth works, earbuds, frequency hopping, wireless audio, AAC codec
+
+INSTAGRAM CAPTION:
+Your earbuds switch radio channels 1,600 times a second 🎧⚡
+
+That's how they dodge Wi-Fi noise. Pairing once swaps a secret key, so opening the case is all it takes to reconnect next time.
+
+What earbuds are you using right now? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#bluetooth #earbuds #wireless #howitworks #techexplained #gadgets #audio #explained
+
+
+=====================================================================
+15) 25 NOV 2026 (Wed) - IRCTC Tatkal
+File: IRCTC_Tatkal_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Why Tatkal Tickets Sell Out in Minutes 🚆 #shorts
+
+YOUTUBE DESCRIPTION:
+Tatkal booking opens one day before the journey: 10 AM for AC classes and 11 AM for non-AC. Huge numbers of people hit book at the same second, so requests are queued and checked with captcha and login verification.
+
+The system checks the live seat count and reserves a seat while you pay. If payment fails, the seat goes back. With only a small quota per train, it sells out fast.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#irctc #tatkal #indianrailways #howitworks #techexplained
+
+YOUTUBE TAGS:
+IRCTC Tatkal, Tatkal booking, Indian Railways, train ticket booking, Tatkal timing, IRCTC tips
+
+INSTAGRAM CAPTION:
+10:00 AM. Tatkal opens. 10:02 AM. Gone 🚆😤
+
+Everyone hits book at the same second. Requests get queued, bots get blocked, and a seat is held only while you pay. Payment fails? It goes to the next person.
+
+What's your Tatkal success rate, honestly? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#irctc #tatkal #indianrailways #train #howitworks #techexplained #travelindia #explained
+
+
+=====================================================================
+16) 27 NOV 2026 (Fri) - Card payment
+File: Card_Payment_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a Card Payment Gets Approved in 2 Seconds 💳 #shorts
+
+YOUTUBE DESCRIPTION:
+When you tap, the card's chip creates a one-time code. The machine sends it to the shop's bank (the acquirer), which passes it through Visa, Mastercard or RuPay to the bank that issued your card.
+
+Your bank checks your limit, fraud patterns and PIN if needed, then approves or declines. The answer travels back in a second or two. The money itself usually settles by the next day.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#creditcard #payments #howitworks #fintech #techexplained
+
+YOUTUBE TAGS:
+credit card payment, how card payment works, contactless payment, Visa Mastercard RuPay, card network, fintech explained
+
+INSTAGRAM CAPTION:
+Tap. Beep. Approved. Your payment just visited 4 places in 2 seconds 💳✈️
+
+Card → shop's bank → card network → your bank → and back. The actual money? It usually moves the next day.
+
+Tap, swipe or UPI: what do you use most? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#creditcard #debitcard #payments #fintech #howitworks #techexplained #rupay #explained
+
+
+=====================================================================
+17) 29 NOV 2026 (Sun) - Shazam / song recognition
+File: Song_Recognition_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Shazam Finds Any Song in Seconds 🎵 #shorts
+
+YOUTUBE DESCRIPTION:
+Your phone records a few seconds of sound and turns it into a spectrogram, a map of which frequencies are loud at each moment. It keeps only the strongest peaks, so background chatter mostly gets ignored.
+
+Pairs of peaks become short codes called hashes. These are matched against a huge database, and the song where many hashes line up at the same time offset wins.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#shazam #music #howitworks #techexplained #algorithm
+
+YOUTUBE TAGS:
+Shazam, how Shazam works, song recognition, audio fingerprint, spectrogram, music app
+
+INSTAGRAM CAPTION:
+Noisy café, 5 seconds of audio, and it still knows the song 🎵🤯
+
+It turns sound into a "star map" of the loudest frequencies, makes a fingerprint, and matches it against millions of songs.
+
+What's the last song you Shazamed? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#shazam #music #songs #howitworks #techexplained #algorithm #musiclover #explained
+
+
+=====================================================================
+18) 01 DEC 2026 (Tue) - Solar panel
+File: Solar_Panel_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Solar Panels Turn Sunlight Into Power ☀️ #shorts
+
+YOUTUBE DESCRIPTION:
+Solar cells are made of two layers of silicon, n-type and p-type. Where they meet, a built-in electric field forms. When photons of sunlight hit, they knock electrons loose.
+
+The field pushes those electrons toward metal contacts, giving direct current. An inverter converts it to AC for your home. Typical panels convert about 20% of sunlight.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#solarpanel #solarenergy #howitworks #science #renewableenergy
+
+YOUTUBE TAGS:
+solar panel, how solar panels work, photovoltaic, solar energy, inverter, renewable energy
+
+INSTAGRAM CAPTION:
+No moving parts. No fuel. Just sunlight → electricity ☀️⚡
+
+Light knocks electrons loose in silicon, a built-in electric field pushes them into a current, and an inverter makes it usable at home.
+
+Would you put solar on your roof? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#solarpanel #solarenergy #renewableenergy #howitworks #science #greenenergy #physics #explained
+
+
+=====================================================================
+19) 03 DEC 2026 (Thu) - Petrol pump
+File: Petrol_Pump_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a Petrol Pump Measures Exactly 1 Litre ⛽ #shorts
+
+YOUTUBE DESCRIPTION:
+Fuel is pumped up from an underground tank through a flow meter. In many pumps, pistons fill and empty fixed chambers, so each stroke is a known volume. The meter shaft triggers electrical pulses.
+
+The pump's computer counts pulses, converts them to litres and multiplies by the price. Legal Metrology officials test pumps with a certified 5-litre measure and seal the meter.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#petrolpump #fuel #howitworks #india #techexplained
+
+YOUTUBE TAGS:
+petrol pump, how petrol pump works, fuel meter, 5 litre test, legal metrology, fuel station India
+
+INSTAGRAM CAPTION:
+You can ask any petrol pump in India for a 5-litre test ⛽✅
+
+The pump counts electrical pulses from a flow meter to know exactly how much fuel flowed. Officials check it with a certified 5 L measure and seal it.
+
+Have you ever asked for the 5-litre test? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#petrolpump #fuel #consumerrights #india #howitworks #techexplained #cars #explained
+
+
+=====================================================================
+20) 05 DEC 2026 (Sat) - Airplanes
+File: Airplane_Lift_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Planes Stay Up in the Sky ✈️ #shorts
+
+YOUTUBE DESCRIPTION:
+Engines push the plane forward fast, around 250 km/h for take-off. The curved, tilted wings deflect huge amounts of air downward, and the air pushes the wing up (Newton's third law).
+
+Air also speeds up over the curved top, lowering pressure there. That difference is lift. Flaps slide out for take-off and landing to give extra lift at low speed.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#airplane #aviation #howitworks #physics #science
+
+YOUTUBE TAGS:
+how planes fly, lift, aviation, airplane wings, Bernoulli Newton lift, physics explained
+
+INSTAGRAM CAPTION:
+Hundreds of tonnes, floating on thin air ✈️🤯
+
+Wings push air down, so air pushes the wing up. Faster air over the top also lowers pressure. Together, that's lift. Physics, not magic.
+
+Window seat or aisle seat? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#airplane #aviation #flight #howitworks #physics #science #travel #explained
