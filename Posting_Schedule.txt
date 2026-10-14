@@ -1736,3 +1736,320 @@ Do you know someone who uses a hearing aid? 👇
 Follow @the_working_behind for more on how everyday things work.
 
 #hearingaid #cochlearimplant #hearingloss #health #science #howitworks #medical #explained
+
+
+#####################################################################
+BATCH 6 - from 5 February 2027 (every other day, skip 1 day)
+#####################################################################
+
+ #  Date         Day  YouTube   Instagram  Video file
+51  05 Feb 2027  Fri  5:30 PM   7:30 PM    Phone_Night_Mode_How_It_Works_9x16.mp4
+52  07 Feb 2027  Sun  12:30 PM  7:00 PM    Phone_Storage_How_It_Works_9x16.mp4
+53  09 Feb 2027  Tue  5:30 PM   7:30 PM    Wireless_Charging_How_It_Works_9x16.mp4
+54  11 Feb 2027  Thu  5:30 PM   7:30 PM    Phone_Motion_Sensors_How_It_Works_9x16.mp4
+55  13 Feb 2027  Sat  12:30 PM  7:00 PM    Phone_Light_Proximity_Sensors_How_It_Works_9x16.mp4
+56  15 Feb 2027  Mon  5:30 PM   7:30 PM    Power_Bank_How_It_Works_9x16.mp4
+57  17 Feb 2027  Wed  5:30 PM   7:30 PM    VR_Headset_How_It_Works_9x16.mp4
+58  19 Feb 2027  Fri  5:30 PM   7:30 PM    Laser_Printer_How_It_Works_9x16.mp4
+59  21 Feb 2027  Sun  12:30 PM  7:00 PM    3D_Printer_How_It_Works_9x16.mp4
+60  23 Feb 2027  Tue  5:30 PM   7:30 PM    Computer_Mouse_How_It_Works_9x16.mp4
+
+=====================================================================
+51) 05 FEB 2027 (Fri) - Phone night mode
+File: Phone_Night_Mode_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Phone Night Mode: How It Sees in the Dark 🌙 #shorts
+
+YOUTUBE DESCRIPTION:
+Night mode doesn't take one photo. It captures a burst of frames, aligns them to cancel hand shake, and merges them so random noise averages out while real detail stays. Then the processor fixes tone and colour.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#nightmode #phonecamera #photography #tech #howitworks #science
+
+YOUTUBE TAGS:
+night mode, phone camera, computational photography, low light photo, image stacking
+
+INSTAGRAM CAPTION:
+How your phone sees in the dark 🌙📸
+
+One tap = many photos, aligned and merged into one clean shot.
+
+What's the best night photo you've taken? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#nightmode #phonecamera #photography #tech #smartphone #howitworks #explained #techfacts
+
+=====================================================================
+52) 07 FEB 2027 (Sun) - Phone storage
+File: Phone_Storage_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Your Phone Stores Photos With No Moving Parts 💾 #shorts
+
+YOUTUBE DESCRIPTION:
+Phone storage is flash memory. Billions of tiny cells trap electrons to store 1s and 0s, stacked in layers, and a controller spreads the writes so cells wear evenly. No spinning disk, nothing moving.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#flashmemory #storage #smartphone #tech #howitworks #science
+
+YOUTUBE TAGS:
+flash memory, phone storage, NAND, SSD, how storage works
+
+INSTAGRAM CAPTION:
+Where do your 10,000 photos actually live? 💾
+
+Billions of tiny cells trapping electrons. No moving parts at all.
+
+How full is your phone right now? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#flashmemory #storage #smartphone #tech #howitworks #explained #techfacts #gadgets
+
+=====================================================================
+53) 09 FEB 2027 (Tue) - Wireless charging
+File: Wireless_Charging_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Wireless Charging Works ⚡ #shorts
+
+YOUTUBE DESCRIPTION:
+A coil in the pad carries alternating current, creating a changing magnetic field. A coil in your phone picks it up and turns it back into current: electromagnetic induction. A chip converts it to DC, and the phone and pad talk using the Qi standard.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#wirelesscharging #qi #tech #smartphone #howitworks #science
+
+YOUTUBE TAGS:
+wireless charging, Qi charging, electromagnetic induction, MagSafe, phone charging
+
+INSTAGRAM CAPTION:
+Power through the air ⚡
+
+Two coils, one magnetic field, zero cables.
+
+Wireless or cable, which do you use? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#wirelesscharging #qi #tech #smartphone #physics #howitworks #explained #gadgets
+
+=====================================================================
+54) 11 FEB 2027 (Thu) - Accelerometer & gyroscope
+File: Phone_Motion_Sensors_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Your Phone Knows Which Way Is Up 📱 #shorts
+
+YOUTUBE DESCRIPTION:
+Your phone has an accelerometer and a gyroscope built as tiny MEMS chips. Microscopic masses on springs shift as you move, and the change is measured electrically. That's how auto-rotate, step counting and games work.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#accelerometer #gyroscope #sensors #smartphone #howitworks #science
+
+YOUTUBE TAGS:
+accelerometer, gyroscope, MEMS, phone sensors, auto rotate
+
+INSTAGRAM CAPTION:
+How does your phone know you turned it? 📱🔄
+
+Tiny moving parts on a chip feel every tilt and step.
+
+Did you know this was inside your phone? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#accelerometer #gyroscope #sensors #smartphone #tech #howitworks #explained #techfacts
+
+=====================================================================
+55) 13 FEB 2027 (Sat) - Auto-brightness & proximity
+File: Phone_Light_Proximity_Sensors_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Why Your Screen Turns Off During Calls 📞 #shorts
+
+YOUTUBE DESCRIPTION:
+An ambient light sensor measures room brightness to adjust the screen. A proximity sensor sends invisible infrared light and checks the reflection, so when your ear is close, the screen turns off to avoid accidental taps.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#sensors #smartphone #autobrightness #tech #howitworks #science
+
+YOUTUBE TAGS:
+proximity sensor, ambient light sensor, auto brightness, phone sensors, infrared
+
+INSTAGRAM CAPTION:
+Why does your screen go black on a call? 📞
+
+An invisible infrared beam knows your ear is there.
+
+Did you ever wonder about this? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#sensors #smartphone #autobrightness #tech #howitworks #explained #techfacts #gadgets
+
+=====================================================================
+56) 15 FEB 2027 (Mon) - Power bank
+File: Power_Bank_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a Power Bank Works 🔋 #shorts
+
+YOUTUBE DESCRIPTION:
+A power bank is lithium cells plus a circuit. It charges the cells, then boosts their voltage to USB levels. Some energy is lost as heat in conversion, which is why a 10,000 mAh bank doesn't give 10,000 mAh to your phone.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#powerbank #battery #tech #charging #howitworks #science
+
+YOUTUBE TAGS:
+power bank, mAh, lithium battery, portable charger, USB charging
+
+INSTAGRAM CAPTION:
+Why your 10,000 mAh power bank doesn't give 10,000 mAh 🔋
+
+Voltage conversion and heat take their cut.
+
+What size power bank do you carry? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#powerbank #battery #tech #charging #gadgets #howitworks #explained #techfacts
+
+=====================================================================
+57) 17 FEB 2027 (Wed) - VR headsets
+File: VR_Headset_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How VR Headsets Trick Your Brain 🥽 #shorts
+
+YOUTUBE DESCRIPTION:
+A VR headset shows a slightly different image to each eye, so your brain sees depth. Lenses make the close screen feel far away, and sensors track your head so the view updates instantly as you move.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#vr #virtualreality #tech #gaming #howitworks #science
+
+YOUTUBE TAGS:
+virtual reality, VR headset, stereoscopic, head tracking, metaverse
+
+INSTAGRAM CAPTION:
+How VR fools your brain 🥽🧠
+
+Two screens, two lenses, and super fast head tracking.
+
+Have you tried VR? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#vr #virtualreality #tech #gaming #howitworks #explained #techfacts #future
+
+=====================================================================
+58) 19 FEB 2027 (Fri) - Laser printer
+File: Laser_Printer_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a Laser Printer Works 🖨️ #shorts
+
+YOUTUBE DESCRIPTION:
+A laser printer charges a drum, uses a laser to draw your page as an invisible electric image, then toner powder sticks only where needed. Heated rollers melt it onto the paper, which is why prints come out warm.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#printer #laserprinter #tech #office #howitworks #explained
+
+YOUTUBE TAGS:
+laser printer, toner, how printers work, office tech, printing
+
+INSTAGRAM CAPTION:
+Why are laser prints warm? 🖨️🔥
+
+Static electricity, a laser, and melted plastic powder.
+
+Inkjet or laser, which do you use? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#printer #laserprinter #tech #office #howitworks #explained #techfacts #science
+
+=====================================================================
+59) 21 FEB 2027 (Sun) - 3D printer
+File: 3D_Printer_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a 3D Printer Builds Objects 🧱 #shorts
+
+YOUTUBE DESCRIPTION:
+A 3D printer melts plastic filament and lays it down layer by layer, following a path made by slicing a 3D model into thin layers. Each layer fuses to the one below until the object is complete.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#3dprinting #3dprinter #maker #tech #howitworks #science
+
+YOUTUBE TAGS:
+3D printing, FDM, filament, slicer, additive manufacturing
+
+INSTAGRAM CAPTION:
+Building objects one layer at a time 🧱
+
+Melt, trace, stack, repeat.
+
+What would you 3D print? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#3dprinting #3dprinter #maker #tech #howitworks #explained #engineering #diy
+
+=====================================================================
+60) 23 FEB 2027 (Tue) - Computer mouse
+File: Computer_Mouse_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Your Mouse Tracks Movement 🖱️ #shorts
+
+YOUTUBE DESCRIPTION:
+An optical mouse has a tiny camera that takes thousands of pictures of the surface every second. A chip compares them to see how the texture shifted, and turns that into cursor movement.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#mouse #pc #tech #gaming #howitworks #science
+
+YOUTUBE TAGS:
+optical mouse, computer mouse, DPI, how mouse works, PC
+
+INSTAGRAM CAPTION:
+Your mouse is secretly a camera 🖱️📸
+
+Thousands of tiny photos every second.
+
+Did you know this? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#mouse #pc #tech #gaming #howitworks #explained #techfacts #computer
