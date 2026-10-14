@@ -24,7 +24,7 @@ SCN('pulse',(t,o)=>{const on=t>tr?(Math.floor(t*12)%2):1;$('bp').style.width=(on
 // STEER
 {const C=carC(),O=mk('<div style="font-size:100px">🚧</div>'),Pd=label('🦶 pedal buzzes → normal, keep pressing','pill',28),St=label('wheels rolling → you can steer ✓','tok',30);
 const ts=W('steer','steer'),tp=W('steer','pedal'),tk=W('steer','keep');cue(ts,'whoosh');cue(tp,'scramble');cue(tk,'ding');
-SCN('steer',(t,o)=>{place(O,540,560,1,o);const u=p(t,ts-.5,tp+.5);cplace(C,t,540+Math.sin(u*Math.PI)*260,1300-u*800,{op:o,s:.7,r:-90+Math.sin(u*Math.PI)*20,mood:'joy'});place(St,540,400,pop(t,ts),o);place(Pd,540,1430,pop(t,tp),o)})}
+SCN('steer',(t,o)=>{place(O,540,900,1,o);const u=p(t,ts-.5,tp+.5);cplace(C,t,540+Math.sin(u*Math.PI)*260,1300-u*800,{op:o,s:.7,r:-90+Math.sin(u*Math.PI)*20,mood:'joy'});place(St,540,400,pop(t,ts),o);place(Pd,540,1430,pop(t,tp),o)})}
 // INDIA
 {const C=label('🚗 new cars: standard','pill',32),M=label('🏍️ motorcycles >125 cc: required since 2019','tok',30),Y=mk('<div class="big" style="font-size:140px"><span class="acc">2019</span></div>');
 const tc=W('india','cars'),tm=W('india','motorcycles');cue(tc,'tick');cue(tm,'ding');
