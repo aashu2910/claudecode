@@ -1,0 +1,46 @@
+{
+ "accent": "#f97316",
+ "file": "IRCTC_Tatkal_How_It_Works_9x16.mp4",
+ "scenes": [
+  {
+   "name": "hook",
+   "step": "How it works",
+   "text": "Tatkal opens at ten AM, and within minutes, the seats are gone. What happens in those minutes?"
+  },
+  {
+   "name": "open",
+   "step": "01 · The window",
+   "text": "Tatkal booking opens one day before the journey. At ten for AC classes, and eleven for non AC."
+  },
+  {
+   "name": "rush",
+   "step": "02 · The rush",
+   "text": "Huge numbers of people log in and hit book at the exact same second. That's a massive spike for any server."
+  },
+  {
+   "name": "queue",
+   "step": "03 · Queue + checks",
+   "text": "So requests are queued, and checks like captcha and login verification slow down bots, and spread out the load."
+  },
+  {
+   "name": "seat",
+   "step": "04 · Seat check",
+   "text": "When you submit, the system checks the live seat count for that train and class, and reserves one while you pay."
+  },
+  {
+   "name": "pay",
+   "step": "05 · Payment race",
+   "text": "If your payment fails or times out, the ticket isn't booked, and that seat goes back for the next person."
+  },
+  {
+   "name": "quota",
+   "step": "06 · Small quota",
+   "text": "Tatkal is only a small share of seats on each train. With that much demand, it can sell out in minutes."
+  },
+  {
+   "name": "outro",
+   "step": "Recap",
+   "text": "Window, queue, seat, payment. A race for a few seats. Follow for more on how things really work."
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{"accent":"#38bdf8","file":"Refrigerator_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"A fridge keeps food cold. But put your hand behind it, and it's warm. That's the secret."},
+{"name":"idea","step":"01 · Moving heat","text":"A fridge doesn't make cold. It moves heat out of the inside, and dumps it into your kitchen."},
+{"name":"evap","step":"02 · Evaporate","text":"A liquid called refrigerant flows through pipes inside. It boils at a very low temperature, and as it evaporates, it soaks up heat."},
+{"name":"comp","step":"03 · Compressor","text":"The compressor, that humming motor, squeezes the gas. Squeezing makes it hot, hotter than your kitchen."},
+{"name":"cond","step":"04 · Condenser","text":"Coils at the back let that heat escape into the room. The gas cools down, and turns back into liquid."},
+{"name":"valve","step":"05 · Expansion valve","text":"Then it passes through a tiny valve. The pressure drops suddenly, and it becomes icy cold again."},
+{"name":"thermo","step":"06 · Thermostat","text":"A thermostat switches the compressor on and off, to hold the inside at around three to five degrees."},
+{"name":"outro","step":"Recap","text":"Evaporate, squeeze, release, expand. Heat out, cold in. Follow for more on how things really work."}]}

@@ -1,0 +1,9 @@
+{"accent":"#fbbf24","file":"Fast_Charging_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Plug in a fast charger, and your phone races to half in minutes. Then the last bit crawls. But why?"},
+{"name":"power","step":"01 · Power = V × I","text":"Charging speed is power. Power is voltage times current. Push either one up, and more energy flows each second."},
+{"name":"talk","step":"02 · The handshake","text":"When you plug in, the phone and charger talk over the cable, using a standard like USB Power Delivery."},
+{"name":"volt","step":"03 · Higher voltage","text":"They agree on a higher voltage, say nine volts instead of five, so more watts flow through the same cable."},
+{"name":"chip","step":"04 · Inside the phone","text":"A charging chip in the phone converts it down to what the battery needs, about four volts, at a high current."},
+{"name":"taper","step":"05 · Slow at the end","text":"Near eighty percent, the battery is getting full, so the chip lowers the current to protect it. That's why the last stretch is slower."},
+{"name":"heat","step":"06 · Heat check","text":"Sensors watch the temperature too. If the phone gets hot, charging slows down automatically."},
+{"name":"outro","step":"Recap","text":"Handshake, voltage, chip, taper. Fast first, then careful. Follow for more on how things really work."}]}

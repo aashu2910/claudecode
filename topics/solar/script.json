@@ -1,0 +1,9 @@
+{"accent":"#f59e0b","file":"Solar_Panel_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"A flat panel sits in the sun, and runs fans and lights. No moving parts, no fuel. How?"},
+{"name":"silicon","step":"01 · Silicon","text":"Each panel is made of cells of silicon, the same material used in computer chips, built in two layers, called n type and p type."},
+{"name":"field","step":"02 · Built-in field","text":"Where the two layers meet, a junction forms, with a built in electric field."},
+{"name":"photon","step":"03 · Light hits","text":"Sunlight arrives as tiny packets of energy, called photons. A photon knocks an electron loose from a silicon atom."},
+{"name":"current","step":"04 · Current flows","text":"The field pushes the freed electrons one way, toward metal contacts. Connect a wire, and you get a direct current."},
+{"name":"inverter","step":"05 · Inverter","text":"Homes run on alternating current, so an inverter converts it. Extra power can charge batteries, or go to the grid."},
+{"name":"eff","step":"06 · Efficiency","text":"Typical panels turn about twenty percent of sunlight into electricity. Most of the rest becomes heat."},
+{"name":"outro","step":"Recap","text":"Photon, electron, field, current. Sunlight, turned into power. Follow for more on how things really work."}]}

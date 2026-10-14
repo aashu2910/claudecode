@@ -40,3 +40,19 @@ function kikoSVG({t=0,blink=0,mood='happy',look=[0,0],wave=0,point=0}){const g1=
 const kiko=()=>char(240,300,kikoSVG);
 // speech/thought bubble
 const bubble=(html,fs=34)=>mk(`<div style="position:relative;background:#fff;color:#151520;border-radius:34px;padding:18px 30px;font-weight:800;font-size:${fs}px;white-space:nowrap;box-shadow:0 14px 30px rgba(0,0,0,.35)">${html}<div style="position:absolute;left:38px;bottom:-16px;width:32px;height:32px;background:#fff;transform:rotate(45deg);border-radius:6px"></div></div>`);
+// generic cute object: shape in circle|rect|tall|wide|hex|drop ; extra(t,o) adds svg on top of body (before face); fy = face y
+function buddySVG(shape,c1,c2,extra='',fy=95,fs=1){return (o)=>{const{t,blink,mood='happy',look=[0,0]}=o;const g=gid();let b;
+ if(shape=='circle')b=`<circle cx="100" cy="100" r="90" fill="url(#${g})"/>`;
+ else if(shape=='rect')b=`<rect x="10" y="20" width="180" height="170" rx="40" fill="url(#${g})"/>`;
+ else if(shape=='tall')b=`<rect x="45" y="0" width="110" height="200" rx="34" fill="url(#${g})"/>`;
+ else if(shape=='wide')b=`<rect x="0" y="50" width="200" height="120" rx="40" fill="url(#${g})"/>`;
+ else if(shape=='hex'){let p='';for(let i=0;i<6;i++){const a=Math.PI/6+i*Math.PI/3;p+=`${100+92*Math.cos(a)},${105+92*Math.sin(a)} `}b=`<polygon points="${p}" fill="url(#${g})" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>`}
+ else b=`<path d="M100 5 C100 5 180 105 180 140 A80 60 0 0 1 20 140 C20 105 100 5 100 5Z" fill="url(#${g})"/>`;
+ return `<defs>${grad(g,c1,c2)}</defs>${b}<ellipse cx="62" cy="55" rx="20" ry="10" fill="#fff" opacity=".25"/>${typeof extra=='function'?extra(o):extra}${face(100,fy,fs,{blink,mood,look})}`}}
+const buddy=(shape,c1,c2,extra,fy,fs)=>char(200,200,buddySVG(shape,c1,c2,extra,fy,fs));
+const label=(txt,cls='pill',fs=30)=>mk(`<div class="${cls}" style="font-size:${fs}px">${txt}</div>`);
+const qmark=()=>mk('<div style="font-size:150px;font-weight:900" class="acc">?</div>');
+// standard outro with characters: list of [char, scale]; lines
+function charOutro(cs,l1,l2){const sc=TL.scenes[TL.scenes.length-1].name,L1=mk(`<div class="big">${l1}</div>`),L2=mk(`<div class="big acc">${l2}</div>`),F=mk('<div style="text-align:center"><div class="tok" style="font-size:42px;display:inline-block;padding:20px 40px">Follow for more →</div><div style="margin-top:22px;font-size:34px;font-weight:700;color:#ddd">@the_working_behind</div></div>'),Kk=kiko();
+ const ws=TL.words.filter(w=>w.scene==sc),ta=ws[0].s,tl=ws.filter(w=>/[.!?]$/.test(w.w))[0].e,tf=W(sc,'follow');cue(ta,'pop');cue(tl,'ding');cue(tf,'shimmer');const gap=860/(cs.length);
+ SCN(sc,(t,o)=>{cs.forEach(([c,s],i)=>cplace(c,t,90+gap/2+i*gap,640,{op:o,s,popT:ta+i*.3,jumpT:ta+i*.3+1+((t-ta)>3?Math.floor((t-ta-3)/1.6)*1.6:0),mood:'joy'}));place(L1,540,830,pop(t,tl),o);place(L2,540,940,pop(t,tl+.4),o);place(F,540,1180,pop(t,tf),o);cplace(Kk,t,540,1500,{op:o,s:.7,popT:tf-.2,mood:'grin',wave:1})})}

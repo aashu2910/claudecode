@@ -1,0 +1,9 @@
+{"accent":"#ef4444","file":"Petrol_Pump_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"The display says one litre, and you pay for exactly that. But how does the pump actually know?"},
+{"name":"pump","step":"01 · Pump","text":"A motor pumps fuel up from a big tank, buried under the forecourt."},
+{"name":"meter","step":"02 · Flow meter","text":"The fuel passes through a flow meter. In many pumps, pistons fill and empty fixed chambers. A known volume, every stroke."},
+{"name":"pulse","step":"03 · Pulses","text":"Each turn of the meter shaft triggers a pulser, sending electrical pulses. A fixed number of pulses equals a set volume."},
+{"name":"calc","step":"04 · Calculate","text":"The pump's computer counts the pulses, converts them to litres, and multiplies by the price per litre."},
+{"name":"seal","step":"05 · Calibration","text":"Legal metrology officials test pumps with a certified five litre measure, then seal the meter, so it can't be quietly tampered with."},
+{"name":"tip","step":"06 · You can check","text":"In India, you can ask for that five litre test at the pump. It's your right."},
+{"name":"outro","step":"Recap","text":"Meter, pulses, math, seal. Every drop counted. Follow for more on how things really work."}]}

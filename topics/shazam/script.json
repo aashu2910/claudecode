@@ -1,0 +1,9 @@
+{"accent":"#fb7185","file":"Song_Recognition_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"A song plays in a noisy café. You tap a button, and in seconds, you know its name. How?"},
+{"name":"listen","step":"01 · Listen","text":"Your phone records a few seconds of sound. Noise and all."},
+{"name":"spec","step":"02 · Spectrogram","text":"It turns the audio into a spectrogram. A map of which frequencies are loud at each moment."},
+{"name":"peaks","step":"03 · Peaks","text":"It keeps only the strongest peaks, like stars in a night sky. Background chatter mostly gets ignored."},
+{"name":"hash","step":"04 · Fingerprint","text":"Pairs of peaks, plus the time gap between them, become short codes called hashes. That's your clip's fingerprint."},
+{"name":"match","step":"05 · Search","text":"Those hashes are searched in a huge database of songs, fingerprinted the same way."},
+{"name":"align","step":"06 · Line up","text":"The song where lots of hashes line up, at the same time offset, wins. That's your answer."},
+{"name":"outro","step":"Recap","text":"Listen, map, peaks, match. Music, as a fingerprint. Follow for more on how things really work."}]}

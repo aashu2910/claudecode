@@ -1,0 +1,9 @@
+{"accent":"#60a5fa","file":"Bluetooth_Earbuds_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You open the case, and your earbuds connect before they even reach your ears. How?"},
+{"name":"radio","step":"01 · Short-range radio","text":"Bluetooth is low power radio at two point four gigahertz, the same band as Wi-Fi, but made for short distances."},
+{"name":"pair","step":"02 · Pairing","text":"The first time, the devices pair. They exchange a secret key, and remember each other for next time."},
+{"name":"reconn","step":"03 · Reconnect","text":"After that, opening the case wakes the buds. They call out to your phone, which recognises them, and connects automatically."},
+{"name":"hop","step":"04 · Hopping","text":"To dodge interference, classic Bluetooth hops between seventy nine channels, about sixteen hundred times a second."},
+{"name":"codec","step":"05 · Squeezed audio","text":"Your music is compressed by a codec like AAC, sent in tiny packets, then decoded inside the buds."},
+{"name":"buds","step":"06 · Two buds","text":"Depending on the model, one bud relays sound to the other, or both listen to the phone directly, and stay in sync."},
+{"name":"outro","step":"Recap","text":"Pair, reconnect, hop, decode. Music through thin air. Follow for more on how things really work."}]}

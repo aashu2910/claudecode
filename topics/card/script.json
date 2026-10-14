@@ -1,0 +1,46 @@
+{
+ "accent": "#facc15",
+ "file": "Card_Payment_How_It_Works_9x16.mp4",
+ "scenes": [
+  {
+   "name": "hook",
+   "step": "How it works",
+   "text": "You tap your card, and two seconds later, approved. But in those two seconds, your payment went on a trip."
+  },
+  {
+   "name": "tap",
+   "step": "01 · Tap",
+   "text": "The card's chip talks to the machine by NFC, and creates a one time code for this payment, so copying it is useless."
+  },
+  {
+   "name": "acq",
+   "step": "02 · Shop's bank",
+   "text": "The machine sends the amount and card details to the shop's bank, called the acquirer."
+  },
+  {
+   "name": "net",
+   "step": "03 · Card network",
+   "text": "The acquirer passes it to the card network, like Visa, Mastercard or RuPay, which routes it to the bank that issued your card."
+  },
+  {
+   "name": "check",
+   "step": "04 · Bank decides",
+   "text": "Your bank checks your limit, looks for fraud patterns, and verifies the PIN if needed. Then it says approve, or decline."
+  },
+  {
+   "name": "back",
+   "step": "05 · Back again",
+   "text": "That answer travels back the same path, and the machine beeps. All in a second or two."
+  },
+  {
+   "name": "settle",
+   "step": "06 · Settlement",
+   "text": "The money actually moves later, usually by the next day, when banks settle up in batches."
+  },
+  {
+   "name": "outro",
+   "step": "Recap",
+   "text": "Tap, network, bank, beep. A round trip in seconds. Follow for more on how things really work."
+  }
+ ]
+}

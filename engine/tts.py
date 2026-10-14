@@ -13,6 +13,7 @@ speed=0.95
 while True:
     auds,sr=gen(speed); sp=sum(len(a) for a in auds)/sr; gap=(59-0.45-2.0-sp)/(len(S)-1)
     print("speed",speed,"speech",round(sp,2),"gap",round(gap,3))
+    if gap>1.3 and speed>0.86: speed=round(max(0.85,speed-0.05),3); continue
     if gap>=0.5 or speed>=1.15: break
     speed=round(speed+max(0.01,min(0.06,(0.5-gap)*7*speed/sp+0.005)),3)
 for (n,_,_),a in zip(S,auds): sf.write(f"vo_{n}.wav",a,sr)

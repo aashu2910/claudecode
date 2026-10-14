@@ -1,0 +1,9 @@
+{"accent":"#f9a8d4","file":"Face_Unlock_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You glance at your phone in a dark room, and it unlocks instantly. How does it see you?"},
+{"name":"dots","step":"01 · Invisible dots","text":"On phones like the iPhone, a projector shoots over thirty thousand invisible infrared dots onto your face."},
+{"name":"ir","step":"02 · Infrared camera","text":"An infrared camera reads how those dots land. They shift around your nose, cheeks and eyes. And infrared works in the dark."},
+{"name":"map","step":"03 · 3D map","text":"From the dot pattern, it builds a depth map. A 3D shape of your face, not just a flat photo."},
+{"name":"math","step":"04 · Face math","text":"A neural network turns that shape into numbers, and compares them with the ones saved at setup, inside a secure chip."},
+{"name":"spoof","step":"05 · Not fooled","text":"Because it measures depth, a printed photo looks flat and fails. Apple says a random stranger matches about one in a million times."},
+{"name":"basic","step":"06 · Cheaper phones","text":"Many phones only use the front camera, a flat 2D match. That's easier to fool, and it needs some light."},
+{"name":"outro","step":"Recap","text":"Dots, depth, numbers, match. Your face, as a key. Follow for more on how things really work."}]}
