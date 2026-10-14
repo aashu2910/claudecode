@@ -1,0 +1,1057 @@
+{
+ "total": 59.0,
+ "scenes": [
+  {
+   "name": "hook",
+   "step": "How it works",
+   "start": 0.45,
+   "dur": 7.1321666666666665
+  },
+  {
+   "name": "code",
+   "step": "01 \u00b7 Code is made",
+   "start": 8.046071428571429,
+   "dur": 6.771041666666667
+  },
+  {
+   "name": "gateway",
+   "step": "02 \u00b7 SMS gateway",
+   "start": 15.281017857142857,
+   "dur": 6.2047083333333335
+  },
+  {
+   "name": "smsc",
+   "step": "03 \u00b7 Your carrier",
+   "start": 21.94963095238095,
+   "dur": 6.643875
+  },
+  {
+   "name": "locate",
+   "step": "04 \u00b7 Find the phone",
+   "start": 29.057410714285712,
+   "dur": 5.649666666666667
+  },
+  {
+   "name": "air",
+   "step": "05 \u00b7 Over the air",
+   "start": 35.17098214285714,
+   "dur": 8.346958333333333
+  },
+  {
+   "name": "verify",
+   "step": "06 \u00b7 Verify",
+   "start": 43.98184523809523,
+   "dur": 6.534791666666667
+  },
+  {
+   "name": "outro",
+   "step": "Recap",
+   "start": 50.98054166666666,
+   "dur": 6.019458333333334
+  }
+ ],
+ "words": [
+  {
+   "w": "You",
+   "s": 0.45,
+   "e": 0.781,
+   "scene": "hook"
+  },
+  {
+   "w": "tap",
+   "s": 0.781,
+   "e": 1.111,
+   "scene": "hook"
+  },
+  {
+   "w": "send",
+   "s": 1.111,
+   "e": 1.506,
+   "scene": "hook"
+  },
+  {
+   "w": "OTP,",
+   "s": 1.506,
+   "e": 1.9,
+   "scene": "hook"
+  },
+  {
+   "w": "and",
+   "s": 2.18,
+   "e": 2.361,
+   "scene": "hook"
+  },
+  {
+   "w": "two",
+   "s": 2.361,
+   "e": 2.543,
+   "scene": "hook"
+  },
+  {
+   "w": "seconds",
+   "s": 2.543,
+   "e": 2.864,
+   "scene": "hook"
+  },
+  {
+   "w": "later,",
+   "s": 2.864,
+   "e": 3.15,
+   "scene": "hook"
+  },
+  {
+   "w": "a",
+   "s": 3.29,
+   "e": 3.417,
+   "scene": "hook"
+  },
+  {
+   "w": "code",
+   "s": 3.417,
+   "e": 3.665,
+   "scene": "hook"
+  },
+  {
+   "w": "pops",
+   "s": 3.665,
+   "e": 3.912,
+   "scene": "hook"
+  },
+  {
+   "w": "up",
+   "s": 3.912,
+   "e": 4.079,
+   "scene": "hook"
+  },
+  {
+   "w": "on",
+   "s": 4.079,
+   "e": 4.246,
+   "scene": "hook"
+  },
+  {
+   "w": "your",
+   "s": 4.246,
+   "e": 4.493,
+   "scene": "hook"
+  },
+  {
+   "w": "phone.",
+   "s": 4.493,
+   "e": 4.82,
+   "scene": "hook"
+  },
+  {
+   "w": "But",
+   "s": 5.34,
+   "e": 5.542,
+   "scene": "hook"
+  },
+  {
+   "w": "what",
+   "s": 5.542,
+   "e": 5.784,
+   "scene": "hook"
+  },
+  {
+   "w": "actually",
+   "s": 5.784,
+   "e": 6.181,
+   "scene": "hook"
+  },
+  {
+   "w": "happens",
+   "s": 6.181,
+   "e": 6.539,
+   "scene": "hook"
+  },
+  {
+   "w": "in",
+   "s": 6.539,
+   "e": 6.702,
+   "scene": "hook"
+  },
+  {
+   "w": "those",
+   "s": 6.702,
+   "e": 6.983,
+   "scene": "hook"
+  },
+  {
+   "w": "two",
+   "s": 6.983,
+   "e": 7.185,
+   "scene": "hook"
+  },
+  {
+   "w": "seconds?",
+   "s": 7.185,
+   "e": 7.582,
+   "scene": "hook"
+  },
+  {
+   "w": "First,",
+   "s": 8.046,
+   "e": 11.266,
+   "scene": "code"
+  },
+  {
+   "w": "the",
+   "s": 11.776,
+   "e": 11.857,
+   "scene": "code"
+  },
+  {
+   "w": "app's",
+   "s": 11.857,
+   "e": 11.97,
+   "scene": "code"
+  },
+  {
+   "w": "server",
+   "s": 11.97,
+   "e": 12.098,
+   "scene": "code"
+  },
+  {
+   "w": "generates",
+   "s": 12.098,
+   "e": 12.272,
+   "scene": "code"
+  },
+  {
+   "w": "a",
+   "s": 12.272,
+   "e": 12.322,
+   "scene": "code"
+  },
+  {
+   "w": "random",
+   "s": 12.322,
+   "e": 12.45,
+   "scene": "code"
+  },
+  {
+   "w": "six",
+   "s": 12.45,
+   "e": 12.531,
+   "scene": "code"
+  },
+  {
+   "w": "digit",
+   "s": 12.531,
+   "e": 12.644,
+   "scene": "code"
+  },
+  {
+   "w": "code.",
+   "s": 12.644,
+   "e": 12.756,
+   "scene": "code"
+  },
+  {
+   "w": "It",
+   "s": 13.036,
+   "e": 13.209,
+   "scene": "code"
+  },
+  {
+   "w": "saves",
+   "s": 13.209,
+   "e": 13.507,
+   "scene": "code"
+  },
+  {
+   "w": "a",
+   "s": 13.507,
+   "e": 13.639,
+   "scene": "code"
+  },
+  {
+   "w": "copy,",
+   "s": 13.639,
+   "e": 13.936,
+   "scene": "code"
+  },
+  {
+   "w": "with",
+   "s": 14.086,
+   "e": 14.188,
+   "scene": "code"
+  },
+  {
+   "w": "a",
+   "s": 14.188,
+   "e": 14.241,
+   "scene": "code"
+  },
+  {
+   "w": "timer",
+   "s": 14.241,
+   "e": 14.359,
+   "scene": "code"
+  },
+  {
+   "w": "of",
+   "s": 14.359,
+   "e": 14.429,
+   "scene": "code"
+  },
+  {
+   "w": "about",
+   "s": 14.429,
+   "e": 14.547,
+   "scene": "code"
+  },
+  {
+   "w": "five",
+   "s": 14.547,
+   "e": 14.649,
+   "scene": "code"
+  },
+  {
+   "w": "minutes.",
+   "s": 14.649,
+   "e": 14.817,
+   "scene": "code"
+  },
+  {
+   "w": "Then",
+   "s": 15.281,
+   "e": 15.556,
+   "scene": "gateway"
+  },
+  {
+   "w": "it",
+   "s": 15.556,
+   "e": 15.742,
+   "scene": "gateway"
+  },
+  {
+   "w": "hands",
+   "s": 15.742,
+   "e": 16.061,
+   "scene": "gateway"
+  },
+  {
+   "w": "the",
+   "s": 16.061,
+   "e": 16.292,
+   "scene": "gateway"
+  },
+  {
+   "w": "code",
+   "s": 16.292,
+   "e": 16.567,
+   "scene": "gateway"
+  },
+  {
+   "w": "and",
+   "s": 16.567,
+   "e": 16.797,
+   "scene": "gateway"
+  },
+  {
+   "w": "your",
+   "s": 16.797,
+   "e": 17.072,
+   "scene": "gateway"
+  },
+  {
+   "w": "number",
+   "s": 17.072,
+   "e": 17.436,
+   "scene": "gateway"
+  },
+  {
+   "w": "to",
+   "s": 17.436,
+   "e": 17.622,
+   "scene": "gateway"
+  },
+  {
+   "w": "an",
+   "s": 17.622,
+   "e": 17.808,
+   "scene": "gateway"
+  },
+  {
+   "w": "SMS",
+   "s": 17.808,
+   "e": 18.039,
+   "scene": "gateway"
+  },
+  {
+   "w": "gateway.",
+   "s": 18.039,
+   "e": 18.491,
+   "scene": "gateway"
+  },
+  {
+   "w": "That's",
+   "s": 19.021,
+   "e": 19.328,
+   "scene": "gateway"
+  },
+  {
+   "w": "a",
+   "s": 19.328,
+   "e": 19.448,
+   "scene": "gateway"
+  },
+  {
+   "w": "service",
+   "s": 19.448,
+   "e": 19.793,
+   "scene": "gateway"
+  },
+  {
+   "w": "that",
+   "s": 19.793,
+   "e": 20.025,
+   "scene": "gateway"
+  },
+  {
+   "w": "connects",
+   "s": 20.025,
+   "e": 20.407,
+   "scene": "gateway"
+  },
+  {
+   "w": "apps",
+   "s": 20.407,
+   "e": 20.639,
+   "scene": "gateway"
+  },
+  {
+   "w": "to",
+   "s": 20.639,
+   "e": 20.797,
+   "scene": "gateway"
+  },
+  {
+   "w": "phone",
+   "s": 20.797,
+   "e": 21.066,
+   "scene": "gateway"
+  },
+  {
+   "w": "networks.",
+   "s": 21.066,
+   "e": 21.486,
+   "scene": "gateway"
+  },
+  {
+   "w": "The",
+   "s": 21.95,
+   "e": 22.149,
+   "scene": "smsc"
+  },
+  {
+   "w": "gateway",
+   "s": 22.149,
+   "e": 22.503,
+   "scene": "smsc"
+  },
+  {
+   "w": "finds",
+   "s": 22.503,
+   "e": 22.78,
+   "scene": "smsc"
+  },
+  {
+   "w": "which",
+   "s": 22.78,
+   "e": 23.056,
+   "scene": "smsc"
+  },
+  {
+   "w": "carrier",
+   "s": 23.056,
+   "e": 23.41,
+   "scene": "smsc"
+  },
+  {
+   "w": "owns",
+   "s": 23.41,
+   "e": 23.648,
+   "scene": "smsc"
+  },
+  {
+   "w": "your",
+   "s": 23.648,
+   "e": 23.886,
+   "scene": "smsc"
+  },
+  {
+   "w": "number,",
+   "s": 23.886,
+   "e": 24.24,
+   "scene": "smsc"
+  },
+  {
+   "w": "and",
+   "s": 24.63,
+   "e": 24.833,
+   "scene": "smsc"
+  },
+  {
+   "w": "passes",
+   "s": 24.833,
+   "e": 25.155,
+   "scene": "smsc"
+  },
+  {
+   "w": "the",
+   "s": 25.155,
+   "e": 25.359,
+   "scene": "smsc"
+  },
+  {
+   "w": "message",
+   "s": 25.359,
+   "e": 25.719,
+   "scene": "smsc"
+  },
+  {
+   "w": "to",
+   "s": 25.719,
+   "e": 25.884,
+   "scene": "smsc"
+  },
+  {
+   "w": "that",
+   "s": 25.884,
+   "e": 26.127,
+   "scene": "smsc"
+  },
+  {
+   "w": "carrier's",
+   "s": 26.127,
+   "e": 26.566,
+   "scene": "smsc"
+  },
+  {
+   "w": "text",
+   "s": 26.566,
+   "e": 26.809,
+   "scene": "smsc"
+  },
+  {
+   "w": "centre,",
+   "s": 26.809,
+   "e": 27.17,
+   "scene": "smsc"
+  },
+  {
+   "w": "called",
+   "s": 27.49,
+   "e": 27.929,
+   "scene": "smsc"
+  },
+  {
+   "w": "the",
+   "s": 27.929,
+   "e": 28.208,
+   "scene": "smsc"
+  },
+  {
+   "w": "SMSC.",
+   "s": 28.208,
+   "e": 28.594,
+   "scene": "smsc"
+  },
+  {
+   "w": "The",
+   "s": 29.057,
+   "e": 29.291,
+   "scene": "locate"
+  },
+  {
+   "w": "SMSC",
+   "s": 29.291,
+   "e": 29.569,
+   "scene": "locate"
+  },
+  {
+   "w": "asks",
+   "s": 29.569,
+   "e": 29.847,
+   "scene": "locate"
+  },
+  {
+   "w": "a",
+   "s": 29.847,
+   "e": 29.99,
+   "scene": "locate"
+  },
+  {
+   "w": "subscriber",
+   "s": 29.99,
+   "e": 30.537,
+   "scene": "locate"
+  },
+  {
+   "w": "database",
+   "s": 30.537,
+   "e": 30.995,
+   "scene": "locate"
+  },
+  {
+   "w": "where",
+   "s": 30.995,
+   "e": 31.317,
+   "scene": "locate"
+  },
+  {
+   "w": "your",
+   "s": 31.317,
+   "e": 31.595,
+   "scene": "locate"
+  },
+  {
+   "w": "phone",
+   "s": 31.595,
+   "e": 31.918,
+   "scene": "locate"
+  },
+  {
+   "w": "is",
+   "s": 31.918,
+   "e": 32.107,
+   "scene": "locate"
+  },
+  {
+   "w": "right",
+   "s": 32.107,
+   "e": 32.429,
+   "scene": "locate"
+  },
+  {
+   "w": "now.",
+   "s": 32.429,
+   "e": 32.707,
+   "scene": "locate"
+  },
+  {
+   "w": "Which",
+   "s": 33.197,
+   "e": 33.433,
+   "scene": "locate"
+  },
+  {
+   "w": "network,",
+   "s": 33.433,
+   "e": 33.767,
+   "scene": "locate"
+  },
+  {
+   "w": "which",
+   "s": 33.997,
+   "e": 34.329,
+   "scene": "locate"
+  },
+  {
+   "w": "tower.",
+   "s": 34.329,
+   "e": 34.707,
+   "scene": "locate"
+  },
+  {
+   "w": "The",
+   "s": 35.171,
+   "e": 35.387,
+   "scene": "air"
+  },
+  {
+   "w": "tower",
+   "s": 35.387,
+   "e": 35.687,
+   "scene": "air"
+  },
+  {
+   "w": "sends",
+   "s": 35.687,
+   "e": 35.987,
+   "scene": "air"
+  },
+  {
+   "w": "the",
+   "s": 35.987,
+   "e": 36.203,
+   "scene": "air"
+  },
+  {
+   "w": "text",
+   "s": 36.203,
+   "e": 36.461,
+   "scene": "air"
+  },
+  {
+   "w": "on",
+   "s": 36.461,
+   "e": 36.636,
+   "scene": "air"
+  },
+  {
+   "w": "a",
+   "s": 36.636,
+   "e": 36.769,
+   "scene": "air"
+  },
+  {
+   "w": "signalling",
+   "s": 36.769,
+   "e": 37.277,
+   "scene": "air"
+  },
+  {
+   "w": "channel,",
+   "s": 37.277,
+   "e": 37.701,
+   "scene": "air"
+  },
+  {
+   "w": "the",
+   "s": 38.071,
+   "e": 38.279,
+   "scene": "air"
+  },
+  {
+   "w": "same",
+   "s": 38.279,
+   "e": 38.526,
+   "scene": "air"
+  },
+  {
+   "w": "one",
+   "s": 38.526,
+   "e": 38.733,
+   "scene": "air"
+  },
+  {
+   "w": "used",
+   "s": 38.733,
+   "e": 38.981,
+   "scene": "air"
+  },
+  {
+   "w": "to",
+   "s": 38.981,
+   "e": 39.149,
+   "scene": "air"
+  },
+  {
+   "w": "set",
+   "s": 39.149,
+   "e": 39.356,
+   "scene": "air"
+  },
+  {
+   "w": "up",
+   "s": 39.356,
+   "e": 39.524,
+   "scene": "air"
+  },
+  {
+   "w": "calls.",
+   "s": 39.524,
+   "e": 39.851,
+   "scene": "air"
+  },
+  {
+   "w": "That's",
+   "s": 40.401,
+   "e": 40.837,
+   "scene": "air"
+  },
+  {
+   "w": "why",
+   "s": 40.837,
+   "e": 41.114,
+   "scene": "air"
+  },
+  {
+   "w": "OTPs",
+   "s": 41.114,
+   "e": 41.444,
+   "scene": "air"
+  },
+  {
+   "w": "arrive",
+   "s": 41.444,
+   "e": 41.88,
+   "scene": "air"
+  },
+  {
+   "w": "even",
+   "s": 41.88,
+   "e": 42.209,
+   "scene": "air"
+  },
+  {
+   "w": "without",
+   "s": 42.209,
+   "e": 42.699,
+   "scene": "air"
+  },
+  {
+   "w": "mobile",
+   "s": 42.699,
+   "e": 43.135,
+   "scene": "air"
+  },
+  {
+   "w": "data.",
+   "s": 43.135,
+   "e": 43.518,
+   "scene": "air"
+  },
+  {
+   "w": "You",
+   "s": 43.982,
+   "e": 44.05,
+   "scene": "verify"
+  },
+  {
+   "w": "type",
+   "s": 44.05,
+   "e": 44.13,
+   "scene": "verify"
+  },
+  {
+   "w": "the",
+   "s": 44.13,
+   "e": 44.198,
+   "scene": "verify"
+  },
+  {
+   "w": "code.",
+   "s": 44.198,
+   "e": 44.292,
+   "scene": "verify"
+  },
+  {
+   "w": "The",
+   "s": 44.382,
+   "e": 44.427,
+   "scene": "verify"
+  },
+  {
+   "w": "server",
+   "s": 44.427,
+   "e": 44.499,
+   "scene": "verify"
+  },
+  {
+   "w": "compares",
+   "s": 44.499,
+   "e": 44.589,
+   "scene": "verify"
+  },
+  {
+   "w": "it",
+   "s": 44.589,
+   "e": 44.626,
+   "scene": "verify"
+  },
+  {
+   "w": "with",
+   "s": 44.626,
+   "e": 44.68,
+   "scene": "verify"
+  },
+  {
+   "w": "its",
+   "s": 44.68,
+   "e": 44.726,
+   "scene": "verify"
+  },
+  {
+   "w": "saved",
+   "s": 44.726,
+   "e": 44.789,
+   "scene": "verify"
+  },
+  {
+   "w": "copy.",
+   "s": 44.789,
+   "e": 44.852,
+   "scene": "verify"
+  },
+  {
+   "w": "If",
+   "s": 45.242,
+   "e": 45.727,
+   "scene": "verify"
+  },
+  {
+   "w": "it",
+   "s": 45.727,
+   "e": 46.213,
+   "scene": "verify"
+  },
+  {
+   "w": "matches,",
+   "s": 46.213,
+   "e": 47.392,
+   "scene": "verify"
+  },
+  {
+   "w": "and",
+   "s": 47.852,
+   "e": 47.961,
+   "scene": "verify"
+  },
+  {
+   "w": "the",
+   "s": 47.961,
+   "e": 48.07,
+   "scene": "verify"
+  },
+  {
+   "w": "timer",
+   "s": 48.07,
+   "e": 48.221,
+   "scene": "verify"
+  },
+  {
+   "w": "hasn't",
+   "s": 48.221,
+   "e": 48.393,
+   "scene": "verify"
+  },
+  {
+   "w": "run",
+   "s": 48.393,
+   "e": 48.502,
+   "scene": "verify"
+  },
+  {
+   "w": "out,",
+   "s": 48.502,
+   "e": 48.632,
+   "scene": "verify"
+  },
+  {
+   "w": "you're",
+   "s": 48.762,
+   "e": 49.836,
+   "scene": "verify"
+  },
+  {
+   "w": "in.",
+   "s": 49.836,
+   "e": 50.517,
+   "scene": "verify"
+  },
+  {
+   "w": "App,",
+   "s": 50.981,
+   "e": 51.273,
+   "scene": "outro"
+  },
+  {
+   "w": "gateway,",
+   "s": 51.273,
+   "e": 51.754,
+   "scene": "outro"
+  },
+  {
+   "w": "carrier,",
+   "s": 51.754,
+   "e": 52.235,
+   "scene": "outro"
+  },
+  {
+   "w": "tower,",
+   "s": 52.235,
+   "e": 52.622,
+   "scene": "outro"
+  },
+  {
+   "w": "phone.",
+   "s": 52.622,
+   "e": 53.009,
+   "scene": "outro"
+  },
+  {
+   "w": "All",
+   "s": 53.009,
+   "e": 53.254,
+   "scene": "outro"
+  },
+  {
+   "w": "in",
+   "s": 53.254,
+   "e": 53.452,
+   "scene": "outro"
+  },
+  {
+   "w": "about",
+   "s": 53.452,
+   "e": 53.792,
+   "scene": "outro"
+  },
+  {
+   "w": "two",
+   "s": 53.792,
+   "e": 54.037,
+   "scene": "outro"
+  },
+  {
+   "w": "seconds.",
+   "s": 54.037,
+   "e": 54.519,
+   "scene": "outro"
+  },
+  {
+   "w": "Follow",
+   "s": 54.519,
+   "e": 54.905,
+   "scene": "outro"
+  },
+  {
+   "w": "for",
+   "s": 54.905,
+   "e": 55.151,
+   "scene": "outro"
+  },
+  {
+   "w": "more",
+   "s": 55.151,
+   "e": 55.443,
+   "scene": "outro"
+  },
+  {
+   "w": "on",
+   "s": 55.443,
+   "e": 55.641,
+   "scene": "outro"
+  },
+  {
+   "w": "how",
+   "s": 55.641,
+   "e": 55.887,
+   "scene": "outro"
+  },
+  {
+   "w": "things",
+   "s": 55.887,
+   "e": 56.274,
+   "scene": "outro"
+  },
+  {
+   "w": "really",
+   "s": 56.274,
+   "e": 56.66,
+   "scene": "outro"
+  },
+  {
+   "w": "work.",
+   "s": 56.66,
+   "e": 57.0,
+   "scene": "outro"
+  }
+ ]
+}

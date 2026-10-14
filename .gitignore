@@ -1,0 +1,8 @@
+otp/*.onnx
+otp/*.bin
+otp/*.wav
+otp/st_*.jpg
+otp/built.html
+otp/video.mp4
+otp/sfx.json
+otp/render.log
