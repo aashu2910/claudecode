@@ -1,0 +1,9 @@
+{"accent":"#e879f9","file":"AI_Chatbot_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You ask an AI chatbot a question, and it writes back like a person. But what's actually happening inside?"},
+{"name":"tokens","step":"01 · Tokens","text":"First, your message is split into small pieces called tokens. Whole words, or parts of words, each turned into numbers."},
+{"name":"train","step":"02 · Training","text":"The model was trained on a huge amount of text, learning to predict the next token, again and again, billions of times."},
+{"name":"network","step":"03 · The network","text":"That learning lives in a neural network with billions of adjustable numbers, called parameters, that capture patterns in language."},
+{"name":"next","step":"04 · One at a time","text":"To reply, it predicts the most likely next token, adds it, then predicts the next one. Word by word."},
+{"name":"tune","step":"05 · Fine tuning","text":"It's then tuned with human feedback, so its answers become more helpful, and safer."},
+{"name":"wrong","step":"06 · Not always right","text":"It predicts what sounds right, so it can still be confidently wrong. Always double check facts that matter."},
+{"name":"outro","step":"Recap","text":"Tokens, training, prediction, feedback. Patterns, not magic. Follow for more on how things really work."}]}

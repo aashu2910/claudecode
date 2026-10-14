@@ -1,0 +1,9 @@
+{"accent":"#a78bfa","file":"Clear_Phone_Calls_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You take a call on a busy road, and the other person hears you clearly. Where did all that traffic noise go?"},
+{"name":"mics","step":"01 · Many mics","text":"Your phone has more than one microphone. Usually one near your mouth, and others at the top or back."},
+{"name":"compare","step":"02 · Compare","text":"Your voice is much louder in the bottom mic. Traffic noise reaches all the mics at about the same level."},
+{"name":"focus","step":"03 · Focus","text":"By comparing them, the phone works out which sounds come from your mouth, and focuses on that direction."},
+{"name":"suppress","step":"04 · Remove noise","text":"Noise suppression software, often trained on thousands of hours of audio, then cuts the steady background noise out."},
+{"name":"echo","step":"05 · Kill echo","text":"It also removes the other person's voice coming out of your speaker, so they don't hear an echo of themselves."},
+{"name":"send","step":"06 · Send it","text":"The cleaned voice is compressed and sent over the network. All of this happens live, while you talk."},
+{"name":"outro","step":"Recap","text":"Mics, compare, focus, clean. Just your voice. Follow for more on how things really work."}]}

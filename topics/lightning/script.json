@@ -1,0 +1,9 @@
+{"accent":"#facc15","file":"Lightning_Conductor_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"Lightning hits tall buildings all the time, yet most of them don't catch fire or crack. What protects them?"},
+{"name":"charge","step":"01 · Charged clouds","text":"Inside storm clouds, ice and water collide, and separate electric charge. The bottom of the cloud usually becomes negative."},
+{"name":"strike","step":"02 · The strike","text":"When the charge gets big enough, it jumps to the ground as lightning. A typical bolt carries around thirty thousand amps."},
+{"name":"rod","step":"03 · The rod","text":"A lightning conductor is a metal rod on the highest point of the building, connected to a thick metal strip running down the side."},
+{"name":"ground","step":"04 · Into the ground","text":"That strip ends in metal rods or plates buried deep in the earth. So the current takes this easy path, instead of through the walls."},
+{"name":"myth","step":"05 · Myth check","text":"It doesn't attract lightning from far away. It just gives a strike nearby a safe route to the ground."},
+{"name":"you","step":"06 · Stay safe","text":"Outdoors in a storm, avoid tall trees and open fields, and get inside a building or a car with a metal roof."},
+{"name":"outro","step":"Recap","text":"Charge, strike, rod, ground. A safe road for lightning. Follow for more on how things really work."}]}

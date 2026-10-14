@@ -1,0 +1,9 @@
+{"accent":"#a5b4fc","file":"Dark_Mode_Battery_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"People say dark mode saves battery. Sometimes it does, sometimes it barely matters. It depends on your screen."},
+{"name":"oled","step":"01 · OLED screens","text":"In an OLED screen, every pixel makes its own light. A black pixel is simply switched off, using almost no power."},
+{"name":"lcd","step":"02 · LCD screens","text":"An LCD screen has one backlight behind all the pixels, always on. Black pixels just block that light, so it still uses power."},
+{"name":"bright","step":"03 · Brightness matters","text":"On OLED phones, studies found dark mode saves the most at high brightness. At normal indoor brightness, the savings are much smaller."},
+{"name":"content","step":"04 · What's on screen","text":"It only helps where the screen is actually dark. Bright photos and videos use the same power either way."},
+{"name":"check","step":"05 · Check your phone","text":"Many flagship and mid range phones today use OLED or AMOLED. Many budget phones still use LCD."},
+{"name":"eyes","step":"06 · Comfort","text":"Battery aside, many people simply find dark mode easier on the eyes at night. Pick what feels comfortable."},
+{"name":"outro","step":"Recap","text":"OLED, pixels off, brightness, content. It depends. Follow for more on how things really work."}]}

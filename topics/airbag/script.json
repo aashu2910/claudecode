@@ -1,0 +1,9 @@
+{"accent":"#f43f5e","file":"Airbag_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"In a crash, an airbag fills up faster than you can blink. How does a bag inflate that fast?"},
+{"name":"sensor","step":"01 · Crash sensor","text":"Sensors called accelerometers feel how fast the car is slowing down. A crash means a sudden, violent drop in speed."},
+{"name":"decide","step":"02 · Decide","text":"A control unit checks the signal, and decides within a few milliseconds whether the crash is serious enough."},
+{"name":"ignite","step":"03 · Ignite","text":"If it is, it fires a tiny igniter, which starts a fast chemical reaction inside the inflator."},
+{"name":"gas","step":"04 · Gas","text":"The reaction releases a burst of gas, mostly nitrogen, which blasts the folded bag open in about thirty milliseconds."},
+{"name":"deflate","step":"05 · Deflate","text":"The bag has small vents, so it starts to deflate as you hit it. That cushions you, instead of bouncing you back."},
+{"name":"belt","step":"06 · Wear the belt","text":"Airbags are made to work with seatbelts. Without a belt, the bag itself can hurt you."},
+{"name":"outro","step":"Recap","text":"Sense, decide, ignite, inflate. Faster than a blink. Follow for more on how things really work."}]}

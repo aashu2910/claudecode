@@ -1,0 +1,9 @@
+{"accent":"#38bdf8","file":"Google_Search_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"You type a question, and in half a second, Google shows you the answer from billions of pages. How?"},
+{"name":"crawl","step":"01 · Crawling","text":"Long before you search, programs called crawlers visit web pages, and follow every link to find new ones."},
+{"name":"index","step":"02 · The index","text":"What they find is stored in a giant index, like the index at the back of a book. Each word points to the pages that use it."},
+{"name":"understand","step":"03 · Understand you","text":"When you search, it first works out what you mean. It fixes spelling, and understands synonyms and context."},
+{"name":"match","step":"04 · Find matches","text":"Then it looks up the index, and pulls out the pages that match, without reading the whole web again."},
+{"name":"rank","step":"05 · Ranking","text":"Hundreds of signals rank them. Relevance, quality, freshness, your location, and how useful the page has been to others."},
+{"name":"serve","step":"06 · Serve fast","text":"All this runs on huge data centres, split across many machines at once. That's how it fits into half a second."},
+{"name":"outro","step":"Recap","text":"Crawl, index, understand, rank. A library at your fingertips. Follow for more on how things really work."}]}

@@ -1,0 +1,9 @@
+{"accent":"#f59e0b","file":"Elevator_Safety_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"What if an elevator's cable snapped? In movies it falls. In real life, it's designed not to. Here's why."},
+{"name":"ropes","step":"01 · Many ropes","text":"Most elevators hang from several steel ropes, not one. Each rope alone is strong enough to hold the car."},
+{"name":"governor","step":"02 · Speed governor","text":"A separate loop of rope runs over a wheel called the speed governor, moving with the car all the time."},
+{"name":"trip","step":"03 · Too fast","text":"If the car goes too fast, spinning weights in the governor fling outward, and trip a catch that grabs that rope."},
+{"name":"safety","step":"04 · Safety gear","text":"The grabbed rope pulls a lever on the car, which jams steel wedges against the guide rails. The car stops."},
+{"name":"buffer","step":"05 · Buffers","text":"At the very bottom of the shaft, springs or oil buffers are there to soften any landing."},
+{"name":"history","step":"06 · Since 1853","text":"This idea goes back to Elisha Otis, who showed his safety brake in 1853, by cutting the rope while standing on the platform."},
+{"name":"outro","step":"Recap","text":"Ropes, governor, wedges, buffers. Built to never fall. Follow for more on how things really work."}]}

@@ -1,0 +1,9 @@
+{"accent":"#fb923c","file":"Aadhaar_eKYC_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"A bank or SIM shop asks for your Aadhaar, an OTP arrives, and you're verified in seconds. What just happened?"},
+{"name":"request","step":"01 · The request","text":"The service is registered with UIDAI. When you share your Aadhaar number, it sends an authentication request to UIDAI's central system."},
+{"name":"otp","step":"02 · OTP or biometrics","text":"UIDAI sends a one time password to the mobile number linked with your Aadhaar. Or you can verify with your fingerprint or iris."},
+{"name":"match","step":"03 · Match","text":"UIDAI checks the OTP or biometrics against its records. For simple authentication, it only replies yes or no."},
+{"name":"ekyc","step":"04 · eKYC","text":"For eKYC, with your consent, it sends back your name, address, date of birth and photo, digitally signed so it can't be faked."},
+{"name":"vid","step":"05 · Virtual ID","text":"You can also use a sixteen digit Virtual ID instead of your Aadhaar number, so you don't have to share the real one."},
+{"name":"safe","step":"06 · Stay safe","text":"Never share an Aadhaar OTP with anyone who calls you. Real services only ask when you're the one starting the process."},
+{"name":"outro","step":"Recap","text":"Request, OTP, match, details. Verified in seconds. Follow for more on how things really work."}]}

@@ -1,0 +1,9 @@
+{"accent":"#10b981","file":"Password_Storage_How_It_Works_9x16.mp4","scenes":[
+{"name":"hook","step":"How it works","text":"When you log in, the website checks your password. But a well built site never actually stores it. How?"},
+{"name":"hash","step":"01 · Hashing","text":"Your password goes through a hash function. A one way math scramble that turns it into a fixed jumble of characters."},
+{"name":"oneway","step":"02 · One way","text":"Same input always gives the same hash. But you can't run it backwards to get the password."},
+{"name":"login","step":"03 · Logging in","text":"At login, what you type is hashed again. If the two hashes match, you're in, without the site ever seeing the original."},
+{"name":"salt","step":"04 · Add salt","text":"Sites also add a random extra value, called salt, for each user. So two people with the same password get different hashes."},
+{"name":"slow","step":"05 · Make it slow","text":"Good systems use deliberately slow hashes, like bcrypt or Argon2, so guessing billions of passwords becomes painfully slow."},
+{"name":"you","step":"06 · Your part","text":"Still, use a different password on every site, and turn on two factor authentication. Leaks happen."},
+{"name":"outro","step":"Recap","text":"Hash, compare, salt, slow down. Your secret stays secret. Follow for more on how things really work."}]}
