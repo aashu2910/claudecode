@@ -1040,3 +1040,350 @@ Ever seen your washing machine "walk" during spin? 😂👇
 Follow @the_working_behind for more on how everyday things work.
 
 #washingmachine #laundry #physics #science #howitworks #homeappliances #lifehacks #explained
+
+
+#####################################################################
+BATCH 4 - from 27 December 2026 (every other day, skip 1 day)
+#####################################################################
+
+ #  Date         Day  YouTube   Instagram  Video file
+31  27 Dec 2026  Sun  12:30 PM  7:00 PM    Google_Search_How_It_Works_9x16.mp4
+32  29 Dec 2026  Tue  5:30 PM   7:30 PM    Airbag_How_It_Works_9x16.mp4
+33  31 Dec 2026  Thu  5:30 PM   7:30 PM    Clear_Phone_Calls_How_It_Works_9x16.mp4
+34  02 Jan 2027  Sat  12:30 PM  7:00 PM    Elevator_Safety_How_It_Works_9x16.mp4
+35  04 Jan 2027  Mon  5:30 PM   7:30 PM    Password_Storage_How_It_Works_9x16.mp4
+36  06 Jan 2027  Wed  5:30 PM   7:30 PM    AI_Chatbot_How_It_Works_9x16.mp4
+37  08 Jan 2027  Fri  5:30 PM   7:30 PM    Aadhaar_eKYC_How_It_Works_9x16.mp4
+38  10 Jan 2027  Sun  12:30 PM  7:00 PM    Dark_Mode_Battery_How_It_Works_9x16.mp4
+39  12 Jan 2027  Tue  5:30 PM   7:30 PM    Pressure_Cooker_How_It_Works_9x16.mp4
+40  14 Jan 2027  Thu  5:30 PM   7:30 PM    Lightning_Conductor_How_It_Works_9x16.mp4
+
+
+=====================================================================
+31) 27 DEC 2026 (Sun) - Google Search
+File: Google_Search_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Google Finds Answers in Half a Second 🔍 #shorts
+
+YOUTUBE DESCRIPTION:
+Long before you search, crawlers visit pages and follow links, and everything they find goes into a giant index, like the index at the back of a book. When you search, Google first works out what you mean: spelling, synonyms and context.
+
+It then pulls matching pages from the index, ranks them using hundreds of signals, and serves results from huge data centres, all in about half a second.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#google #search #howitworks #internet #techexplained
+
+YOUTUBE TAGS:
+how Google search works, search engine, web crawler, Google index, page ranking, SEO basics
+
+INSTAGRAM CAPTION:
+Billions of pages. Half a second. How does Google do it? 🔍⚡
+
+It doesn't search the web when you ask. It already crawled and indexed it. Your search just looks things up and ranks the best matches.
+
+What's the weirdest thing you've Googled? 😅👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#google #searchengine #internet #howitworks #techexplained #seo #technology #explained
+
+
+=====================================================================
+32) 29 DEC 2026 (Tue) - Airbag
+File: Airbag_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How an Airbag Inflates Faster Than a Blink 💥 #shorts
+
+YOUTUBE DESCRIPTION:
+Accelerometers sense the sudden drop in speed in a crash, and a control unit decides within milliseconds whether to deploy. A tiny igniter starts a fast chemical reaction that releases gas, mostly nitrogen, filling the bag in about 30 milliseconds.
+
+Vents let it deflate as you hit it, so it cushions instead of bouncing you back. Airbags are designed to work with seatbelts, so always buckle up.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#airbag #carsafety #howitworks #cars #science
+
+YOUTUBE TAGS:
+airbag, how airbag works, car safety, crash sensor, seatbelt, automobile engineering
+
+INSTAGRAM CAPTION:
+An airbag fully inflates in about 30 milliseconds. A blink takes over 100 💥😳
+
+Sensors detect the crash, a tiny igniter triggers a chemical reaction, and nitrogen gas fills the bag. Then it deflates on purpose to cushion you.
+
+Do you always wear your seatbelt, even in the back seat? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#airbag #carsafety #roadsafety #cars #howitworks #science #seatbelt #explained
+
+
+=====================================================================
+33) 31 DEC 2026 (Thu) - Clear phone calls
+File: Clear_Phone_Calls_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Your Phone Hides Traffic Noise on Calls 📞 #shorts
+
+YOUTUBE DESCRIPTION:
+Your phone has more than one microphone. Your voice is much louder in the bottom mic, while traffic noise reaches all mics at about the same level, so the phone can tell them apart and focus on your mouth's direction.
+
+Noise suppression software removes steady background noise, echo cancellation removes the other person's voice from your speaker, and the clean audio is compressed and sent live.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#smartphone #calls #howitworks #techexplained #audio
+
+YOUTUBE TAGS:
+phone noise cancellation, clear calls, dual microphone, echo cancellation, smartphone audio, how calls work
+
+INSTAGRAM CAPTION:
+You're on a noisy road, but they hear only you 📞🚗
+
+Your phone compares multiple mics to find your voice, then software scrubs out the traffic and even removes echo, live while you talk.
+
+Where do you take the most calls from? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#smartphone #phonecalls #techtips #howitworks #techexplained #audio #gadgets #explained
+
+
+=====================================================================
+34) 02 JAN 2027 (Sat) - Elevator safety
+File: Elevator_Safety_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Why Elevators Don't Fall Like in Movies 🛗 #shorts
+
+YOUTUBE DESCRIPTION:
+Most elevators hang from several steel ropes, each strong enough to hold the car alone. A separate rope loop runs over a speed governor. If the car goes too fast, spinning weights fling out and trip a catch.
+
+That pulls a lever that jams steel wedges against the guide rails, stopping the car. Buffers at the bottom soften any landing. The idea goes back to Elisha Otis in 1853.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#elevator #lift #howitworks #engineering #safety
+
+YOUTUBE TAGS:
+elevator safety, how elevator brakes work, speed governor, elevator falling myth, Elisha Otis, lift safety
+
+INSTAGRAM CAPTION:
+Elevators don't free-fall like in movies. Here's why 🛗✅
+
+Multiple steel ropes, a speed governor that trips if it goes too fast, and steel wedges that clamp onto the rails. Built to never fall.
+
+Are you scared of elevators? Be honest 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#elevator #lift #engineering #safety #howitworks #mythbusting #physics #explained
+
+
+=====================================================================
+35) 04 JAN 2027 (Mon) - Password storage
+File: Password_Storage_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Websites Don't Know Your Password 🔐 #shorts
+
+YOUTUBE DESCRIPTION:
+A well-built site never stores your password. It stores a hash, a one-way scramble. At login, what you type is hashed again and compared. Each user also gets a random "salt", so the same password gives different hashes.
+
+Slow hashes like bcrypt or Argon2 make guessing painfully slow. Still, use a different password on every site and turn on two-factor authentication.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#cybersecurity #password #howitworks #techexplained #privacy
+
+YOUTUBE TAGS:
+password hashing, how passwords are stored, salt, bcrypt, cybersecurity basics, 2FA
+
+INSTAGRAM CAPTION:
+Your bank doesn't actually know your password 🔐🤯
+
+It stores a one-way scrambled version called a hash. When you log in, it scrambles what you typed and checks if they match.
+
+Do you use the same password everywhere? 👀👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#cybersecurity #password #privacy #onlinesafety #howitworks #techexplained #hacking #explained
+
+
+=====================================================================
+36) 06 JAN 2027 (Wed) - AI chatbot
+File: AI_Chatbot_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How AI Chatbots Actually Write Replies 🤖 #shorts
+
+YOUTUBE DESCRIPTION:
+Your message is split into tokens and turned into numbers. The model was trained on huge amounts of text to predict the next token, and that learning lives in billions of parameters.
+
+It replies one token at a time, picking what's most likely next, and is fine-tuned with human feedback to be more helpful and safer. But it predicts what sounds right, so always double-check facts that matter.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#ai #chatbot #howitworks #artificialintelligence #techexplained
+
+YOUTUBE TAGS:
+how AI chatbots work, large language model, tokens, AI explained, next word prediction, machine learning
+
+INSTAGRAM CAPTION:
+AI chatbots don't "know" things. They predict the next word 🤖✍️
+
+Trained on huge amounts of text, they write one token at a time. That's why they sound smart, and why they can be confidently wrong.
+
+What do you use AI for the most? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#ai #artificialintelligence #chatbot #machinelearning #howitworks #techexplained #future #explained
+
+
+=====================================================================
+37) 08 JAN 2027 (Fri) - Aadhaar eKYC
+File: Aadhaar_eKYC_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Aadhaar OTP Verification Works 🪪 #shorts
+
+YOUTUBE DESCRIPTION:
+A registered service sends an authentication request to UIDAI's central system. UIDAI sends an OTP to your Aadhaar-linked mobile, or you verify with fingerprint or iris, and it checks the match.
+
+For eKYC, with your consent, it returns your name, address, date of birth and photo, digitally signed. You can use a 16-digit Virtual ID instead of your number, and never share an Aadhaar OTP with callers.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#aadhaar #ekyc #howitworks #india #digitalindia
+
+YOUTUBE TAGS:
+Aadhaar OTP, Aadhaar eKYC, UIDAI, Aadhaar verification, Virtual ID, digital India
+
+INSTAGRAM CAPTION:
+You share your Aadhaar, an OTP arrives, and you're verified in seconds 🪪⚡
+
+Your request goes to UIDAI, it checks the OTP or fingerprint, and sends back a yes, or your signed details for eKYC, only with your consent.
+
+Did you know you can use a Virtual ID instead of your Aadhaar number? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#aadhaar #ekyc #uidai #digitalindia #howitworks #india #onlinesafety #explained
+
+
+=====================================================================
+38) 10 JAN 2027 (Sun) - Dark mode
+File: Dark_Mode_Battery_How_It_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Does Dark Mode Really Save Battery? 🌙 #shorts
+
+YOUTUBE DESCRIPTION:
+On OLED screens, every pixel makes its own light, so black pixels switch off and save power. On LCD screens, one backlight stays on behind every pixel, so dark mode barely helps.
+
+Savings are biggest at high brightness and on mostly dark screens. Many flagship and mid-range phones use OLED, while many budget phones still use LCD.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#darkmode #battery #howitworks #smartphone #techexplained
+
+YOUTUBE TAGS:
+dark mode battery, OLED vs LCD, does dark mode save battery, smartphone display, battery tips, AMOLED
+
+INSTAGRAM CAPTION:
+Dark mode saves battery… only on some phones 🌙🔋
+
+OLED pixels switch off when they're black. LCD screens keep a backlight on no matter what. And the savings are biggest at high brightness.
+
+Team dark mode or light mode? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#darkmode #battery #smartphone #oled #howitworks #techexplained #phonetips #explained
+
+
+=====================================================================
+39) 12 JAN 2027 (Tue) - Pressure cooker
+File: Pressure_Cooker_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a Pressure Cooker Cooks So Fast 🍲 #shorts
+
+YOUTUBE DESCRIPTION:
+In an open pot, water can't get hotter than about 100°C. A pressure cooker seals with a gasket, so steam builds pressure, and at around one extra atmosphere water boils at about 120°C.
+
+That hotter water and steam cook food much faster. The whistle weight lifts to release steam and keep pressure steady, and a safety valve releases it if the vent is blocked.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#pressurecooker #cooking #howitworks #physics #kitchen
+
+YOUTUBE TAGS:
+pressure cooker, how pressure cooker works, boiling point, cooker whistle, kitchen science, Indian cooking
+
+INSTAGRAM CAPTION:
+Dal in 3 whistles instead of an hour? That's physics 🍲🔥
+
+Sealed steam raises the pressure, which pushes water's boiling point to about 120°C. Hotter water = faster cooking.
+
+How many whistles for your dal? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#pressurecooker #indiankitchen #cooking #physics #howitworks #science #kitchenhacks #explained
+
+
+=====================================================================
+40) 14 JAN 2027 (Thu) - Lightning conductor
+File: Lightning_Conductor_How_It_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a Lightning Conductor Saves Buildings ⚡ #shorts
+
+YOUTUBE DESCRIPTION:
+Storm clouds separate electric charge until it jumps to the ground as lightning, often carrying around 30,000 amps. A lightning conductor is a metal rod at the highest point, connected by a thick metal strip to rods or plates buried in the earth.
+
+The current takes that easy path instead of going through the walls. It doesn't attract lightning from far away. It gives nearby strikes a safe route to the ground.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#lightning #physics #howitworks #science #safety
+
+YOUTUBE TAGS:
+lightning conductor, lightning rod, how lightning works, lightning safety, earthing, physics explained
+
+INSTAGRAM CAPTION:
+Lightning hits tall buildings all the time. So why don't they burn? ⚡🏢
+
+A metal rod on top and a thick strip down the side give the current a safe road straight into the ground.
+
+Have you ever seen lightning strike something close by? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#lightning #thunderstorm #physics #science #howitworks #safety #monsoon #explained
