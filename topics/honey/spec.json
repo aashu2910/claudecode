@@ -1,0 +1,9 @@
+{"accent":"#d97706","file":"How_Bees_Make_Honey_9x16.mp4","buddy":["circle","#fef3c7"],"outro":["Nectar turned","to gold."],"scenes":[
+{"name":"hook","step":"How it works","text":"A jar of honey takes the work of thousands of bees visiting millions of flowers. How do bees turn flowers into honey?","emoji":"🍯","items":[["thousands","thousands of bees"],["millions","millions of flowers"]]},
+{"name":"nectar","step":"01 · Collecting nectar","text":"Worker bees sip sugary nectar from flowers and store it in a special honey stomach.","emoji":"🌸","items":[["nectar","sugary nectar"],["stomach","honey stomach"]]},
+{"name":"enzymes","step":"02 · Adding enzymes","text":"Inside the bee, enzymes start breaking the nectar's sugar into simpler sugars.","emoji":"⚗️","items":[["enzymes","enzymes added"],["simpler","simpler sugars"]]},
+{"name":"pass","step":"03 · Passing it on","text":"Back at the hive, the nectar is passed from bee to bee, adding more enzymes each time.","emoji":"🐝","items":[["hive","at the hive"],["passed","bee to bee"]]},
+{"name":"dry","step":"04 · Drying it out","text":"Bees spread it in wax cells and fan their wings to evaporate water, until it's thick honey.","emoji":"🌬️","items":[["wax","wax cells"],["fan","fan to dry"]]},
+{"name":"cap","step":"05 · Capping","text":"When it's ready, they seal each cell with a wax cap, storing food for the colony.","emoji":"🔒","items":[["seal","wax cap seal"],["food","colony food"]]},
+{"name":"lasts","step":"06 · Why it lasts","text":"Honey is so low in water and slightly acidic, that most germs can't grow in it, so it keeps for a very long time.","emoji":"⏳","items":[["low","low water + acidic"],["long","lasts very long"]]},
+{"name":"outro","step":"Recap","text":"Collect, add enzymes, dry, seal. Follow for more on how things really work."}]}

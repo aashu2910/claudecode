@@ -1,0 +1,9 @@
+{"accent":"#ef4444","file":"How_A_TV_Remote_Works_9x16.mp4","buddy":["rect","#fee2e2"],"outro":["Invisible","blinks."],"scenes":[
+{"name":"hook","step":"How it works","text":"You press a button on the remote, and the TV across the room obeys instantly. But there's no wire. How?","emoji":"📺","items":[["button","press a button"],["wire","no wire?"]]},
+{"name":"ir","step":"01 · Invisible light","text":"Most remotes use infrared light, a kind of light just beyond red, that our eyes can't see.","emoji":"🔦","items":[["infrared","infrared light"],["see","invisible to eyes"]]},
+{"name":"led","step":"02 · The LED","text":"At the front is a small infrared LED. Pressing a button makes it blink very fast.","emoji":"💡","items":[["led","infrared LED"],["blink","blinks fast"]]},
+{"name":"code","step":"03 · A code","text":"The pattern of blinks is a code. Each button sends its own pattern of ones and zeros.","emoji":"🔢","items":[["pattern","blink pattern"],["ones","1 0 1 1 0 …"]]},
+{"name":"carrier","step":"04 · No mix-ups","text":"The blinks are switched on and off around thirty eight thousand times a second, so the TV can ignore sunlight and lamps.","emoji":"〰️","items":[["thirty","~38 kHz flicker"],["ignore","ignores sunlight"]]},
+{"name":"receiver","step":"05 · The receiver","text":"A sensor on the TV catches the pattern, decodes it, and does the action, like volume up.","emoji":"📡","items":[["sensor","TV sensor"],["decodes","decode → action"]]},
+{"name":"camera","step":"06 · See it yourself","text":"Point a remote at a phone camera and press a button. Many cameras show the hidden light as a flicker.","emoji":"📱","items":[["camera","phone camera"],["flicker","see the flicker"]]},
+{"name":"outro","step":"Recap","text":"Blink a code, catch it, decode it. Follow for more on how things really work."}]}

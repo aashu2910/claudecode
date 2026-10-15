@@ -1,0 +1,46 @@
+{
+"accent": "#1e3a8a",
+"file": "How_Submarines_Dive_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "A submarine can float on the surface, then sink deep underwater, then rise again. How does it control that?"
+},
+{
+"name": "tanks",
+"step": "01 · Ballast tanks",
+"text": "Submarines have ballast tanks between the inner and outer hull, which can hold water or air."
+},
+{
+"name": "dive",
+"step": "02 · Diving",
+"text": "To dive, vents open and seawater floods the tanks. The submarine gets heavier than the water it displaces, and sinks."
+},
+{
+"name": "surface",
+"step": "03 · Surfacing",
+"text": "To surface, compressed air is blown into the tanks, pushing the water out. It becomes lighter and rises."
+},
+{
+"name": "neutral",
+"step": "04 · Hovering",
+"text": "By balancing water and air carefully, it can stay at one depth, neither sinking nor rising."
+},
+{
+"name": "planes",
+"step": "05 · Diving planes",
+"text": "Small fins called diving planes tilt the submarine up or down as it moves, like wings underwater."
+},
+{
+"name": "hull",
+"step": "06 · Strong hull",
+"text": "Deep water pushes hard from all sides, so the inner pressure hull is built extremely strong."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Flood to dive, blow air to rise. Follow for more on how things really work."
+}
+]
+}

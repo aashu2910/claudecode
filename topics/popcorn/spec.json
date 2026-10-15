@@ -1,0 +1,9 @@
+{"accent":"#facc15","file":"Why_Popcorn_Pops_9x16.mp4","buddy":["circle","#fef9c3"],"outro":["A tiny","steam bomb."],"scenes":[
+{"name":"hook","step":"How it works","text":"A hard little corn kernel suddenly explodes into a fluffy white snack. What makes popcorn pop?","emoji":"🍿","items":[["hard","hard kernel"],["explodes","💥 POP"]]},
+{"name":"inside","step":"01 · What's inside","text":"Each kernel has a hard outer shell, with starch and a little water trapped inside.","emoji":"🌽","items":[["shell","hard shell"],["water","starch + water"]]},
+{"name":"heat","step":"02 · Heating up","text":"As you heat it, the water turns to steam, but the strong shell won't let it escape.","emoji":"🔥","items":[["steam","water → steam"],["escape","can't escape"]]},
+{"name":"pressure","step":"03 · Pressure builds","text":"Pressure inside rises to several times normal air pressure, while the starch turns soft and gooey.","emoji":"🎈","items":[["pressure","pressure rises"],["gooey","starch goes gooey"]]},
+{"name":"pop","step":"04 · The pop","text":"At around one hundred and eighty degrees, the shell bursts. The steam expands and puffs the starch into foam.","emoji":"💥","items":[["hundred","~180°C"],["foam","puffs into foam"]]},
+{"name":"set","step":"05 · Setting","text":"The foam cools in a split second and sets into the crunchy shape we eat.","emoji":"❄️","items":[["cools","cools fast"],["crunchy","sets crunchy"]]},
+{"name":"duds","step":"06 · Unpopped kernels","text":"Kernels that don't pop usually have a cracked shell or too little water, so pressure can't build.","emoji":"🫘","items":[["cracked","cracked shell"],["little","too little water"]]},
+{"name":"outro","step":"Recap","text":"Water, heat, pressure, pop. Follow for more on how things really work."}]}

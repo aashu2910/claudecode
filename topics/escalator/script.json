@@ -1,0 +1,46 @@
+{
+"accent": "#6366f1",
+"file": "How_Escalators_Work_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "Escalator steps appear from the floor, rise up, then vanish at the top. Where do the steps go?"
+},
+{
+"name": "loop",
+"step": "01 · A loop",
+"text": "The steps are linked in one big loop, like a bicycle chain. They go up on top, and return upside down underneath."
+},
+{
+"name": "motor",
+"step": "02 · The drive",
+"text": "An electric motor at the top turns gears that pull the chain of steps around."
+},
+{
+"name": "tracks",
+"step": "03 · Two tracks",
+"text": "Each step has wheels on two tracks. The tracks change height, so steps stay flat and form stairs in the middle."
+},
+{
+"name": "flatten",
+"step": "04 · Flattening out",
+"text": "At the top and bottom, the tracks come together, so the steps flatten into a walkway for safe getting on and off."
+},
+{
+"name": "handrail",
+"step": "05 · Handrail",
+"text": "The rubber handrail is a separate loop, driven to move at about the same speed as the steps."
+},
+{
+"name": "safety",
+"step": "06 · Safety",
+"text": "Sensors and an emergency stop button can halt the escalator, and comb plates stop things getting caught."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "A loop of steps, two tracks, one motor. Follow for more on how things really work."
+}
+]
+}

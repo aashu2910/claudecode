@@ -1,0 +1,9 @@
+{"accent":"#3b82f6","file":"Why_Is_The_Sky_Blue_9x16.mp4","buddy":["circle","#dbeafe"],"outro":["Scattered","blue light."],"scenes":[
+{"name":"hook","step":"How it works","text":"Look up on a clear day and the sky is blue. But space is black, and sunlight is white. So where does the blue come from?","emoji":"🌤️","items":[["blue","blue sky"],["black","space is black"]]},
+{"name":"white","step":"01 · White sunlight","text":"Sunlight contains all colours. Each colour is a light wave of a different length.","emoji":"☀️","items":[["colours","all colours"],["length","different wavelengths"]]},
+{"name":"air","step":"02 · Tiny air molecules","text":"Air is mostly nitrogen and oxygen molecules, far smaller than the light waves passing through.","emoji":"🫧","items":[["nitrogen","nitrogen + oxygen"],["smaller","much smaller than waves"]]},
+{"name":"scatter","step":"03 · Scattering","text":"These molecules scatter short wavelengths, like blue, much more strongly than long ones, like red.","emoji":"✨","items":[["short","short (blue) scatters more"],["red","long (red) passes"]]},
+{"name":"everywhere","step":"04 · Blue from everywhere","text":"So blue light bounces around the whole sky, and reaches your eyes from every direction.","emoji":"🔵","items":[["bounces","blue bounces around"],["every","from every direction"]]},
+{"name":"violet","step":"05 · Why not violet","text":"Violet scatters even more, but sunlight has less of it, and our eyes are more sensitive to blue.","emoji":"🟣","items":[["violet","violet scatters more"],["sensitive","eyes favour blue"]]},
+{"name":"sunset","step":"06 · Sunsets","text":"At sunset, light travels through much more air. Most blue is scattered away, leaving orange and red.","emoji":"🌅","items":[["sunset","sunset"],["orange","orange + red left"]]},
+{"name":"outro","step":"Recap","text":"Tiny molecules scatter blue light everywhere. Follow for more on how things really work."}]}

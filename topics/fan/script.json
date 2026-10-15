@@ -1,0 +1,46 @@
+{
+"accent": "#14b8a6",
+"file": "How_A_Ceiling_Fan_Cools_You_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "A ceiling fan makes you feel cooler, yet the room's temperature doesn't drop at all. So how does it cool you?"
+},
+{
+"name": "motor",
+"step": "01 · The motor",
+"text": "Inside the hub, an electric motor spins the blades using magnetic fields from coils of wire."
+},
+{
+"name": "blades",
+"step": "02 · Tilted blades",
+"text": "The blades are tilted at an angle, so as they spin they push air downward, like a slow propeller."
+},
+{
+"name": "layer",
+"step": "03 · Warm air blanket",
+"text": "Your body warms a thin layer of air around your skin. Moving air sweeps that warm blanket away."
+},
+{
+"name": "sweat",
+"step": "04 · Faster evaporation",
+"text": "Moving air also helps sweat evaporate faster, and evaporation pulls heat out of your skin."
+},
+{
+"name": "empty",
+"step": "05 · Empty room",
+"text": "So a fan cools people, not rooms. Leaving it on in an empty room only wastes electricity."
+},
+{
+"name": "bldc",
+"step": "06 · Energy saving fans",
+"text": "Newer BLDC fans use smarter motors, and can use much less power than older fans."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Push air down, sweep heat away, speed up sweat. Follow for more on how things really work."
+}
+]
+}

@@ -1,0 +1,46 @@
+{
+"accent": "#0ea5e9",
+"file": "How_A_CPU_Works_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "Every app, game and video on your phone runs on a chip smaller than a fingernail. How does a processor actually think?"
+},
+{
+"name": "transistors",
+"step": "01 · Transistors",
+"text": "A processor is made of billions of transistors, tiny switches that are either on or off, one or zero."
+},
+{
+"name": "gates",
+"step": "02 · Logic gates",
+"text": "Transistors are wired into logic gates, which combine ones and zeros to add numbers and make decisions."
+},
+{
+"name": "cycle",
+"step": "03 · Fetch, decode, execute",
+"text": "The CPU repeats a cycle. Fetch an instruction from memory, decode what it means, then execute it."
+},
+{
+"name": "clock",
+"step": "04 · The clock",
+"text": "A clock ticks billions of times a second, measured in gigahertz, keeping every step in sync."
+},
+{
+"name": "cores",
+"step": "05 · Multiple cores",
+"text": "Modern chips have several cores, each like a separate processor, so many tasks run at the same time."
+},
+{
+"name": "cache",
+"step": "06 · Cache",
+"text": "A small, super fast memory called cache sits on the chip, so the CPU doesn't wait for slower memory."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Switches, gates, a ticking clock. Billions of simple steps. Follow for more on how things really work."
+}
+]
+}

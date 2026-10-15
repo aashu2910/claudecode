@@ -1,0 +1,46 @@
+{
+"accent": "#f97316",
+"file": "How_Rockets_Reach_Space_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "A rocket weighing hundreds of tonnes lifts off and reaches space in minutes. What pushes it up there?"
+},
+{
+"name": "newton",
+"step": "01 · Action and reaction",
+"text": "Rockets follow Newton's third law. Push hot gas down hard, and the gas pushes the rocket up."
+},
+{
+"name": "burn",
+"step": "02 · Burning fuel",
+"text": "Fuel burns with an oxidiser, carried on board because there's no air in space to burn with."
+},
+{
+"name": "nozzle",
+"step": "03 · The nozzle",
+"text": "The bell shaped nozzle speeds the exhaust up to several kilometres per second, making a huge thrust."
+},
+{
+"name": "stages",
+"step": "04 · Stages",
+"text": "Rockets drop empty stages as they climb, so they don't waste fuel carrying dead weight."
+},
+{
+"name": "orbit",
+"step": "05 · Going sideways",
+"text": "Reaching orbit is mostly about going sideways fast, nearly eight kilometres per second, so you keep falling around Earth."
+},
+{
+"name": "isro",
+"step": "06 · Launch site",
+"text": "Many launch sites sit near the equator and face east, to borrow speed from Earth's spin."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Push gas down, drop stages, go sideways fast. Follow for more on how things really work."
+}
+]
+}

@@ -1,0 +1,46 @@
+{
+"accent": "#ef4444",
+"file": "How_A_TV_Remote_Works_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "You press a button on the remote, and the TV across the room obeys instantly. But there's no wire. How?"
+},
+{
+"name": "ir",
+"step": "01 · Invisible light",
+"text": "Most remotes use infrared light, a kind of light just beyond red, that our eyes can't see."
+},
+{
+"name": "led",
+"step": "02 · The LED",
+"text": "At the front is a small infrared LED. Pressing a button makes it blink very fast."
+},
+{
+"name": "code",
+"step": "03 · A code",
+"text": "The pattern of blinks is a code. Each button sends its own pattern of ones and zeros."
+},
+{
+"name": "carrier",
+"step": "04 · No mix-ups",
+"text": "The blinks are switched on and off around thirty eight thousand times a second, so the TV can ignore sunlight and lamps."
+},
+{
+"name": "receiver",
+"step": "05 · The receiver",
+"text": "A sensor on the TV catches the pattern, decodes it, and does the action, like volume up."
+},
+{
+"name": "camera",
+"step": "06 · See it yourself",
+"text": "Point a remote at a phone camera and press a button. Many cameras show the hidden light as a flicker."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Blink a code, catch it, decode it. Follow for more on how things really work."
+}
+]
+}

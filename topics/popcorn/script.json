@@ -1,0 +1,46 @@
+{
+"accent": "#facc15",
+"file": "Why_Popcorn_Pops_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "A hard little corn kernel suddenly explodes into a fluffy white snack. What makes popcorn pop?"
+},
+{
+"name": "inside",
+"step": "01 · What's inside",
+"text": "Each kernel has a hard outer shell, with starch and a little water trapped inside."
+},
+{
+"name": "heat",
+"step": "02 · Heating up",
+"text": "As you heat it, the water turns to steam, but the strong shell won't let it escape."
+},
+{
+"name": "pressure",
+"step": "03 · Pressure builds",
+"text": "Pressure inside rises to several times normal air pressure, while the starch turns soft and gooey."
+},
+{
+"name": "pop",
+"step": "04 · The pop",
+"text": "At around one hundred and eighty degrees, the shell bursts. The steam expands and puffs the starch into foam."
+},
+{
+"name": "set",
+"step": "05 · Setting",
+"text": "The foam cools in a split second and sets into the crunchy shape we eat."
+},
+{
+"name": "duds",
+"step": "06 · Unpopped kernels",
+"text": "Kernels that don't pop usually have a cracked shell or too little water, so pressure can't build."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Water, heat, pressure, pop. Follow for more on how things really work."
+}
+]
+}

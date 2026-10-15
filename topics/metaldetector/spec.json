@@ -1,0 +1,9 @@
+{"accent":"#eab308","file":"How_Metal_Detectors_Work_9x16.mp4","buddy":["circle","#fef9c3"],"outro":["Magnetic","echoes."],"scenes":[
+{"name":"hook","step":"How it works","text":"Walk through an airport gate with keys in your pocket, and it beeps. How can it sense metal it can't see?","emoji":"🚪","items":[["keys","🔑 keys"],["beeps","BEEP!"]]},
+{"name":"coil","step":"01 · Transmit coil","text":"A metal detector has a coil of wire. Pulses of current through it create a changing magnetic field.","emoji":"🌀","items":[["coil","transmit coil"],["magnetic","magnetic field"]]},
+{"name":"eddy","step":"02 · Eddy currents","text":"When that field passes through metal, it makes small swirling currents inside the metal, called eddy currents.","emoji":"🔄","items":[["swirling","swirling currents"],["eddy","eddy currents"]]},
+{"name":"echo","step":"03 · Magnetic echo","text":"Those currents create their own tiny magnetic field, like an echo coming back.","emoji":"📣","items":[["own","metal's own field"],["echo","magnetic echo"]]},
+{"name":"receive","step":"04 · Listening","text":"A receiver coil, or the same coil between pulses, picks up that echo and the electronics sound the alarm.","emoji":"🔔","items":[["receiver","receiver coil"],["alarm","alarm"]]},
+{"name":"types","step":"05 · Telling metals apart","text":"Different metals respond differently, so some detectors can guess if it's iron, coins or gold.","emoji":"🪙","items":[["differently","metals differ"],["iron","iron · coins · gold"]]},
+{"name":"limits","step":"06 · Limits","text":"Plastic, paper and skin don't respond, which is why airports also use X-ray scanners for bags.","emoji":"🧳","items":[["plastic","plastic · paper ✗"],["scanners","bags → X-ray scan"]]},
+{"name":"outro","step":"Recap","text":"Pulse a field, make currents, catch the echo. Follow for more on how things really work."}]}

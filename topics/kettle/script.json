@@ -1,0 +1,46 @@
+{
+"accent": "#f97316",
+"file": "How_Electric_Kettle_Switches_Off_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "An electric kettle boils water, then clicks off on its own. How does it know the water is boiling?"
+},
+{
+"name": "element",
+"step": "01 · Heating element",
+"text": "At the bottom is a heating element. Current flows through it and it gets very hot, heating the water."
+},
+{
+"name": "steam",
+"step": "02 · Steam travels",
+"text": "When water boils, steam rises and is guided through a small channel to the switch."
+},
+{
+"name": "bimetal",
+"step": "03 · Bimetallic strip",
+"text": "There sits a bimetallic disc, two metals stuck together, that expand by different amounts when heated."
+},
+{
+"name": "snap",
+"step": "04 · Snap",
+"text": "The hot steam makes the disc suddenly snap into a new shape, pushing the switch and cutting the power."
+},
+{
+"name": "dry",
+"step": "05 · Dry boil safety",
+"text": "A second sensor under the base cuts power if the kettle is switched on empty."
+},
+{
+"name": "fast",
+"step": "06 · Why it's fast",
+"text": "Since the heater sits right in the water, very little heat is wasted, which is why kettles boil so quickly."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Heat, steam, snap, off. Follow for more on how things really work."
+}
+]
+}

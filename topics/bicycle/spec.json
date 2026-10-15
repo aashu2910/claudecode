@@ -1,0 +1,9 @@
+{"accent":"#22c55e","file":"How_A_Bicycle_Stays_Upright_9x16.mp4","buddy":["circle","#dcfce7"],"outro":["Steer into","the fall."],"scenes":[
+{"name":"hook","step":"How it works","text":"A bicycle falls over when it's still, but stays up when it's moving. Why is balancing easier at speed?","emoji":"🚲","items":[["still","still → falls"],["moving","moving → stays up"]]},
+{"name":"steer","step":"01 · Steering into the fall","text":"The main trick is steering. When the bike leans left, you turn the wheel left, bringing the wheels back under you.","emoji":"↩️","items":[["leans","bike leans"],["turn","steer that way"]]},
+{"name":"speed","step":"02 · Why speed helps","text":"At higher speed, a small steer quickly moves the wheels under your weight, so tiny corrections are enough.","emoji":"💨","items":[["small","small steer"],["tiny","tiny corrections"]]},
+{"name":"trail","step":"03 · Self steering","text":"The front fork is angled, so the wheel touches the ground behind the steering line. When the bike tips, the wheel turns itself into the lean.","emoji":"📐","items":[["angled","angled fork"],["itself","self-steers"]]},
+{"name":"gyro","step":"04 · Spinning wheels","text":"Spinning wheels help a little, through gyroscopic effects, but scientists found they aren't the main reason.","emoji":"🌀","items":[["gyroscopic","gyroscopic effect"],["main","not the main reason"]]},
+{"name":"rider","step":"05 · Your body","text":"Your brain constantly makes small steering and body adjustments, without you even thinking about it.","emoji":"🧠","items":[["brain","brain adjusts"],["thinking","automatically"]]},
+{"name":"learn","step":"06 · Learning to ride","text":"That's why going a bit faster and looking ahead makes learning to ride much easier.","emoji":"👀","items":[["faster","go a bit faster"],["ahead","look ahead"]]},
+{"name":"outro","step":"Recap","text":"Steer into the fall, let speed help. Follow for more on how things really work."}]}

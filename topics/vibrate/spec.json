@@ -1,0 +1,9 @@
+{"accent":"#8b5cf6","file":"How_Your_Phone_Vibrates_9x16.mp4","buddy":["rect","#ede9fe"],"outro":["Shake on","purpose."],"scenes":[
+{"name":"hook","step":"How it works","text":"Your phone is silent, yet it buzzes in your pocket. What's moving inside a solid phone?","emoji":"📳","items":[["silent","silent mode"],["buzzes","but it buzzes"]]},
+{"name":"erm","step":"01 · Off-balance motor","text":"Older phones use a tiny motor with an off-centre weight. As it spins, the uneven weight shakes the phone.","emoji":"⚙️","items":[["motor","tiny motor"],["uneven","off-centre weight"]]},
+{"name":"lra","step":"02 · Linear motor","text":"Many newer phones use a linear motor instead. A small magnet and mass slide back and forth on a spring.","emoji":"↔️","items":[["linear","linear motor"],["spring","mass on a spring"]]},
+{"name":"coil","step":"03 · Electromagnet push","text":"A coil becomes an electromagnet when current flows, pushing and pulling the magnet many times a second.","emoji":"🧲","items":[["coil","coil → electromagnet"],["pulling","push · pull"]]},
+{"name":"haptics","step":"04 · Haptics","text":"Because the linear motor starts and stops quickly, it can create crisp taps and clicks. That's called haptic feedback.","emoji":"👆","items":[["taps","crisp taps"],["haptic","haptic feedback"]]},
+{"name":"patterns","step":"05 · Patterns","text":"Software controls timing and strength, so a call, a message and a keyboard tap can each feel different.","emoji":"🎵","items":[["timing","timing + strength"],["different","each feels different"]]},
+{"name":"battery","step":"06 · Small cost","text":"Vibration uses a bit more battery than a quiet notification, but far less than the screen.","emoji":"🔋","items":[["battery","some battery"],["screen","< screen usage"]]},
+{"name":"outro","step":"Recap","text":"A moving mass, pushed by a magnet. Follow for more on how things really work."}]}

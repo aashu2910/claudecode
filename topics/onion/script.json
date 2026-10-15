@@ -1,0 +1,46 @@
+{
+"accent": "#d946ef",
+"file": "Why_Onions_Make_You_Cry_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "You cut an onion, and within seconds your eyes sting and fill with tears. What is the onion doing to you?"
+},
+{
+"name": "cells",
+"step": "01 · Broken cells",
+"text": "Cutting breaks open the onion's cells, mixing chemicals that are normally kept apart."
+},
+{
+"name": "enzyme",
+"step": "02 · Enzymes react",
+"text": "Enzymes turn sulfur compounds into a new chemical, which quickly becomes a gas."
+},
+{
+"name": "gas",
+"step": "03 · The gas",
+"text": "This gas floats up into the air, and reaches your eyes."
+},
+{
+"name": "sting",
+"step": "04 · The sting",
+"text": "It irritates nerves in your eyes, and the brain tells your tear glands to flush it out."
+},
+{
+"name": "defence",
+"step": "05 · Plant defence",
+"text": "This is the onion's defence, to discourage animals from eating it."
+},
+{
+"name": "tips",
+"step": "06 · Fewer tears",
+"text": "A sharp knife crushes fewer cells, and chilling the onion slows the reaction, so you cry less."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Cut cells, make gas, trigger tears. Follow for more on how things really work."
+}
+]
+}

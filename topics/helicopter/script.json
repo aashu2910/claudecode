@@ -1,0 +1,46 @@
+{
+"accent": "#0284c7",
+"file": "How_Helicopters_Fly_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "A helicopter can hover in one spot, fly backwards and land almost anywhere. How does it do that without wings?"
+},
+{
+"name": "rotor",
+"step": "01 · Spinning wings",
+"text": "It does have wings. The rotor blades are long, thin wings that spin, pushing air down to create lift."
+},
+{
+"name": "collective",
+"step": "02 · Going up and down",
+"text": "Tilting all blades to a steeper angle together makes more lift to climb. Flattening them lets it descend."
+},
+{
+"name": "cyclic",
+"step": "03 · Moving sideways",
+"text": "The pilot can also tilt the whole spinning disc. Tilt it forward, and the helicopter flies forward."
+},
+{
+"name": "tail",
+"step": "04 · The tail rotor",
+"text": "Spinning the main rotor tries to spin the body the other way. The tail rotor pushes sideways to stop that."
+},
+{
+"name": "pedals",
+"step": "05 · Turning",
+"text": "Foot pedals change the tail rotor's push, letting the pilot turn the nose left or right."
+},
+{
+"name": "hard",
+"step": "06 · Hard to fly",
+"text": "All these controls affect each other, which is why helicopters are known as tricky to fly."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Spinning wings, a tilting disc, a tail rotor. Follow for more on how things really work."
+}
+]
+}

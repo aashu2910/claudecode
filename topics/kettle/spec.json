@@ -1,0 +1,9 @@
+{"accent":"#f97316","file":"How_Electric_Kettle_Switches_Off_9x16.mp4","buddy":["circle","#ffedd5"],"outro":["Steam flips","the switch."],"scenes":[
+{"name":"hook","step":"How it works","text":"An electric kettle boils water, then clicks off on its own. How does it know the water is boiling?","emoji":"🫖","items":[["boils","boils water"],["clicks","clicks off itself"]]},
+{"name":"element","step":"01 · Heating element","text":"At the bottom is a heating element. Current flows through it and it gets very hot, heating the water.","emoji":"🔥","items":[["element","heating element"],["hot","current → heat"]]},
+{"name":"steam","step":"02 · Steam travels","text":"When water boils, steam rises and is guided through a small channel to the switch.","emoji":"💨","items":[["steam","steam rises"],["channel","channel → switch"]]},
+{"name":"bimetal","step":"03 · Bimetallic strip","text":"There sits a bimetallic disc, two metals stuck together, that expand by different amounts when heated.","emoji":"🥈","items":[["bimetallic","bimetallic disc"],["different","different expansion"]]},
+{"name":"snap","step":"04 · Snap","text":"The hot steam makes the disc suddenly snap into a new shape, pushing the switch and cutting the power.","emoji":"⚡","items":[["snap","disc snaps"],["cutting","power cut"]]},
+{"name":"dry","step":"05 · Dry boil safety","text":"A second sensor under the base cuts power if the kettle is switched on empty.","emoji":"🛡️","items":[["second","second sensor"],["empty","stops dry boiling"]]},
+{"name":"fast","step":"06 · Why it's fast","text":"Since the heater sits right in the water, very little heat is wasted, which is why kettles boil so quickly.","emoji":"⏱️","items":[["heater","heater in the water"],["quickly","fast boil"]]},
+{"name":"outro","step":"Recap","text":"Heat, steam, snap, off. Follow for more on how things really work."}]}

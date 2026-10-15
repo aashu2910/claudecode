@@ -1,0 +1,46 @@
+{
+"accent": "#f59e0b",
+"file": "How_Non_Stick_Pans_Work_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "An egg slides around a non-stick pan like it's on ice. If nothing sticks to it, how does the coating stick to the pan?"
+},
+{
+"name": "ptfe",
+"step": "01 · The coating",
+"text": "Most non-stick pans use a coating called PTFE, a plastic made of carbon and fluorine."
+},
+{
+"name": "slippery",
+"step": "02 · Why it's slippery",
+"text": "Fluorine atoms form a tight shield, so food molecules find almost nothing to grab onto."
+},
+{
+"name": "bond",
+"step": "03 · Sticking the coating",
+"text": "To fix it on the pan, the metal is roughened, then primer layers are baked on so the coating locks into the bumps."
+},
+{
+"name": "heat",
+"step": "04 · Mind the heat",
+"text": "Very high heat can damage the coating, so these pans work best on low to medium heat."
+},
+{
+"name": "scratch",
+"step": "05 · Avoid scratches",
+"text": "Metal spoons can scratch the coating, so wooden or silicone tools help it last longer."
+},
+{
+"name": "ceramic",
+"step": "06 · Other types",
+"text": "Ceramic non-stick pans use a different, glass-like coating, and cast iron becomes non-stick with seasoning."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Slippery fluorine, rough metal underneath. Follow for more on how things really work."
+}
+]
+}

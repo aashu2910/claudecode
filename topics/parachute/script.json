@@ -1,0 +1,46 @@
+{
+"accent": "#e11d48",
+"file": "How_Parachutes_Work_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "A skydiver falls at around two hundred kilometres an hour, then a sheet of fabric slows them to a gentle landing. How?"
+},
+{
+"name": "terminal",
+"step": "01 · Falling fast",
+"text": "Falling, gravity pulls you down while air pushes up. Soon they balance, and you stop speeding up. That's terminal velocity."
+},
+{
+"name": "drag",
+"step": "02 · Drag",
+"text": "Air resistance, called drag, grows with your size and speed. A small body falling headfirst has little drag."
+},
+{
+"name": "canopy",
+"step": "03 · The canopy",
+"text": "A parachute opens a huge canopy that catches a massive amount of air, creating far more drag."
+},
+{
+"name": "slow",
+"step": "04 · New balance",
+"text": "Gravity and drag balance again, but at a much lower speed, around twenty kilometres an hour."
+},
+{
+"name": "pilot",
+"step": "05 · Opening safely",
+"text": "A small pilot chute pulls the main canopy out first, so it opens smoothly instead of with a sudden jerk."
+},
+{
+"name": "steer",
+"step": "06 · Steering",
+"text": "Modern square parachutes act like wings. Pulling toggles lets jumpers steer and slow down before landing."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "More area, more drag, slower fall. Follow for more on how things really work."
+}
+]
+}

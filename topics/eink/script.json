@@ -1,0 +1,46 @@
+{
+"accent": "#64748b",
+"file": "How_E_Ink_Screens_Work_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "A Kindle screen looks like real paper, and its battery lasts for weeks. How is it so different from a phone?"
+},
+{
+"name": "capsules",
+"step": "01 · Tiny capsules",
+"text": "E-ink screens are packed with millions of tiny capsules, about as wide as a human hair."
+},
+{
+"name": "particles",
+"step": "02 · Black and white",
+"text": "Each capsule holds white particles with a negative charge, and black particles with a positive charge, floating in clear fluid."
+},
+{
+"name": "move",
+"step": "03 · Moving the ink",
+"text": "Electrodes under each spot pull one colour up to the top. That's what you see as a dot of black or white."
+},
+{
+"name": "power",
+"step": "04 · Power only to change",
+"text": "Once the particles move, they stay put without power. Energy is only used when the page changes."
+},
+{
+"name": "light",
+"step": "05 · Reflected light",
+"text": "It doesn't shine light at your eyes. It reflects room light like paper, so it's easy to read in sunlight."
+},
+{
+"name": "slow",
+"step": "06 · The trade-off",
+"text": "Moving particles is slow, so e-ink flashes when refreshing, and it's not good for video."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Charged ink, moved by electricity, holds still for free. Follow for more on how things really work."
+}
+]
+}

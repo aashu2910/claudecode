@@ -1,0 +1,46 @@
+{
+"accent": "#84cc16",
+"file": "How_Fireflies_Glow_9x16.mp4",
+"scenes": [
+{
+"name": "hook",
+"step": "How it works",
+"text": "On summer nights, fireflies blink like tiny lanterns, without any heat or battery. How do they make light?"
+},
+{
+"name": "bio",
+"step": "01 · Bioluminescence",
+"text": "Fireflies use bioluminescence, light made by a chemical reaction inside a living body."
+},
+{
+"name": "recipe",
+"step": "02 · The recipe",
+"text": "In their tail, a chemical called luciferin reacts with oxygen, helped by an enzyme called luciferase."
+},
+{
+"name": "cold",
+"step": "03 · Cold light",
+"text": "Almost all the energy becomes light, with very little heat. That's why it's called cold light."
+},
+{
+"name": "switch",
+"step": "04 · On and off",
+"text": "Fireflies control their flashes by controlling oxygen flow to the light organ."
+},
+{
+"name": "talk",
+"step": "05 · Talking in light",
+"text": "The blinking patterns are signals. Each species has its own pattern to find a mate."
+},
+{
+"name": "others",
+"step": "06 · Other glowers",
+"text": "Some mushrooms, jellyfish and deep sea fish also make their own light."
+},
+{
+"name": "outro",
+"step": "Recap",
+"text": "Chemicals plus oxygen make cold, living light. Follow for more on how things really work."
+}
+]
+}
