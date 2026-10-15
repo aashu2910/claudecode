@@ -2,7 +2,7 @@ import json,sys,subprocess,os
 from playwright.sync_api import sync_playwright
 D=os.path.abspath(sys.argv[1]);E=os.path.dirname(os.path.abspath(__file__))
 J=json.load(open(D+'/script.json'))
-html=open(E+'/base.html').read().replace('__TL__',open(D+'/timeline.json').read()).replace('__ACCENT__',J['accent']).replace('__SCENE__',open(E+'/chars.js').read()+'\n'+open(D+'/scene.js').read())
+html=open(E+'/base.html').read().replace('__TL__',open(D+'/timeline.json').read()).replace('__ACCENT__',J['accent']).replace('__SCENE__',open(E+'/chars.js').read()+'\n'+open(E+'/fx.js').read()+'\n'+open(D+'/scene.js').read())
 open(D+'/built.html','w').write(html)
 mode=sys.argv[2]
 with sync_playwright() as pw:

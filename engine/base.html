@@ -115,6 +115,7 @@ function render(t){
  if(ci>=0&&t<TL.words[CH[ci][CH[ci].length-1]].e+.6){cap.innerHTML=CH[ci].map(j=>{const w=TL.words[j];const last=j==CH[ci][CH[ci].length-1];const cur=t>=w.s&&(t<w.e||last);const done=t>=w.e;const s=1+.12*(1-p(t,w.s,w.s+.18))*(t>=w.s?1:0);return `<span style="color:${cur?ACC:done?'#fff':'rgba(255,255,255,.55)'};transform:scale(${s.toFixed(3)})">${w.w}</span>`}).join('')}else cap.innerHTML='';
  ALL.forEach(d=>d.style.visibility='hidden');EDGES.forEach(e=>e.pl.style.opacity=0);
  TL.scenes.forEach(s=>{const a=s.start-.5,b=S1(s.name)+.1;if(t>=a&&t<=b&&SCENES[s.name])SCENES[s.name](t)});
+ SCENES.__bg&&SCENES.__bg(t);
 }
 window.render=render;
 </script></body></html>
