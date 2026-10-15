@@ -36,7 +36,7 @@ function FXRUN(list){const BG=fxLayer();const prev=SCENES.__bg;SCENES.__bg=t=>{B
    // cards fly in alternately, active one glows
    const act=T.reduce((a,x,i)=>t>=x?i:a,-1);
    L.forEach((e,i)=>{const sd=i%2?1:-1,k=eob(clamp(p(t,T[i]-.05,T[i]+.4)));const on=i==act;
-    e.style.boxShadow=on?'0 0 46px var(--a)':'none';
+    e.firstElementChild.style.boxShadow=on?'0 0 46px var(--a)':'none';
     place(e,540+gx+sd*(1-k)*700,ty+i*128,(k>0?1:0)*(on?1.07:1)*(1+.08*bump(t,T[i],.35)),o*(t<T[i]-.05?0:(on||act<0?1:.72)),sd*(1-k)*-12)});
    // scene progress bar
    BF.style.width=(100*p(t,t0,t1))+'%';place(BAR,540+gx,ty+Math.max(L.length,1)*128+30,1,o*.9);
