@@ -3322,3 +3322,637 @@ Did you know this? 👇
 Follow @the_working_behind for more on how everyday things work.
 
 #ship #physics #buoyancy #science #howitworks #explained #engineering #ocean
+
+
+#####################################################################
+BATCH 11 - from 16 May 2027 (every other day, skip 1 day)
+#####################################################################
+
+ #  Date         Day  YouTube   Instagram  Video file
+101 16 May 2027  Sun  12:30 PM  7:00 PM    How_A_TV_Remote_Works_9x16.mp4
+102 18 May 2027  Tue  5:30 PM   7:30 PM    How_Electric_Kettle_Switches_Off_9x16.mp4
+103 20 May 2027  Thu  5:30 PM   7:30 PM    How_E_Ink_Screens_Work_9x16.mp4
+104 22 May 2027  Sat  12:30 PM  7:00 PM    How_Your_Phone_Vibrates_9x16.mp4
+105 24 May 2027  Mon  5:30 PM   7:30 PM    How_A_CPU_Works_9x16.mp4
+106 26 May 2027  Wed  5:30 PM   7:30 PM    How_Metal_Detectors_Work_9x16.mp4
+107 28 May 2027  Fri  5:30 PM   7:30 PM    How_A_Ceiling_Fan_Cools_You_9x16.mp4
+108 30 May 2027  Sun  12:30 PM  7:00 PM    How_Non_Stick_Pans_Work_9x16.mp4
+109 01 Jun 2027  Tue  5:30 PM   7:30 PM    Why_Popcorn_Pops_9x16.mp4
+110 03 Jun 2027  Thu  5:30 PM   7:30 PM    How_A_Bicycle_Stays_Upright_9x16.mp4
+
+=====================================================================
+101) 16 MAY 2027 (Sun) - TV remote
+File: How_A_TV_Remote_Works_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Your TV Remote Talks to the TV 📺 #shorts
+
+YOUTUBE DESCRIPTION:
+Most remotes use an infrared LED that blinks a code, a different pattern for each button. The blinks flicker around 38,000 times a second so the TV can ignore sunlight and lamps. A sensor on the TV decodes the pattern and does the action. Many phone cameras can even see the hidden flicker.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#tvremote #infrared #tech #electronics #howitworks #science
+
+YOUTUBE TAGS:
+tv remote, infrared, IR remote, how remote works, electronics
+
+INSTAGRAM CAPTION:
+Your remote is secretly blinking at your TV 📺💡
+
+Invisible infrared light, sending a code for every button.
+
+Try pointing it at your phone camera! 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#tvremote #infrared #tech #electronics #howitworks #explained #techfacts #gadgets
+
+=====================================================================
+102) 18 MAY 2027 (Tue) - Electric kettle auto shut-off
+File: How_Electric_Kettle_Switches_Off_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How an Electric Kettle Knows to Switch Off 🫖 #shorts
+
+YOUTUBE DESCRIPTION:
+A heating element boils the water. Steam is guided to a bimetallic disc made of two metals that expand differently. When the steam heats it, the disc snaps and pushes the switch off. A second sensor stops it from boiling dry.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#kettle #kitchen #physics #science #howitworks #explained
+
+YOUTUBE TAGS:
+electric kettle, bimetallic strip, thermostat, kitchen science, physics
+
+INSTAGRAM CAPTION:
+Why does a kettle click off at exactly the right time? 🫖⚡
+
+Steam + a snapping metal disc.
+
+Tea or coffee? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#kettle #kitchen #physics #science #howitworks #explained #everyday #tea
+
+=====================================================================
+103) 20 MAY 2027 (Thu) - E-ink screens
+File: How_E_Ink_Screens_Work_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Kindle E-Ink Screens Work 📖 #shorts
+
+YOUTUBE DESCRIPTION:
+E-ink screens hold millions of tiny capsules with charged black and white particles. Electrodes pull one colour to the top to form text. Particles stay put without power, so the battery lasts weeks, and the screen reflects light like paper. The trade-off is slow refresh.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#kindle #eink #ereader #tech #howitworks #science
+
+YOUTUBE TAGS:
+e-ink, kindle, e-reader, electronic paper, display technology
+
+INSTAGRAM CAPTION:
+Why does a Kindle look like real paper? 📖
+
+Tiny charged ink particles, moved by electricity.
+
+Kindle or paper books? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#kindle #eink #ereader #tech #books #howitworks #explained #gadgets
+
+=====================================================================
+104) 22 MAY 2027 (Sat) - Phone vibration motor
+File: How_Your_Phone_Vibrates_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Your Phone Vibrates 📳 #shorts
+
+YOUTUBE DESCRIPTION:
+Older phones spin a tiny motor with an off-centre weight. Many newer phones use a linear motor: a magnet and mass slide back and forth on a spring, pushed by an electromagnet coil. It starts and stops quickly, creating crisp haptic taps.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#haptics #smartphone #tech #vibration #howitworks #science
+
+YOUTUBE TAGS:
+phone vibration, haptic feedback, linear motor, taptic engine, smartphone
+
+INSTAGRAM CAPTION:
+What's actually shaking inside your phone? 📳
+
+A tiny weight, pushed by a magnet.
+
+Do you keep your phone on vibrate? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#haptics #smartphone #tech #vibration #howitworks #explained #techfacts #gadgets
+
+=====================================================================
+105) 24 MAY 2027 (Mon) - CPU / processor
+File: How_A_CPU_Works_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a Computer Processor Thinks 🧠 #shorts
+
+YOUTUBE DESCRIPTION:
+A processor has billions of transistors, tiny on/off switches wired into logic gates. It repeats fetch, decode, execute billions of times a second, set by its clock speed in gigahertz. Multiple cores run tasks in parallel, and on-chip cache keeps data close.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#cpu #processor #computer #tech #howitworks #science
+
+YOUTUBE TAGS:
+CPU, processor, transistors, how computers work, gigahertz
+
+INSTAGRAM CAPTION:
+Billions of tiny switches, flipping billions of times a second 🧠⚡
+
+That's every app you use.
+
+What processor is in your phone? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#cpu #processor #computer #tech #howitworks #explained #techfacts #chip
+
+=====================================================================
+106) 26 MAY 2027 (Wed) - Metal detector
+File: How_Metal_Detectors_Work_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Metal Detectors Find Metal 🔔 #shorts
+
+YOUTUBE DESCRIPTION:
+A coil sends pulses that make a changing magnetic field. In metal, this creates swirling eddy currents, which make their own small magnetic field, an echo. The detector picks up the echo and beeps. Different metals respond differently.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#metaldetector #physics #airport #science #howitworks #explained
+
+YOUTUBE TAGS:
+metal detector, airport security, eddy currents, electromagnetism, physics
+
+INSTAGRAM CAPTION:
+Why does the airport gate beep at your keys? 🔔🔑
+
+A magnetic pulse, and a magnetic echo from metal.
+
+Have you ever set one off? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#metaldetector #physics #airport #science #howitworks #explained #tech #facts
+
+=====================================================================
+107) 28 MAY 2027 (Fri) - Ceiling fan
+File: How_A_Ceiling_Fan_Cools_You_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a Ceiling Fan Cools You (Not the Room) 🌀 #shorts
+
+YOUTUBE DESCRIPTION:
+A fan doesn't lower the room temperature. Tilted blades push air down, sweeping away the warm air layer around your skin and helping sweat evaporate, which pulls heat away. So switch it off in empty rooms. BLDC fans can use much less power.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#ceilingfan #summer #physics #science #howitworks #explained
+
+YOUTUBE TAGS:
+ceiling fan, BLDC fan, evaporation, save electricity, physics
+
+INSTAGRAM CAPTION:
+A fan doesn't cool the room. It cools YOU 🌀
+
+Moving air sweeps heat off your skin.
+
+Do you leave the fan on when you leave? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#ceilingfan #summer #physics #science #howitworks #explained #savepower #everyday
+
+=====================================================================
+108) 30 MAY 2027 (Sun) - Non-stick pan
+File: How_Non_Stick_Pans_Work_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Non-Stick Pans Work 🍳 #shorts
+
+YOUTUBE DESCRIPTION:
+Most non-stick pans use PTFE, made of carbon and fluorine. Fluorine atoms leave food almost nothing to grab. To fix the coating, the pan is roughened and primer layers are baked on. Use low to medium heat and wooden or silicone tools.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#nonstick #cooking #kitchen #chemistry #howitworks #explained
+
+YOUTUBE TAGS:
+non stick pan, PTFE, cookware, kitchen science, chemistry
+
+INSTAGRAM CAPTION:
+If nothing sticks to non-stick… how does the coating stick? 🍳
+
+Rough metal underneath + baked layers.
+
+Non-stick, steel or cast iron? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#nonstick #cooking #kitchen #chemistry #howitworks #explained #science #everyday
+
+=====================================================================
+109) 01 JUN 2027 (Tue) - Popcorn
+File: Why_Popcorn_Pops_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Why Popcorn Pops 🍿 #shorts
+
+YOUTUBE DESCRIPTION:
+Each kernel has a hard shell with starch and a little water inside. Heating turns the water to steam, pressure builds and the starch softens. At around 180°C the shell bursts, and the starch puffs into foam that sets crunchy. Unpopped kernels usually have cracked shells or too little water.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#popcorn #foodscience #science #snacks #howitworks #explained
+
+YOUTUBE TAGS:
+popcorn, why popcorn pops, kitchen science, steam pressure, food science
+
+INSTAGRAM CAPTION:
+Every popcorn is a tiny steam explosion 🍿💥
+
+Water + heat + pressure = POP.
+
+Salted or caramel? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#popcorn #foodscience #science #snacks #howitworks #explained #kitchen #facts
+
+=====================================================================
+110) 03 JUN 2027 (Thu) - Bicycle balance
+File: How_A_Bicycle_Stays_Upright_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Why a Moving Bicycle Doesn't Fall 🚲 #shorts
+
+YOUTUBE DESCRIPTION:
+The main trick is steering into the fall: when the bike leans, the wheel turns that way and brings the wheels back under you. Speed makes small corrections enough, and the angled front fork helps the bike self-steer. Spinning wheels help only a little.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#bicycle #cycling #physics #science #howitworks #explained
+
+YOUTUBE TAGS:
+bicycle balance, cycling, physics, steering, bike
+
+INSTAGRAM CAPTION:
+Why is balancing easier when you go faster? 🚲
+
+You're constantly steering into the fall.
+
+Who taught you to ride? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#bicycle #cycling #physics #science #howitworks #explained #facts #fitness
+
+
+#####################################################################
+BATCH 12 - from 5 June 2027 (every other day, skip 1 day)
+#####################################################################
+
+ #  Date         Day  YouTube   Instagram  Video file
+111 05 Jun 2027  Sat  12:30 PM  7:00 PM    How_Escalators_Work_9x16.mp4
+112 07 Jun 2027  Mon  5:30 PM   7:30 PM    How_Helicopters_Fly_9x16.mp4
+113 09 Jun 2027  Wed  5:30 PM   7:30 PM    How_Submarines_Dive_9x16.mp4
+114 11 Jun 2027  Fri  5:30 PM   7:30 PM    How_Parachutes_Work_9x16.mp4
+115 13 Jun 2027  Sun  12:30 PM  7:00 PM    How_Rockets_Reach_Space_9x16.mp4
+116 15 Jun 2027  Tue  5:30 PM   7:30 PM    Why_Do_We_Yawn_9x16.mp4
+117 17 Jun 2027  Thu  5:30 PM   7:30 PM    Why_Onions_Make_You_Cry_9x16.mp4
+118 19 Jun 2027  Sat  12:30 PM  7:00 PM    How_Bees_Make_Honey_9x16.mp4
+119 21 Jun 2027  Mon  5:30 PM   7:30 PM    Why_Is_The_Sky_Blue_9x16.mp4
+120 23 Jun 2027  Wed  5:30 PM   7:30 PM    How_Fireflies_Glow_9x16.mp4
+
+=====================================================================
+111) 05 JUN 2027 (Sat) - Escalator
+File: How_Escalators_Work_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Where Do Escalator Steps Go? 🛗 #shorts
+
+YOUTUBE DESCRIPTION:
+Escalator steps are linked in one loop like a chain, returning upside down underneath. A motor at the top pulls them. Each step rides on two tracks that keep it flat and form stairs, then flatten at the ends. The handrail is a separate loop moving at about the same speed.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#escalator #engineering #machines #howitworks #howitworks #explained
+
+YOUTUBE TAGS:
+escalator, how escalators work, engineering, mall, machines
+
+INSTAGRAM CAPTION:
+Where do the steps disappear to? 🛗
+
+They loop around underneath, like a chain.
+
+Stairs or escalator? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#escalator #engineering #machines #howitworks #explained #facts #mall #science
+
+=====================================================================
+112) 07 JUN 2027 (Mon) - Helicopter
+File: How_Helicopters_Fly_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Helicopters Fly and Hover 🚁 #shorts
+
+YOUTUBE DESCRIPTION:
+Rotor blades are spinning wings that push air down for lift. Changing all blade angles together climbs or descends; tilting the spinning disc moves the helicopter. The tail rotor stops the body spinning the other way, and pedals turn the nose.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#helicopter #aviation #physics #engineering #howitworks #science
+
+YOUTUBE TAGS:
+helicopter, rotor, how helicopters fly, aviation, physics
+
+INSTAGRAM CAPTION:
+How can a helicopter hover in one spot? 🚁
+
+Spinning wings, a tilting disc and a tail rotor.
+
+Would you fly in one? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#helicopter #aviation #physics #engineering #howitworks #explained #flying #facts
+
+=====================================================================
+113) 09 JUN 2027 (Wed) - Submarine
+File: How_Submarines_Dive_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Submarines Dive and Surface 🌊 #shorts
+
+YOUTUBE DESCRIPTION:
+Submarines have ballast tanks. Flooding them with seawater makes the sub heavier than the water it displaces, so it sinks. Blowing compressed air in pushes water out, so it rises. Balancing the two holds depth, and diving planes tilt it up or down.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#submarine #physics #ocean #engineering #howitworks #explained
+
+YOUTUBE TAGS:
+submarine, ballast tanks, buoyancy, navy, physics
+
+INSTAGRAM CAPTION:
+How does a submarine sink and rise on command? 🌊
+
+Flood with water to dive, blow air to surface.
+
+Would you go underwater in one? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#submarine #physics #ocean #engineering #howitworks #explained #navy #science
+
+=====================================================================
+114) 11 JUN 2027 (Fri) - Parachute
+File: How_Parachutes_Work_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How a Parachute Slows You Down 🪂 #shorts
+
+YOUTUBE DESCRIPTION:
+Falling, gravity is balanced by air drag at terminal velocity. A parachute's huge canopy catches far more air, so the balance happens at a much lower speed. A small pilot chute opens it smoothly, and square parachutes can be steered like wings.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#parachute #skydiving #physics #science #howitworks #explained
+
+YOUTUBE TAGS:
+parachute, skydiving, drag, terminal velocity, physics
+
+INSTAGRAM CAPTION:
+From 200 km/h to a gentle landing 🪂
+
+More area, more drag, slower fall.
+
+Would you skydive? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#parachute #skydiving #physics #science #howitworks #explained #adventure #facts
+
+=====================================================================
+115) 13 JUN 2027 (Sun) - Rocket
+File: How_Rockets_Reach_Space_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Rockets Reach Space 🚀 #shorts
+
+YOUTUBE DESCRIPTION:
+Rockets push hot gas down and the gas pushes them up (Newton's third law). They carry oxidiser since space has no air. The nozzle speeds exhaust for huge thrust, empty stages are dropped, and reaching orbit means going sideways at about 8 km/s.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#rocket #space #isro #physics #howitworks #explained
+
+YOUTUBE TAGS:
+rocket, space launch, ISRO, newton third law, orbit
+
+INSTAGRAM CAPTION:
+Getting to space is mostly about going sideways 🚀🌍
+
+Push gas down, drop stages, go fast.
+
+Would you go to space? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#rocket #space #isro #physics #science #howitworks #explained #astronomy
+
+=====================================================================
+116) 15 JUN 2027 (Tue) - Yawning
+File: Why_Do_We_Yawn_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Why Do We Yawn? 🥱 #shorts
+
+YOUTUBE DESCRIPTION:
+A yawn is a deep breath in with the jaw open. The old oxygen idea isn't supported by studies. Leading ideas include cooling the brain and helping us stay alert. Yawns are contagious, possibly linked to social bonding. Science still isn't fully sure.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#yawn #brain #science #body #howitworks #explained
+
+YOUTUBE TAGS:
+yawning, why we yawn, contagious yawn, brain, science
+
+INSTAGRAM CAPTION:
+Did you just yawn reading this? 🥱
+
+Scientists still aren't fully sure why we do it.
+
+Did this make you yawn? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#yawn #brain #science #body #howitworks #explained #facts #psychology
+
+=====================================================================
+117) 17 JUN 2027 (Thu) - Onion tears
+File: Why_Onions_Make_You_Cry_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Why Onions Make You Cry 🧅 #shorts
+
+YOUTUBE DESCRIPTION:
+Cutting an onion breaks its cells, letting enzymes turn sulfur compounds into an irritating gas. It reaches your eyes, stings nerves, and tear glands flush it out. It's the onion's defence. A sharp knife and a chilled onion mean fewer tears.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#onion #cooking #kitchen #chemistry #howitworks #explained
+
+YOUTUBE TAGS:
+onion tears, why onions make you cry, kitchen science, chemistry
+
+INSTAGRAM CAPTION:
+Why does cutting onions make you cry? 🧅😭
+
+The onion is fighting back with gas.
+
+What's your trick to stop the tears? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#onion #cooking #kitchen #chemistry #science #howitworks #explained #foodscience
+
+=====================================================================
+118) 19 JUN 2027 (Sat) - Honey
+File: How_Bees_Make_Honey_9x16.mp4
+YouTube 12:30 PM | Instagram 7:00 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Bees Make Honey 🍯 #shorts
+
+YOUTUBE DESCRIPTION:
+Worker bees sip nectar into a honey stomach, where enzymes start breaking down the sugar. At the hive it's passed bee to bee, spread in wax cells, and fanned to evaporate water. Then each cell is sealed with wax. Low water and acidity let honey last very long.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#honey #bees #nature #science #howitworks #explained
+
+YOUTUBE TAGS:
+honey, bees, how honey is made, nature, beekeeping
+
+INSTAGRAM CAPTION:
+Thousands of bees, millions of flowers, one jar 🍯🐝
+
+Nectar, enzymes, drying and a wax seal.
+
+Do you eat honey daily? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#honey #bees #nature #science #howitworks #explained #food #facts
+
+=====================================================================
+119) 21 JUN 2027 (Mon) - Why the sky is blue
+File: Why_Is_The_Sky_Blue_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+Why Is the Sky Blue? 🌤️ #shorts
+
+YOUTUBE DESCRIPTION:
+Sunlight contains all colours. Tiny air molecules scatter short wavelengths like blue far more than long ones like red, so blue light reaches us from every direction. Violet scatters more but sunlight has less of it and our eyes favour blue. At sunset, long paths leave orange and red.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#sky #physics #science #nature #howitworks #explained
+
+YOUTUBE TAGS:
+why is the sky blue, rayleigh scattering, sunset colours, physics, light
+
+INSTAGRAM CAPTION:
+Space is black. Sunlight is white. So why is the sky blue? 🌤️
+
+Tiny air molecules scatter blue everywhere.
+
+Did you know why sunsets are orange? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#sky #physics #science #nature #howitworks #explained #light #sunset
+
+=====================================================================
+120) 23 JUN 2027 (Wed) - Fireflies
+File: How_Fireflies_Glow_9x16.mp4
+YouTube 5:30 PM | Instagram 7:30 PM
+---------------------------------------------------------------------
+YOUTUBE TITLE:
+How Fireflies Glow ✨ #shorts
+
+YOUTUBE DESCRIPTION:
+Fireflies use bioluminescence: luciferin reacts with oxygen, helped by the enzyme luciferase, making light with almost no heat. They control flashes by controlling oxygen, and each species blinks its own pattern to find a mate.
+
+A new "how it works" Short every couple of days. Subscribe so you don't miss the next one.
+Instagram: @the_working_behind
+
+#fireflies #nature #science #bioluminescence #howitworks #explained
+
+YOUTUBE TAGS:
+fireflies, bioluminescence, luciferin, nature, insects
+
+INSTAGRAM CAPTION:
+Living light, with no heat and no battery ✨
+
+A chemical reaction inside a firefly's tail.
+
+Have you ever seen fireflies? 👇
+
+Follow @the_working_behind for more on how everyday things work.
+
+#fireflies #nature #science #bioluminescence #howitworks #explained #insects #facts
