@@ -60,7 +60,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 .rv{transition:opacity 1s cubic-bezier(.2,.9,.25,1),transform 1s cubic-bezier(.2,.9,.25,1),filter 1s,clip-path 1.1s cubic-bezier(.7,0,.2,1)}
 [data-rv=up] .rv{opacity:0;transform:translateY(60px)}
 [data-rv=blur] .rv{opacity:0;filter:blur(18px);transform:scale(1.04)}
-[data-rv=clip] .rv{clip-path:inset(0 0 100% 0);transform:translateY(30px)}
+[data-rv=clip] .rv{clip-path:inset(0 0 98% 0);transform:translateY(30px)}
 [data-rv=flip] .rv{opacity:0;transform:perspective(900px) rotateX(-35deg) translateY(40px);transform-origin:top}
 [data-rv=skew] .rv{opacity:0;transform:translateY(70px) skewY(6deg)}
 [data-rv=scale] .rv{opacity:0;transform:scale(.8)}
@@ -73,7 +73,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 .fx[data-fx=blur] .ch{opacity:0;filter:blur(12px);transition:all .8s}
 .fx[data-fx=drop] .ch{opacity:0;transform:translateY(-1em) scale(1.4);transition:all .6s cubic-bezier(.2,.9,.3,1.5)}
 .fx[data-fx=flip] .ch{opacity:0;transform:perspective(400px) rotateY(90deg);transition:all .7s}
-.fx[data-fx=mask]{clip-path:inset(0 100% 0 0);transition:clip-path 1.3s cubic-bezier(.7,0,.2,1)}
+.fx[data-fx=mask]{clip-path:inset(0 98% 0 0);transition:clip-path 1.3s cubic-bezier(.7,0,.2,1)}
 .fx.in .ch{opacity:1;transform:none;filter:none}.fx[data-fx=mask].in{clip-path:inset(-20px -20px -20px -20px)}
 .hl{background:linear-gradient(90deg,var(--a),var(--b),var(--a));background-size:200% auto;-webkit-background-clip:text;background-clip:text;color:transparent;animation:shine 4s linear infinite}
 .fx .hl .ch{background:inherit;-webkit-background-clip:text;background-clip:text}
@@ -379,7 +379,7 @@ $$('[data-fx=scramble]').forEach(el=>el.dataset.final=el.textContent);
 function scramble(el){const f=el.dataset.final,ch='!<>-_/[]{}=+*^?#ABCDEFX0123456789';let k=0;const n=f.length;
  const it=setInterval(()=>{el.textContent=[...f].map((c,i)=>i<k||c==' '?c:ch[Math.random()*ch.length|0]).join('');k+=Math.max(1,n/28);if(k>=n){el.textContent=f;clearInterval(it)}},35)}
 // reveal observer
-const io=new IntersectionObserver(es=>es.forEach(e=>{if(!e.isIntersecting)return;const t=e.target;t.classList.add('in');if(t.dataset.fx=='scramble'&&!RM)scramble(t);io.unobserve(t)}),{threshold:.12,rootMargin:'0px 0px -40px'});
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(!e.isIntersecting)return;const t=e.target;t.classList.add('in');if(t.dataset.fx=='scramble'&&!RM)scramble(t);io.unobserve(t)}),{threshold:0,rootMargin:'0px 0px -60px'});
 $$('[data-stagger]').forEach(g=>[...g.children].forEach((c,i)=>{c.classList.add('rv');c.style.transitionDelay=(i*.12)+'s'}));
 $$('.rv,.fx,.line,[data-fx=scramble]').forEach(el=>{if(!el.closest('.hero'))io.observe(el)});
 setTimeout(()=>$$('.hero .fx,.hero [data-fx=scramble]').forEach(el=>{el.classList.add('in');if(el.dataset.fx=='scramble'&&!RM)scramble(el)}),200);

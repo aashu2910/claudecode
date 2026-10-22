@@ -11,7 +11,7 @@ $$('[data-fx=scramble]').forEach(el=>el.dataset.final=el.textContent);
 function scramble(el){const f=el.dataset.final,ch='!<>-_/[]{}=+*^?#ABCDEFX0123456789';let k=0;const n=f.length;
  const it=setInterval(()=>{el.textContent=[...f].map((c,i)=>i<k||c==' '?c:ch[Math.random()*ch.length|0]).join('');k+=Math.max(1,n/28);if(k>=n){el.textContent=f;clearInterval(it)}},35)}
 // reveal observer
-const io=new IntersectionObserver(es=>es.forEach(e=>{if(!e.isIntersecting)return;const t=e.target;t.classList.add('in');if(t.dataset.fx=='scramble'&&!RM)scramble(t);io.unobserve(t)}),{threshold:.12,rootMargin:'0px 0px -40px'});
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(!e.isIntersecting)return;const t=e.target;t.classList.add('in');if(t.dataset.fx=='scramble'&&!RM)scramble(t);io.unobserve(t)}),{threshold:0,rootMargin:'0px 0px -60px'});
 $$('[data-stagger]').forEach(g=>[...g.children].forEach((c,i)=>{c.classList.add('rv');c.style.transitionDelay=(i*.12)+'s'}));
 $$('.rv,.fx,.line,[data-fx=scramble]').forEach(el=>{if(!el.closest('.hero'))io.observe(el)});
 setTimeout(()=>$$('.hero .fx,.hero [data-fx=scramble]').forEach(el=>{el.classList.add('in');if(el.dataset.fx=='scramble'&&!RM)scramble(el)}),200);
