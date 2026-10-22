@@ -228,3 +228,36 @@ mk('electronics', name='VoltHub', logo='⚡', emoji='💻', fab='⚡', tagline='
    contact=dict(title='Visit our experience zone', addr='Ground Floor, Tech Square, Ring Road, Your City', hours='Every day · 10 AM – 9:30 PM',
                 form='Get a callback', options=['Looking for', 'Laptop / PC', 'TV / audio', 'Home appliance', 'Mobile / gadgets']),
    foot='Powering homes since 2010 ⚡')
+
+
+def D(hero, strip, features, products, about, stats, steps, reviews, gallery, banner, rv, fx, nav='', order=None, **kw):
+    return dict(hero=hero, strip=strip, features=features, products=products, about=about, stats=stats, steps=steps, reviews=reviews,
+                gallery=gallery, banner=banner, rv=rv, fx=fx, nav=nav,
+                order=order or ['strip', 'features', 'products', 'about', 'stats', 'steps', 'reviews', 'gallery', 'banner'], **kw)
+
+
+SHOPS['bakery'].update(
+    d=D('orbit', 'icons', 'cards', 'menu', 'stack', 'inline', 'circles', 'bigquote', 'polaroid', 'bubbles', 'up', 'wave',
+        order=['strip', 'products', 'features', 'about', 'stats', 'steps', 'gallery', 'reviews', 'banner']),
+    galTitle='Fresh from today\'s oven', galCaps=['Birthday special', 'Morning croissants', 'Cookie jar', 'Pastry counter', 'Fresh loaves', 'Cupcake Friday'])
+SHOPS['shoes'].update(
+    d=D('panel', 'ticker', 'bento', 'carousel', 'reveal', 'rings', 'line', 'deck', 'hscroll', 'spot', 'skew', 'scramble', nav='pill', btnRadius='12px',
+        order=['strip', 'products', 'features', 'gallery', 'about', 'stats', 'reviews', 'steps', 'banner']),
+    ticker=('Built for', ['running', 'the court', 'the street', 'everyday']), galTitle='On the street')
+SHOPS['jewellery'].update(
+    h1='Timeless pieces for [[your forever]] moments.', circle='HALLMARKED • HANDCRAFTED',
+    d=D('mega', 'none', 'accordion', 'spotlight', 'statement', 'inline', 'timeline', 'fade', 'mosaic', 'halves', 'blur', 'mask', btnRadius='4px',
+        order=['products', 'about', 'features', 'stats', 'gallery', 'steps', 'reviews', 'banner']))
+SHOPS['transport'].update(
+    d=D('waves', 'ribbon', 'vline', 'pricing', 'stack', 'none', 'circles', 'wall', 'none', 'spot', 'side', 'drop', nav='pill', btnRadius='10px',
+        order=['strip', 'features', 'products', 'steps', 'about', 'reviews', 'banner']))
+SHOPS['pets'].update(
+    cats=['Dogs', 'Cats', 'Birds', 'Fish', 'Small pets', 'Grooming', 'Vet care', 'Toys'],
+    d=D('bento', 'pills', 'zigzag', 'flip', 'reveal', 'rings', 'line', 'deck', 'polaroid', 'halves', 'spin', 'wave',
+        order=['strip', 'products', 'features', 'stats', 'about', 'gallery', 'steps', 'reviews', 'banner']),
+    galTitle='Our furry regulars', galCaps=['Bruno', 'Misty', 'Coco', 'Kiwi', 'Nemo', 'Peanut'])
+SHOPS['electronics'].update(
+    ticker=('Upgrade your', ['workspace', 'living room', 'kitchen', 'gaming setup']),
+    d=D('ring', 'ticker', 'tabs', 'carousel', 'statement', 'band', 'timeline', 'bigquote', 'hscroll', 'spot', 'flip', 'scramble', nav='pill', btnRadius='14px',
+        order=['strip', 'products', 'features', 'about', 'stats', 'gallery', 'steps', 'reviews', 'banner']),
+    galTitle='Inside the experience zone')
